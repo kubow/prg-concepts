@@ -15,3 +15,9 @@
 - [[ruby]]
 - [[shell-family]]
 
+# General structure for each language
+
+- Language concepts
+- Handling data
+- Addons and wrappers
+- 
