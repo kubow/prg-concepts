@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "063b1c4a6977d352",
+        "id": "d6a7a4ce7488a844",
         "type": "tabs",
         "children": [
           {
-            "id": "328fee79950b2c5c",
+            "id": "160ee5ccf1765400",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Readme.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Readme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Readme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -115,7 +109,7 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": false
               }
             }
           },
@@ -124,29 +118,27 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Readme.md"
-              }
+              "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "328fee79950b2c5c",
+  "active": "160ee5ccf1765400",
   "lastOpenFiles": [
-    "html-css/html-css.md",
-    "Readme.md",
-    "php/php.md",
-    "java-family/java-family.md",
-    "shell-family/shell-family.md",
-    "perl/perl.md",
-    "go/go.md",
-    "c-family/c-family.md",
-    "ruby/ruby.md",
-    "python/python.md"
+    "python/python_imp-dta.md",
+    "python/python_cpt.md",
+    "python/python_imp-dta-sets.md",
+    "python/python_cpt-threads.md",
+    "python/python.md",
+    "python/python_cpt-variables.md",
+    "python/python_imp-web-dev.md",
+    "python/python_imp.md",
+    "python/python_imp-dta-bins.md",
+    "python/python_imp-gui.md"
   ]
 }
