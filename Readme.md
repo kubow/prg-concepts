@@ -3,10 +3,13 @@
 
 
 
+
 # Programming languages
 
 - [[c-family]]
 - [[go]]
+- [[dart]]
+- [[elixir]]
 - [[html-css]]
 - [[java-family]]
 - [[perl]]
@@ -15,9 +18,18 @@
 - [[ruby]]
 - [[shell-family]]
 
+
+## ## Frontend frameworks
+
+
+[Flutter - Beautiful native apps in record time](https://flutter.dev/)
+
+
 # General structure for each language
 
-- Language concepts
-- Handling data
-- Addons and wrappers
+- *Variants (cooperation interlinked) (higler level concept)*
 - 
+- Language concepts (**cpt**)
+- Handling data with editors, IDEs (**edt**)
+- Addons and wrappers - products/implementations (**imp**)
+
