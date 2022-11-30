@@ -16,8 +16,8 @@ jQuery slideshow for a folder [http://www.codeproject.com/Tips/581747/jQuery-Sli
 jQuery slideshow for a folder [http://www.webdeveloper.com/forum/showthread.php?284153-Slideshow-that-automatically-shows-all-images-existing-in-a-given-folder](http://www.webdeveloper.com/forum/showthread.php?284153-Slideshow-that-automatically-shows-all-images-existing-in-a-given-folder)  
 [http://stackoverflow.com/questions/18480550/how-to-load-all-the-images-from-one-of-my-folder-into-my-web-page-using-jquery](http://stackoverflow.com/questions/18480550/how-to-load-all-the-images-from-one-of-my-folder-into-my-web-page-using-jquery)  
   
-Nepodařilo se mi rozjet [http://www.justinwhall.com/directory-jquery-slider/](http://www.justinwhall.com/directory-jquery-slider/)  
-  
+[Directory slider (create presentation from dir content)](http://www.justinwhall.com/directory-jquery-slider/)  
+
 Další slider [https://gist.github.com/aslan144/2047603](https://gist.github.com/aslan144/2047603)  
   
 Browse localfiles [https://stackoverflow.com/questions/15703001/read-json-file-from-localhost-with-javascript](https://stackoverflow.com/questions/15703001/read-json-file-from-localhost-with-javascript)  

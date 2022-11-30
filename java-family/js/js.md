@@ -16,7 +16,9 @@ https://en.wikipedia.org/wiki/JavaScript
 	- Sencha ([wiki](https://en.wikipedia.org/wiki/Ext_JS))
 	- [[js-svelte|Svelte.js]]
 	- [[js-vue|Vue.js]]
-- [[js-charts|Charting libraries]]
+- JS Libraries for specific tasks
+	- [[js-lib-charts]]
+	- [[js-lib-present]]
 
 
 [New User Tutorial](http://www.w3schools.com/js/default.asp) - W3Schools' guide for new Javascript users.  
@@ -57,13 +59,7 @@ Call function every 5 seconds [https://stackoverflow.com/questions/2170923/whats
 Javascript scoping & hoisting [http://www.adequatelygood.com/JavaScript-Scoping-and-Hoisting.html](http://www.adequatelygood.com/JavaScript-Scoping-and-Hoisting.html)
 
 
-## Presentation
 
-  
-[reveal.js - The HTML Presentation Framework (hakim.se)](https://lab.hakim.se/reveal-js-leap/#/1)  
-[How I use reveal.js (elmiko.dev)](https://notes.elmiko.dev/2017/10/08/how-i-use-revealjs.html)  
-[Creating an image slide show (Two parts) (javascriptkit.com)](http://www.javascriptkit.com/howto/show2.shtml)  
-  
 
 ## Time based
 

@@ -1,11 +1,14 @@
-# JavaScript programming concepts
+# Basic JavaScript types
 
 - [[#Arrays]]
 - [[#Error handling]]
 - [[#For Each]]
 - [[#Strings]]
 
+# JavaScript programming concepts
+
 - [[js_cpt-es6|ES6]]
+- 
 
 ## Strings
 

@@ -14,7 +14,7 @@ Google annotated timeseries [https://stackoverflow.com/questions/6783655/alterna
 
 ## Canvas
 
-CanvasJS [http://canvasjs.com/html5-javascript-line-chart/](http://canvasjs.com/html5-javascript-line-chart/)  
+[CanvasJS line chart](http://canvasjs.com/html5-javascript-line-chart/)  
 
 
 ## DOJO

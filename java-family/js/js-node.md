@@ -1,5 +1,6 @@
 # Node.js
 https://en.wikipedia.org/wiki/Node.js
+Cross-platform open-source backend runtime environment (JavaScript based). It executes JavaScript code outside the browser.
 
 Package Managers
 - [[js-node-npm]]
