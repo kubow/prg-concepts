@@ -1,6 +1,6 @@
 # Programming concepts
 
-
+A curated list of links to programming solutions ancd cheatsheets.
 
 
 
@@ -8,7 +8,6 @@
 
 - [[c-family]]
 - [[go]]
-- [[dart]]
 - [[elixir]]
 - [[html-css]]
 - [[java-family]]
@@ -17,6 +16,9 @@
 - [[python]]
 - [[ruby]]
 - [[shell-family]]
+- transpilers
+	- [[babel]]
+	- [[dart]]
 
 
 ## ## Frontend frameworks
