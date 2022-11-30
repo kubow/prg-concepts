@@ -57,3 +57,4 @@ Ironpython stealing colors [http://viziblr.com/news/2010/4/5/ironpython-stealing
 [Using R on Jupyter Notebook - DZone Big Data](https://dzone.com/articles/using-r-on-jupyternbspnotebook)  
   
 [Introduction to presenting with Jupyter with Reveal.js | by Data, Data, Everywhere | Medium](https://medium.com/@Ben_Obe/introduction-to-presenting-with-juypter-with-reveal-js-8e34a07081b2)
+
