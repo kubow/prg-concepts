@@ -4,79 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "c20e0910a7d9e861",
+        "id": "5bfdcdcd21ef58c9",
         "type": "tabs",
         "children": [
           {
-            "id": "e92eacf424a3f428",
+            "id": "74c3f830e763bbb1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "java-family/js-vue.md",
+                "file": "java-family/js/js-redux.md",
                 "mode": "source",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "ee4d58fe6fb8a28b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "java-family/js-vue.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8a742ec1ee8f0ee3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "java-family/js.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1e9688ee90599f67",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "java-family/js-vue.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "362a814f5e34546f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "java-family/js-vue-vuex.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2859c99f9187c5f2",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,9 +49,9 @@
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": false,
+                "matchingCase": true,
                 "explainSearch": false,
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
@@ -126,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 242.5
   },
   "right": {
     "id": "95d478ca9ce99c14",
@@ -142,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "java-family/js/js-redux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "java-family/js/js-redux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "java-family/js/js-redux.md"
+              }
             }
           }
         ],
@@ -187,19 +134,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
-  "active": "2859c99f9187c5f2",
+  "active": "74c3f830e763bbb1",
   "lastOpenFiles": [
-    "java-family/js.md",
-    "java-family/js-vue.md",
-    "java-family/js_cpt-es6.md",
-    "java-family/js-vue-vuetify.md",
-    "java-family/ts.md",
-    "java-family/js-vue-vuex.md",
-    "java-family/js-vue-nuxt.md",
-    "java-family/js_cpt.md",
-    "java-family/js-openui5.md",
-    "java-family/js-node.md"
+    "java-family/js/js-react_cpt-component.md",
+    "java-family/js/js-redux.md",
+    "java-family/js/js-react.md",
+    "java-family/js/js-react_cpt.md",
+    "java-family/js/js-react_cpt-evthand.md",
+    "java-family/js/js-react_cpt-ecosystem.md",
+    "java-family/java-family.md",
+    "java-family/js/js.md",
+    "Readme.md",
+    "java-family/js/js_cpt.md"
   ]
 }
