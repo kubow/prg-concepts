@@ -1,3 +1,4 @@
+# Python network requesting
 
 - [[#API]]
 - [[#BeautifulSoup]]
@@ -20,7 +21,7 @@ Stack Abuse: Asynchronous Python for Web Development [https://stackabuse.com/asy
   
 [Vladimir Iakolev: Extracting popular topics from subreddits](https://nvbn.github.io/2019/01/07/discussed-topics/)  
 
-# API
+## API
 
 [Manage websocket API clients](https://zato.io/blog/posts/manage-websocket-api-clients.html)
 [Spotify API](https://pybit.es/codechallenge53_review.html)
@@ -28,17 +29,19 @@ Stack Abuse: Asynchronous Python for Web Development [https://stackabuse.com/asy
 [Comparison of the Most Useful Text Processing APIs](https://medium.com/activewizards-machine-learning-company/comparison-of-the-most-useful-text-processing-apis-e4b4c1e6626a)
 [FOSSCON 2018: Hacking the Indego Bike Sharing API](https://hackaday.com/2018/08/27/fosscon-2018-hacking-the-indego-bike-sharing-api/)
 
-# BeautifulSoup
+## BeautifulSoup
 
 beautifulsoup4 - parsing html [https://www.crummy.com/software/BeautifulSoup/](https://www.crummy.com/software/BeautifulSoup/)  
 
-# Requests
+## Requests
 
-[Stack Abuse: The Python Requests Module](http://stackabuse.com/the-python-requests-module/)  
-[Requests in python 3](https://www.twilio.com/blog/2016/12/http-requests-in-python-3.html)  
-[Real Python: Python’s Requests Library (Guide)](https://realpython.com/python-requests/)  
+[Stack Abuse: The Python Requests Module](http://stackabuse.com/the-python-requests-module/)
+[Requests in python 3](https://www.twilio.com/blog/2016/12/http-requests-in-python-3.html)
+[Real Python: Python’s Requests Library (Guide)](https://realpython.com/python-requests/) 
+[Python request with POST](https://www.geeksforgeeks.org/python-requests-post-request-with-headers-and-body/)
+[Python request POST with parameters](https://stackoverflow.com/questions/15900338/python-request-post-with-param-data)
 
-# Sockets
+## Sockets
 
 [Codementor: Networking: How To Communicate Between Two Python Programs](https://www.codementor.io/kraftycoder/networking-how-to-communicate-between-two-python-programs-npvlblbjm)  
   
@@ -56,7 +59,7 @@ Real Python: Sending Emails With Python [https://realpython.com/python-send-emai
 Force Archive Websites to Pick up Webpages with This Handy Tool [https://lifehacker.com/force-archive-websites-to-pick-up-webpages-with-this-ha-1825715506](https://lifehacker.com/force-archive-websites-to-pick-up-webpages-with-this-ha-1825715506)
 
 
-# UrlLib
+## UrlLib
 
 urllib3 package [https://urllib3.readthedocs.io/en/latest/advanced-usage.html](https://urllib3.readthedocs.io/en/latest/advanced-usage.html)  
 urllib3 troubleshoot [https://urllib3.readthedocs.io/en/latest/advanced-usage.html](https://urllib3.readthedocs.io/en/latest/advanced-usage.html)  

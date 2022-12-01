@@ -16,7 +16,7 @@
 	- image objects
 	- 
 - [[python_imp-gui|GUIs]]
-- [[python_imp-web-get|Libraries for retrieving web content]]
+- [[python_imp-ntw|Libraries for retrieving web content]]
 - [[python_imp-web-dev|Web development tools]]
 
 ## IronPython
