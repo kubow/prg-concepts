@@ -16,9 +16,13 @@ https://en.wikipedia.org/wiki/JavaScript
 	- Sencha ([wiki](https://en.wikipedia.org/wiki/Ext_JS))
 	- [[js-svelte|Svelte.js]]
 	- [[js-vue|Vue.js]]
+- JS Frontend Tooling
+	- [[js-tool-vite]]
+	- [[js-tool-webpack]]
 - JS Libraries for specific tasks
-	- [[js-lib-charts]]
-	- [[js-lib-present]]
+	- [[js-lib-chart|Charting libraries]]
+	- [[js-lib-game]]
+	- [[js-lib-present|Presentation libraries]]
 
 
 [New User Tutorial](http://www.w3schools.com/js/default.asp) - W3Schools' guide for new Javascript users.  

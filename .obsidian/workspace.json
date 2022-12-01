@@ -4,22 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "5bfdcdcd21ef58c9",
+        "id": "30f18ede388dad91",
         "type": "tabs",
         "children": [
           {
-            "id": "74c3f830e763bbb1",
+            "id": "8832be09cc5cac66",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "java-family/js/js-redux.md",
+                "file": "java-family/js/js_cpt.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0e18b8b78b3d8e25",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "java-family/js/js_cpt.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "59f23e91c42c7fed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "java-family/js/js_cpt-funct.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "java-family/js/js-redux.md",
+                "file": "java-family/js/js_cpt-funct.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "java-family/js/js-redux.md",
+                "file": "java-family/js/js_cpt-funct.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "java-family/js/js-redux.md"
+                "file": "java-family/js/js_cpt-funct.md"
               }
             }
           }
@@ -136,17 +161,17 @@
     "direction": "horizontal",
     "width": 200
   },
-  "active": "74c3f830e763bbb1",
+  "active": "59f23e91c42c7fed",
   "lastOpenFiles": [
-    "java-family/js/js-react_cpt-component.md",
-    "java-family/js/js-redux.md",
-    "java-family/js/js-react.md",
-    "java-family/js/js-react_cpt.md",
-    "java-family/js/js-react_cpt-evthand.md",
-    "java-family/js/js-react_cpt-ecosystem.md",
-    "java-family/java-family.md",
+    "java-family/js/js_cpt-states.md",
+    "java-family/js/js_cpt-class.md",
+    "java-family/js/js_cpt-funct.md",
+    "java-family/js/js_cpt.md",
+    "java-family/js/js_cpt-exp.md",
+    "java-family/js/js_cpt-jsx.md",
+    "java-family/js/js_cpt-types.md",
     "java-family/js/js.md",
-    "Readme.md",
-    "java-family/js/js_cpt.md"
+    "java-family/js/js-react.md",
+    "java-family/ts.md"
   ]
 }
