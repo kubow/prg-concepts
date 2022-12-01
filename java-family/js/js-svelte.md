@@ -22,7 +22,8 @@
 
 ## Practical
 
-  
+[Svelte simple note app](https://medium.com/the-web-tub/making-a-simple-note-app-using-svelte-and-vite-27edfa91a591)
+
 [Build a Svelte JS App: Magic Framework (Svelte 3 Tutorial) - Snipcart](https://snipcart.com/blog/svelte-js-framework-tutorial)  
 [How to build an Unsplash Search App with Svelte 3 (freshman.tech)](https://freshman.tech/unsplash-search/)  
 
@@ -67,7 +68,8 @@ Responsive charts [https://dev.to/richharris/a-new-technique-for-making-responsi
 SvelteJS Fusionchart [https://www.fusioncharts.com/dev/getting-started/sveltejs/your-first-chart-using-sveltejs](https://www.fusioncharts.com/dev/getting-started/sveltejs/your-first-chart-using-sveltejs)  
   
 Svelte authenitcation example [https://www.nielsvandermolen.com/authentication-example-svelte-sapper/](https://www.nielsvandermolen.com/authentication-example-svelte-sapper/)  
-  
+
+[Scelte CORS request](https://stackoverflow.com/questions/72842819/svelte-not-sveltekit-add-cors-allow-origin-in-clients-http-header)
   
   
 Form validate [https://www.nielsvandermolen.com/signup-form-html5-validation-svelte/](https://www.nielsvandermolen.com/signup-form-html5-validation-svelte/)  
