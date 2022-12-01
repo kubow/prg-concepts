@@ -6,6 +6,7 @@ https://en.wikipedia.org/wiki/Java_(programming_language)
 
 
 
+Learn JAVA, JSP and more [http://javalessons.com/](http://javalessons.com/)  
 
 Running from prompt [http://javarevisited.blogspot.cz/2011/11/run-java-program-from-command-prompt.html](http://javarevisited.blogspot.cz/2011/11/run-java-program-from-command-prompt.html)  
   

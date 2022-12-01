@@ -1,5 +1,7 @@
 - [[java|JAVA Programming Language]]
 - [[js|JavaScript]]
+- [[actionscript]]
+- [[ajax|AJAX]]
 - [[kotlin|Kotlin]]
 - [[ts|TypeScript]]
 - 
