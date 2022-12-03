@@ -16,7 +16,10 @@ callback function - original way (callback hell)
 async await syntax  
 
 
+## Exports & Imports
 
+- Default Export (you choose the name)
+- Named Export (name is defined by export)
 
 
 ## For Each

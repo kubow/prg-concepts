@@ -7,6 +7,7 @@ A curated list of links to programming solutions ancd cheatsheets.
 # Programming languages
 
 - [[c-family]]
+- [[cobol]]
 - [[go]]
 - [[elixir]]
 - [[html-css]]
@@ -19,12 +20,6 @@ A curated list of links to programming solutions ancd cheatsheets.
 - transpilers
 	- [[babel]]
 	- [[dart]]
-
-
-## ## Frontend frameworks
-
-
-[Flutter - Beautiful native apps in record time](https://flutter.dev/)
 
 
 # General structure for each language

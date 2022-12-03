@@ -4,47 +4,107 @@
     "type": "split",
     "children": [
       {
-        "id": "30f18ede388dad91",
+        "id": "cb61a9839ab6b47c",
         "type": "tabs",
         "children": [
           {
-            "id": "8832be09cc5cac66",
+            "id": "2530c24571898c4f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "java-family/js/js_cpt.md",
+                "file": "php/php.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "0e18b8b78b3d8e25",
+            "id": "af08baf4c9f8b5c9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "java-family/js/js_cpt.md",
+                "file": "php/php-nette.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "59f23e91c42c7fed",
+            "id": "5823b53c8601478f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "java-family/js/js_cpt-funct.md",
+                "file": "php/php-nette.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e529bc703b9f4616",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "php/php.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ec9178b654cfa81a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "shell-family/shell-family.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6e2026975641419c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "shell-family/bash.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "446733eae8c6d94b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "html-css/html-5.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6d37a8b5fa6dfadd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "html-css/html-5.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -110,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "java-family/js/js_cpt-funct.md",
+                "file": "html-css/html-5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,9 +187,9 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "java-family/js/js_cpt-funct.md",
+                "file": "html-css/html-5.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -150,28 +210,28 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "java-family/js/js_cpt-funct.md"
+                "file": "html-css/html-5.md"
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
     "width": 200
   },
-  "active": "59f23e91c42c7fed",
+  "active": "6d37a8b5fa6dfadd",
   "lastOpenFiles": [
-    "java-family/js/js_cpt-states.md",
-    "java-family/js/js_cpt-class.md",
-    "java-family/js/js_cpt-funct.md",
-    "java-family/js/js_cpt.md",
-    "java-family/js/js_cpt-exp.md",
-    "java-family/js/js_cpt-jsx.md",
-    "java-family/js/js_cpt-types.md",
-    "java-family/js/js.md",
-    "java-family/js/js-react.md",
-    "java-family/ts.md"
+    "html-css/css.md",
+    "html-css/svg.md",
+    "html-css/html-css.md",
+    "html-css/html-5.md",
+    "html-css/html-5-tables.md",
+    "html-css/css-bem.md",
+    "php/php.md",
+    "php/php_cpt.md",
+    "python/python_imp.md",
+    "python/python_cpt-lists_tuples.md"
   ]
 }

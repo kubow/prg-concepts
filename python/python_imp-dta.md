@@ -14,6 +14,12 @@ Yasoob Khalid: Top 14 MOST famous Python libraries & frameworks [https://pythont
 [Itertools in Python 3, By Example – Real Python](https://realpython.com/python-itertools/)  
   
 [Intro to the Python Random Module (stackabuse.com)](https://stackabuse.com/intro-to-the-python-random-module/)  
+
+## Operating System
+
+
+Pathlib [https://storiesinmypocket.com/articles/pathlib-my-new-favorite-module/](https://storiesinmypocket.com/articles/pathlib-my-new-favorite-module/)
+
   
 Hacking Secret Ciphers [https://inventwithpython.com/hacking/](https://inventwithpython.com/hacking/)  
   
@@ -21,11 +27,9 @@ Stack Abuse: Using Regex for Text Manipulation in Python [https://stackabuse.com
   
 Knihovny pro zpracování posloupností [https://www.root.cz/clanky/knihovny-pro-zpracovani-posloupnosti-sekvenci-v-pythonu/?utm_source=rss&utm_medium=text&utm_campaign=rss](https://www.root.cz/clanky/knihovny-pro-zpracovani-posloupnosti-sekvenci-v-pythonu/?utm_source=rss&utm_medium=text&utm_campaign=rss)  
   
-Pathlib [https://storiesinmypocket.com/articles/pathlib-my-new-favorite-module/](https://storiesinmypocket.com/articles/pathlib-my-new-favorite-module/)  
-  
 Tools for Working with Excel and Python [http://www.datasciencecentral.com/xn/detail/6448529:BlogPost:756413](http://www.datasciencecentral.com/xn/detail/6448529:BlogPost:756413)  
   
-Comparison of Top 6 Python NLP Libraries [http://www.datasciencecentral.com/xn/detail/6448529:BlogPost:744625](http://www.datasciencecentral.com/xn/detail/6448529:BlogPost:744625)  
+
   
 Support Vector Machine [https://dusty.phillips.codes/2018/08/15/computer-vision-in-three-lines-of-code-plus-a-bunch-more-lines/](https://dusty.phillips.codes/2018/08/15/computer-vision-in-three-lines-of-code-plus-a-bunch-more-lines/)  
   
