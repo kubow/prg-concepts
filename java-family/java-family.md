@@ -2,6 +2,7 @@
 - [[js|JavaScript]]
 - [[actionscript]]
 - [[ajax|AJAX]]
+- [[flutter]]
 - [[kotlin|Kotlin]]
 - [[ts|TypeScript]]
 - 

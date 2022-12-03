@@ -1,14 +1,14 @@
-# React.js
+# React.js (creator Meta)
 
--   React is library for creating user interfaces.
--   From Facebook, maintained by community and well-known to be fast.
--   Enforces a declarative programming paradigm.
+- React is client-side  library for creating user interfaces.
+- Enforces a declarative programming paradigm.
+- Component focused approach.
 
 ## Main sections
 
 - [[js-react_cpt|React.js programming concepts]]
 - [[js-react_cpt-ecosystem|React.js development ecosystem]]
-- [[js-redux]] for states
+- [[js-redux]] for state maintenance
 
 ## Description
 
@@ -33,6 +33,7 @@
 9. React.js is you agent
 
 
+https://www.w3schools.com/react/react_css.asp
 
 Practice:
 

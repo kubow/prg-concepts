@@ -1,0 +1,1 @@
+[The future's bright… the future's Cobol (root.cz)](https://www.root.cz/clanky/the-future-s-bright-the-future-s-cobol/?utm_source=rss&utm_medium=text&utm_campaign=rss)
