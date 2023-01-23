@@ -31,5 +31,8 @@ PikePDF comparison and code [https://github.com/pikepdf/pikepdf](https://github.
 
 ## XLSX
 
+Erik Marsja: Pandas Excel Tutorial: How to Read and Write Excel files [https://www.marsja.se/pandas-excel-tutorial-how-to-read-and-write-excel-files/](https://www.marsja.se/pandas-excel-tutorial-how-to-read-and-write-excel-files/)
+
+
 [Your Guide to Reading Excel (xlsx) Files in Python (marsja.se)](https://www.marsja.se/your-guide-to-reading-excel-xlsx-files-in-python/)
 
