@@ -4,7 +4,7 @@
 - [[js_cpt-states|Statements and declarations]]
 - [[js_cpt-exp|Expressions and statements]]
 - [[#Fetching content]]
-- [[js_cpt-es6|ES6]]
+- [[js_cpt-es|ES6]]
 - [[js_cpt-jsx|JSX]]
 
 
@@ -27,7 +27,7 @@
 [React Async for Declarative Data Fetching](https://www.digitalocean.com/community/tutorials/using-the-react-async-library-for-declarative-data-fetching)
 
 
-
+[Request specifications (Origin header)](https://fetch.spec.whatwg.org/#origin-header)
   
   
   

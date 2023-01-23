@@ -32,6 +32,12 @@ Dygraph Live Data Visualization [https://thenewstack.io/dygraphs-delivers-javasc
 Dygraph introducing custom plotters [http://blog.dygraphs.com/2012/08/introducing-custom-plotters.html](http://blog.dygraphs.com/2012/08/introducing-custom-plotters.html)  
 Dygraph formatting y-axis [https://github.com/rstudio/dygraphs/issues/80](https://github.com/rstudio/dygraphs/issues/80)  
 
+Dygraph X axis change [https://stackoverflow.com/questions/29667301/dygraphs-default-x-axis-range](https://stackoverflow.com/questions/29667301/dygraphs-default-x-axis-range) 
+
+Dygraph special line styling [http://jsfiddle.net/api/post/jquery/1.4/](http://jsfiddle.net/api/post/jquery/1.4/) 
+
+Dygraph user locale [https://stackoverflow.com/questions/32148482/how-to-format-date-and-time-in-dygraphs-legend-according-to-user-locale](https://stackoverflow.com/questions/32148482/how-to-format-date-and-time-in-dygraphs-legend-according-to-user-locale)
+
 ## Highcharts
 
 Highcharts [http://www.highcharts.com/demo](http://www.highcharts.com/demo)  

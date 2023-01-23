@@ -1,7 +1,7 @@
 
 # React Ecosystem
 
-- [[js_cpt-es6|ES6]], next is ES7
+- [[js_cpt-es|ES6]], next is ES7
 - [[js_cpt-jsx|JSX]]
 - **Webpack** - bundling tool
 - **[[babel|Babel]]** - transpiling tool, translates JSX and ES6 to normal JS
