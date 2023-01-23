@@ -4,107 +4,59 @@
     "type": "split",
     "children": [
       {
-        "id": "cb61a9839ab6b47c",
+        "id": "c0070170f5a35999",
         "type": "tabs",
         "children": [
           {
-            "id": "2530c24571898c4f",
+            "id": "83453bdf885d818c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "php/php.md",
+                "file": "java-family/js/js-react.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "af08baf4c9f8b5c9",
+            "id": "3e23306ec710708b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "php/php-nette.md",
+                "file": "python/python_cpt-variables.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "5823b53c8601478f",
+            "id": "b924ff8438fb4248",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "php/php-nette.md",
+                "file": "algorithm/algorithm.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "e529bc703b9f4616",
+            "id": "cf4cb34ea403efeb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "php/php.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ec9178b654cfa81a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "shell-family/shell-family.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6e2026975641419c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "shell-family/bash.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "446733eae8c6d94b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "html-css/html-5.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6d37a8b5fa6dfadd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "html-css/html-5.md",
+                "file": "java-family/js/js-node-yarn.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -154,7 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 242.5
+    "width": 326.5
   },
   "right": {
     "id": "95d478ca9ce99c14",
@@ -170,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "html-css/html-5.md",
+                "file": "algorithm/algorithm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "html-css/html-5.md",
+                "file": "algorithm/algorithm.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -210,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "html-css/html-5.md"
+                "file": "algorithm/algorithm.md"
               }
             }
           }
@@ -219,19 +171,30 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
-  "active": "6d37a8b5fa6dfadd",
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "b924ff8438fb4248",
   "lastOpenFiles": [
-    "html-css/css.md",
-    "html-css/svg.md",
-    "html-css/html-css.md",
-    "html-css/html-5.md",
-    "html-css/html-5-tables.md",
-    "html-css/css-bem.md",
-    "php/php.md",
-    "php/php_cpt.md",
-    "python/python_imp.md",
-    "python/python_cpt-lists_tuples.md"
+    "python/python_cpt-variables.md",
+    "python/python_cpt.md",
+    "shell-family/sh.md",
+    "java-family/js/js-node-yarn.md",
+    "java-family/js/js-vue-nuxt.md",
+    "java-family/js/js-tool-rollup.md",
+    "java-family/js/js-svelte-transition.md",
+    "java-family/js/js-svelte-store.md",
+    "java-family/js/js-svelte-sapper.md",
+    "java-family/js/js-svelte-kit.md"
   ]
 }

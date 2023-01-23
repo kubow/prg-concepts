@@ -2,7 +2,7 @@
 
 A curated list of links to programming solutions ancd cheatsheets.
 
-
+[Obsidian supported languages](https://prismjs.com/#supported-languages)
 
 # Programming languages
 
@@ -27,6 +27,6 @@ A curated list of links to programming solutions ancd cheatsheets.
 - *Variants (cooperation interlinked) (higler level concept)*
 - 
 - Language concepts (**cpt**)
-- Handling data with editors, IDEs (**edt**)
+- Handling with editors, IDEs (**edt**)
 - Addons and wrappers - products/implementations (**imp**)
 

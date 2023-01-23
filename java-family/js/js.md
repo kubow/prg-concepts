@@ -17,6 +17,7 @@ https://en.wikipedia.org/wiki/JavaScript
 	- [[js-svelte|Svelte.js]]
 	- [[js-vue|Vue.js]]
 - JS Frontend Tooling
+	- [[js-tool-rollup]]
 	- [[js-tool-vite]]
 	- [[js-tool-webpack]]
 - JS Libraries for specific tasks
@@ -27,7 +28,7 @@ https://en.wikipedia.org/wiki/JavaScript
 
 [New User Tutorial](http://www.w3schools.com/js/default.asp) - W3Schools' guide for new Javascript users.  
 [Beginning Javascript](http://www.tizag.com/javascriptT/javascriptsyntax.php) - Tigzag's Javascript introduction.  
-[Javascript Tutorials](http://forum.codecall.net/forum/157-jvscript-tutorials/page__sort_key__views__sort_by__Z-A) - CodeCall's Javascript tutorials.  
+[Javascript Tutorials](http://forum.codecall.net/forum/157-jvscript-tutorials/page__sort_key__views__sort_by__Z-A) - CodeCall's Javascript tutorials
 [Javascript Snow Tutorial](http://forum.codecall.net/topic/36144-javascriptcode-snow/) - Create a snow effect on your webpage  
   
 Javascript code quality Tool [http://www.jslint.com/](http://www.jslint.com/)  
