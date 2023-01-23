@@ -16,6 +16,7 @@ echo RunTime: %date% %Time:~0,2%:%Time:~3,2%:%Time:~6,2%
 [http://www.robvanderwoude.com/battech_math.php](http://www.robvanderwoude.com/battech_math.php)  
   
   
+Automate the Boring Stuff with CMD http://datawanderings.com/2018/07/28/automate-boring-stuff-with-cmd/
   
 Using batch coding - [http://www.microsoft.com/resources/documentation/windows/xp/all/proddocs/en-us/batch.mspx?mfr=true](http://www.microsoft.com/resources/documentation/windows/xp/all/proddocs/en-us/batch.mspx?mfr=true)  
   
