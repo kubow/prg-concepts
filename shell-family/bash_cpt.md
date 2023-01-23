@@ -1,25 +1,21 @@
-
-
-
 ## If-else
 
 ```bash
-if condition  
-then  
-    condition is zero (true - 0) execute all commands up to elif statement  
-    ...  
-elif condition1  
-    condition is zero (true - 0) execute all commands up to elif statement  
-    ...  
-elif condition2  
-    condition is zero (true - 0) execute all commands up to elif statement  
-    ...  
-else  
-    None of the above condition, condition1, condition2 are true - execute all commands up to fi  
-    ...  
+if condition
+then
+    condition is zero (true - 0) execute all commands up to elif statement
+    ...
+elif condition1
+    condition is zero (true - 0) execute all commands up to elif statement
+    ...
+elif condition2
+    condition is zero (true - 0) execute all commands up to elif statement
+    ...
+else
+    None of the above condition, condition1, condition2 are true - execute all commands up to fi
+    ...
 fi
 ```
-
 
 ## for loop
 
@@ -59,4 +55,3 @@ case $variable-name in
 			   command;;
 esac
 ```
-
