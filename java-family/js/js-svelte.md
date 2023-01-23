@@ -8,17 +8,31 @@
 	- [[js-svelte-kit]]
 	- [[js-svelte-sapper]]
 
+### Introduction 
+
 [Begin with Svelte (svelte.dev)](https://svelte.dev/docs)
 [The Svelte Handbook (freecodecamp.org)](https://www.freecodecamp.org/news/the-svelte-handbook/)
 [Learn Svelte 3 in 10 minutes — a glance over the basics | by Yuval Datner | Medium](https://medium.com/@datner/learn-svelte-3-in-10-minutes-a-glance-over-the-basics-f26f84dcd8a5)
-[A Walk on the Svelte Side: Introduction | by Wendell Adriel | Frontend Weekly | Medium](https://medium.com/front-end-weekly/a-walk-on-the-svelte-side-introduction-f781fb6308f0)  
+[A Walk on the Svelte Side: Introduction | by Wendell Adriel | Frontend Weekly | Medium](https://medium.com/front-end-weekly/a-walk-on-the-svelte-side-introduction-f781fb6308f0)
+[Build a Responsive Website using Svelte in 30 minutes. - DEV Community 👩‍💻👨‍💻](https://dev.to/karkranikhil/build-responsive-website-using-svelte-in-30-minutes-l9)
+[Web Development Simplified with Svelte | Object Computing, Inc.](https://objectcomputing.com/resources/publications/sett/july-2019-web-dev-simplified-with-svelte)
+
 [Svelte CheatSheet (Crash Course) (tellmehow.co)](http://www.tellmehow.co/svelte-cheatsheet-crash-course/)
-[Getting Acquainted With Svelte, the New Framework on the Block | CSS-Tricks - CSS-Tricks](https://css-tricks.com/getting-acquainted-with-svelte-the-new-framework-on-the-block/)
-[What I Like About Writing Styles with Svelte | CSS-Tricks - CSS-Tricks](https://css-tricks.com/what-i-like-about-writing-styles-with-svelte/)
+[Getting Acquainted With Svelte, the New Framework on the Block | CSS-Tricks](https://css-tricks.com/getting-acquainted-with-svelte-the-new-framework-on-the-block/)
+[What I Like About Writing Styles with Svelte | CSS-Tricks](https://css-tricks.com/what-i-like-about-writing-styles-with-svelte/)
+
+- [Actions / Adding parameters • Svelte Tutorial](https://svelte.dev/tutorial/adding-parameters-to-actions)  
+- [Bindings / Group inputs • Svelte Tutorial](https://svelte.dev/tutorial/group-inputs)
+- 
 
 
-[Actions / Adding parameters • Svelte Tutorial](https://svelte.dev/tutorial/adding-parameters-to-actions)  
-[Bindings / Group inputs • Svelte Tutorial](https://svelte.dev/tutorial/group-inputs)
+[javascript - How to debounce / throttle with Svelte? - Stack Overflow](https://stackoverflow.com/questions/46104897/how-to-debounce-throttle-with-svelte)
+
+[Svelte component async loading in version 3 - Stack Overflow](https://stackoverflow.com/questions/56010077/svelte-component-async-loading-in-version-3)
+
+Pipeable counter [https://svelte.dev/repl/df4cbb0aaac44b769a3cbeed0cb0af59?version=3.9.1](https://svelte.dev/repl/df4cbb0aaac44b769a3cbeed0cb0af59?version=3.9.1)
+
+
 
 ## Practical
 
@@ -36,6 +50,11 @@ React and Svelte differences [https://medium.com/javascript-in-plain-english/i-c
   
 Svelte vstudio addon [https://marketplace.visualstudio.com/items?itemName=JamesBirtles.svelte-vscode](https://marketplace.visualstudio.com/items?itemName=JamesBirtles.svelte-vscode)  
   
+### Special effects
+
+[javascript - How to debounce / throttle with Svelte? - Stack Overflow](https://stackoverflow.com/questions/46104897/how-to-debounce-throttle-with-svelte)
+
+
 
 ## Components
 
@@ -69,7 +88,7 @@ SvelteJS Fusionchart [https://www.fusioncharts.com/dev/getting-started/sveltejs/
   
 Svelte authenitcation example [https://www.nielsvandermolen.com/authentication-example-svelte-sapper/](https://www.nielsvandermolen.com/authentication-example-svelte-sapper/)  
 
-[Scelte CORS request](https://stackoverflow.com/questions/72842819/svelte-not-sveltekit-add-cors-allow-origin-in-clients-http-header)
+[Svelte CORS request](https://stackoverflow.com/questions/72842819/svelte-not-sveltekit-add-cors-allow-origin-in-clients-http-header)
   
   
 Form validate [https://www.nielsvandermolen.com/signup-form-html5-validation-svelte/](https://www.nielsvandermolen.com/signup-form-html5-validation-svelte/)  

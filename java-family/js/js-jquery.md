@@ -23,3 +23,7 @@ Další slider [https://gist.github.com/aslan144/2047603](https://gist.github.co
 Browse localfiles [https://stackoverflow.com/questions/15703001/read-json-file-from-localhost-with-javascript](https://stackoverflow.com/questions/15703001/read-json-file-from-localhost-with-javascript)  
   
 jQuery Cycle plugin [http://jquery.malsup.com/cycle/](http://jquery.malsup.com/cycle/)
+
+### getElement
+
+getElementbyID problem [http://net-informations.com/js/iq/error.htm](http://net-informations.com/js/iq/error.htm)
