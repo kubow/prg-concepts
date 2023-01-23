@@ -16,7 +16,7 @@ List of GUI libraries:
 - PyjamasDesktop
 - [[#PyQT]]
 - PySide
-- [[python_imp-gui-tk|TkInter]]
+- [[python-tk|TkInter]]
 - [[#wXPython]]
 - Wax
   

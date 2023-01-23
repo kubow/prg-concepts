@@ -19,10 +19,15 @@ Slicing strings [http://stackoverflow.com/questions/509211/explain-pythons-slice
 Compare Strings [http://stackoverflow.com/questions/10775029/finding-differences-between-strings](http://stackoverflow.com/questions/10775029/finding-differences-between-strings)  
 [http://pymotw.com/2/difflib/](http://pymotw.com/2/difflib/)  
 Create long multiline string [https://stackoverflow.com/questions/10660435/pythonic-way-to-create-a-long-multi-line-string](https://stackoverflow.com/questions/10660435/pythonic-way-to-create-a-long-multi-line-string)  
-Split strings [https://www.hacksparrow.com/python-split-string-method-and-examples.html](https://www.hacksparrow.com/python-split-string-method-and-examples.html)  
-Bytes objects to strings [https://stackoverflow.com/questions/606191/convert-bytes-to-a-string](https://stackoverflow.com/questions/606191/convert-bytes-to-a-string)  
+Split strings [https://www.hacksparrow.com/python-split-string-method-and-examples.html](https://www.hacksparrow.com/python-split-string-method-and-examples.html) 
+[Bytes object to strings](https://stackoverflow.com/questions/606191/convert-bytes-to-a-string)  
 Reuven Lerner: Avoiding Windows backslash problems with Python’s raw strings [https://blog.lerner.co.il/avoiding-windows-backslash-problems-with-pythons-raw-strings/](https://blog.lerner.co.il/avoiding-windows-backslash-problems-with-pythons-raw-strings/)  
 Real Python: Python 3's f-Strings: An Improved String Formatting Syntax (Guide) [https://realpython.com/python-f-strings/](https://realpython.com/python-f-strings/)  
+
+[python - Trying to count words in a string - Stack Overflow](https://stackoverflow.com/questions/17507876/trying-to-count-words-in-a-string)
+
+[Faster String Matching Using Fuzzy Wuzzy and Spark/Databricks | by Prashant Singh | Medium](https://medium.com/@prashantsingh2026/faster-string-matching-using-fuzzy-wuzzy-and-spark-databricks-8dc589635151)
+
 
 ### Unicode
 
@@ -54,3 +59,10 @@ Programiz: Python timestamp to datetime and vice-versa [https://www.programiz.co
 Programiz: Python time Module [https://www.programiz.com/python-programming/time](https://www.programiz.com/python-programming/time)  
   
 [python - How can i check if there is a global or local variable - Stack Overflow](https://stackoverflow.com/questions/37512712/how-can-i-check-if-there-is-a-global-or-local-variable#37512745)
+
+
+
+### Arrays
+
+[Arrays Indexed From One](http://enchantia.com/graphapp/doc/tech/arrays1.html)
+

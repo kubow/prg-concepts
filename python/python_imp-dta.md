@@ -1,9 +1,19 @@
 # Work with data 
 
-- [[python_imp-dta-bins]]
-- [[python_imp-dta-flats]]
-- [[python_imp-dta-imgs]]
-- [[python_imp-dta-sets]]
+- [[#Operating System|Orchestrate Operating System]]
+- Data formats
+	- [[python_imp-dta-bins]]
+	- [[python_imp-dta-flats]]
+	- [[python_imp-dta-imgs]]
+	- [[python_imp-dta-sets]]
+- Data libraries
+	- [[python-numpy]]
+	- [[python-pandas]]
+	- [[python-scipy]]
+- Data visualization libraries
+	- [[python-matplotlib]]
+	- [[python-plotly]]
+	- 
 
 How to write less terrible code with Jupyter Notebook [https://godatadriven.com/blog/write-less-terrible-code-with-jupyter-notebook/](https://godatadriven.com/blog/write-less-terrible-code-with-jupyter-notebook/)  
   
@@ -27,7 +37,6 @@ Stack Abuse: Using Regex for Text Manipulation in Python [https://stackabuse.com
   
 Knihovny pro zpracování posloupností [https://www.root.cz/clanky/knihovny-pro-zpracovani-posloupnosti-sekvenci-v-pythonu/?utm_source=rss&utm_medium=text&utm_campaign=rss](https://www.root.cz/clanky/knihovny-pro-zpracovani-posloupnosti-sekvenci-v-pythonu/?utm_source=rss&utm_medium=text&utm_campaign=rss)  
   
-Tools for Working with Excel and Python [http://www.datasciencecentral.com/xn/detail/6448529:BlogPost:756413](http://www.datasciencecentral.com/xn/detail/6448529:BlogPost:756413)  
   
 
   
