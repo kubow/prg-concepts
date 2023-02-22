@@ -4,59 +4,69 @@
     "type": "split",
     "children": [
       {
-        "id": "c0070170f5a35999",
+        "id": "8316f2e39a331d9a",
         "type": "tabs",
         "children": [
           {
-            "id": "83453bdf885d818c",
+            "id": "a40b3dcc127fc1d2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "python/python_imp-astro.md"
+              }
+            }
+          },
+          {
+            "id": "9b5febdf68f2f4d4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "java-family/js/js-react.md",
+                "file": "java-family/js/js_imp-present.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "3e23306ec710708b",
+            "id": "6e39ad363a035c4d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "python/python_cpt-variables.md",
+                "file": "java-family/js/js_imp-astro.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "b924ff8438fb4248",
+            "id": "c57028d810c708ea",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "algorithm/algorithm.md",
+                "file": "python/python_imp-astro.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "cf4cb34ea403efeb",
+            "id": "488502abb2f13ed3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "java-family/js/js-node-yarn.md",
+                "file": "python/python_imp-astro.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -85,7 +95,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "chart",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -122,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "algorithm/algorithm.md",
+                "file": "python/python_imp-astro.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "algorithm/algorithm.md",
+                "file": "python/python_imp-astro.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -162,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "algorithm/algorithm.md"
+                "file": "python/python_imp-astro.md"
               }
             }
           }
@@ -184,17 +194,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b924ff8438fb4248",
+  "active": "488502abb2f13ed3",
   "lastOpenFiles": [
-    "python/python_cpt-variables.md",
-    "python/python_cpt.md",
-    "shell-family/sh.md",
-    "java-family/js/js-node-yarn.md",
-    "java-family/js/js-vue-nuxt.md",
-    "java-family/js/js-tool-rollup.md",
-    "java-family/js/js-svelte-transition.md",
-    "java-family/js/js-svelte-store.md",
-    "java-family/js/js-svelte-sapper.md",
-    "java-family/js/js-svelte-kit.md"
+    "python/python_cpt-funct.md",
+    "python/python_cpt-class.md",
+    "python/python_cpt-conds.md",
+    "java-family/js/js_imp-animation.md",
+    "python/python_imp-astro.md",
+    "java-family/js/js_imp-astro.md",
+    "java-family/js/js_imp-present.md",
+    "java-family/js/js_imp-chart.md",
+    "python/python_imp-dta.md",
+    "python/python_imp-gui.md"
   ]
 }

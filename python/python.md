@@ -27,6 +27,7 @@ Stack Abuse: Course Review: Master the Python Interview [https://stackabuse.com/
 - [Dive Into Python](http://diveintopython.org/), by Mark Pilgrim
 
 Bashing the bash (replace with python) [https://medium.com/capital-one-tech/bashing-the-bash-replacing-shell-scripts-with-python-d8d201bc0989](https://medium.com/capital-one-tech/bashing-the-bash-replacing-shell-scripts-with-python-d8d201bc0989)
+[Can You Charge for Open-Source Software? Making Money from Open-Source Projects](https://www.pythonguis.com/faq/charge-for-open-source-software/)
 
 ## python online
 
