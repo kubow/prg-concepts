@@ -1,17 +1,24 @@
-Write better python functions [https://jeffknupp.com/blog/2018/10/11/write-better-python-functions//](https://jeffknupp.com/blog/2018/10/11/write-better-python-functions//)  
-  
-Introduction to Functional Programming in Python [https://www.dataquest.io/blog/introduction-functional-programming-python/](https://www.dataquest.io/blog/introduction-functional-programming-python/)  
-  
-Range function guide [https://realpython.com/python-range/](https://realpython.com/python-range/)  
-  
-Bhishan Bhandari: Python map() built-in [http://feedproxy.google.com/~r/TheTaraNights/~3/2-Jjz6X0AH0/](http://feedproxy.google.com/~r/TheTaraNights/~3/2-Jjz6X0AH0/)  
-  
+[Python Functions - GeeksforGeeks](https://www.geeksforgeeks.org/python-functions/?ref=lbp)
+[Write Better Python Functions](https://jeffknupp.com/blog/2018/10/11/write-better-python-functions//)
+
 divmod (division and modulus) [http://love-python.blogspot.com/2018/10/divmod-division-and-modulus-together-in.html](http://love-python.blogspot.com/2018/10/divmod-division-and-modulus-together-in.html)  
   
 random [https://realpython.com/python-random/](https://realpython.com/python-random/)  
-  
-Bill Ward / AdminTome: Easy Python Enumerate() Function Tutorial [http://www.admintome.com/blog/easy-python-enumerate-function-tutorial/](http://www.admintome.com/blog/easy-python-enumerate-function-tutorial/)  
-  
-Dataquest: Python Generators Tutorial [https://www.dataquest.io/blog/python-generators-tutorial/](https://www.dataquest.io/blog/python-generators-tutorial/)  
-  
-Stack Abuse: Python Nested Functions [https://stackabuse.com/python-nested-functions/](https://stackabuse.com/python-nested-functions/)
+
+[Python Nested Functions](https://stackabuse.com/python-nested-functions/)
+
+Bill Ward / AdminTome: Easy Python Enumerate() Function Tutorial [http://www.admintome.com/blog/easy-python-enumerate-function-tutorial/](http://www.admintome.com/blog/easy-python-enumerate-function-tutorial/)
+## Functional programming
+
+[Roadmap to Functional Programming | Codementor](https://www.codementor.io/@nimeshneema/roadmap-to-functional-programming-21ly6gxjhp)
+[Functional Programming explained... | Codementor](https://www.codementor.io/@nimeshneema/functional-programming-explained-21kv7pa8yt)
+
+## Generators
+
+[Generators - Python Wiki](https://wiki.python.org/moin/Generators)
+[Generators in Python - GeeksforGeeks](https://www.geeksforgeeks.org/generators-in-python/)
+[Python Generators – Dataquest](https://www.dataquest.io/blog/python-generators-tutorial/)
+[A Common Misunderstanding About Python Generators](https://jeffknupp.com/blog/2018/06/04/a-common-misunderstanding-about-python-generators/)
+[Python Generators (With Examples)](https://www.programiz.com/python-programming/generator)
+
+

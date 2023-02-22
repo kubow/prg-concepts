@@ -1,13 +1,14 @@
-Classes & Object Oriented [https://jeffknupp.com/blog/2014/06/18/improve-your-python-python-classes-and-object-oriented-programming/](https://jeffknupp.com/blog/2014/06/18/improve-your-python-python-classes-and-object-oriented-programming/)  
-  
-Differences in class types [https://stackoverflow.com/questions/54867/what-is-the-difference-between-old-style-and-new-style-classes-in-python?rq=1](https://stackoverflow.com/questions/54867/what-is-the-difference-between-old-style-and-new-style-classes-in-python?rq=1)  
-  
-OOP [https://stackabuse.com/object-oriented-programming-in-python/](https://stackabuse.com/object-oriented-programming-in-python/)  
-  
-Real Python: Object-Oriented Programming (OOP) in Python 3 [https://realpython.com/blog/python/python3-object-oriented-programming/](https://realpython.com/blog/python/python3-object-oriented-programming/)  
-  
-Jeff Knupp: A Common Misunderstanding About Python Generators [https://jeffknupp.com/blog/2018/06/04/a-common-misunderstanding-about-python-generators/](https://jeffknupp.com/blog/2018/06/04/a-common-misunderstanding-about-python-generators/)  
-  
+[Python Basics: Building Systems With Classes – Real Python](https://realpython.com/courses/python-basics-class/)
+[Object-Oriented Programming (OOP) in Python 3 – Real Python](https://realpython.com/python3-object-oriented-programming/)
+[Object Oriented Programming in Python](https://stackabuse.com/object-oriented-programming-in-python/)
+
+
+[Improve Your Python: Python Classes and Object Oriented Programming](https://jeffknupp.com/blog/2014/06/18/improve-your-python-python-classes-and-object-oriented-programming/)
+
+[What is the difference between old style and new style classes in Python? - Stack Overflow](https://stackoverflow.com/questions/54867/what-is-the-difference-between-old-style-and-new-style-classes-in-python?rq=1)
+
+[Misunderstanding Python Class Attributes](https://www.bruceeckel.com/2022/05/11/misunderstanding-python-class-attributes/)
+
 The Digital Cat: Python 3 OOP Part 1 - Objects and types [http://blog.thedigitalcatonline.com/blog/2014/08/20/python-3-oop-part-1-objects-and-types/](http://blog.thedigitalcatonline.com/blog/2014/08/20/python-3-oop-part-1-objects-and-types/)  
   
 Real Python: The Ultimate Guide to Data Classes in Python 3.7 [https://realpython.com/python-data-classes/](https://realpython.com/python-data-classes/)  

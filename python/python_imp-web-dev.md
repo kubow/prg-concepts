@@ -14,6 +14,8 @@ Comparison [http://www.infoworld.com/article/2622836/application-development/pil
 Choosing from Popular Python Web Frameworks [http://www.datasciencecentral.com/xn/detail/6448529:BlogPost:813076](http://www.datasciencecentral.com/xn/detail/6448529:BlogPost:813076)  
 Web Application and frameworks [http://docs.python-guide.org/en/latest/scenarios/web/](http://docs.python-guide.org/en/latest/scenarios/web/)  
 
+[Django vs. Flask in 2023: Which Framework to Choose | TestDriven.io](https://testdriven.io/blog/django-vs-flask/)
+
 ---
 
 ## built-in python
@@ -32,7 +34,11 @@ Python based CMS [http://www.dreamcss.com/2015/11/python-based-cms.html](http://
 [https://tutorial.djangogirls.org/cs/](https://tutorial.djangogirls.org/cs/)  
 Djangostars: Top Seven Apps Built With Python [https://djangostars.com/blog/top-seven-apps-built-python/](https://djangostars.com/blog/top-seven-apps-built-python/)  
 Simple is Better Than Complex: How to Integrate Highcharts.js with Django [https://simpleisbetterthancomplex.com/tutorial/2018/04/03/how-to-integrate-highcharts-js-with-django.html](https://simpleisbetterthancomplex.com/tutorial/2018/04/03/how-to-integrate-highcharts-js-with-django.html)  
-  
+[How to create sitemap of Django website - https://pythoncircle.com](https://pythoncircle.com/post/686/how-to-create-sitemap-of-django-website/)
+[Django Examples: Top 18 Django Websites](https://www.stxnext.com/blog/django-websites-examples/)
+
+[How to host Django application on DigitalOcean server using Gunicorn, Supervisor, and NGINX - https://pythoncircle.com](https://pythoncircle.com/post/781/how-to-host-django-application-on-digitalocean-server-using-gunicorn-supervisor-and-nginx/)
+[Creating a bar chart in Django Application - https://pythoncircle.com](https://pythoncircle.com/post/779/creating-a-bar-chart-in-django-application/)
 
 ## Flask
 
@@ -45,6 +51,7 @@ Flask building Webservices [https://scanlibs.com/flask-building-python-web-servi
 Stack Abuse: Building a Todo App with Flask in Python [https://stackabuse.com/building-a-todo-app-with-flask-in-python/](https://stackabuse.com/building-a-todo-app-with-flask-in-python/)  
 Stack Abuse: Single Page Apps with Vue.js and Flask: Deployment [http://stackabuse.com/single-page-apps-with-vue-js-and-flask-deployment/](http://stackabuse.com/single-page-apps-with-vue-js-and-flask-deployment/)
 
+[Build a JavaScript Front End for a Flask API – Real Python](https://realpython.com/flask-javascript-frontend-for-rest-api/)
 
 ## pyjs
 

@@ -1,5 +1,6 @@
 - [[#Strings]]
 - [[#Numbers]]
+- [[#Dates]]
 - [[#Comments]]
 - [[#User Input]]
 
@@ -45,9 +46,17 @@ sys.stdout.encoding # to print current encoding
 
 
 ## Numbers  
+
+[The problem with float32: you only get 16 million values](https://pythonspeed.com/articles/float64-float32-precision/)
+[Linear Algebra in Python: Matrix Inverses and Least Squares – Real Python](https://realpython.com/python-linear-algebra/)
   
 ## Comments  
-  
+
+## Dates
+
+[Convert Epoch to Datetime in Python - PythonForBeginners.com](https://www.pythonforbeginners.com/basics/convert-epoch-to-datetime-in-python)
+
+
 ## User Input  
   
 Stack Abuse: How to Format Dates in Python [https://stackabuse.com/how-to-format-dates-in-python/](https://stackabuse.com/how-to-format-dates-in-python/)  
@@ -64,5 +73,4 @@ Programiz: Python time Module [https://www.programiz.com/python-programming/time
 
 ### Arrays
 
-[Arrays Indexed From One](http://enchantia.com/graphapp/doc/tech/arrays1.html)
 

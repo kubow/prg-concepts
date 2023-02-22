@@ -19,6 +19,7 @@ listing directory [http://stackoverflow.com/questions/3207219/how-to-list-all-fi
 [Reading and Writing Files in Python](https://www.pythoncentral.io/reading-and-writing-to-files-in-python/?PageSpeed=noscript)
 
 [Stack Abuse: How to Create, Move, and Delete Files in Python/](https://stackabuse.com/how-to-create-move-and-delete-files-in-python-2/)  
+[Reading a CSV file in Python - Python Morsels](https://www.pythonmorsels.com/csv-reading/)
 
 ### os
 
@@ -87,15 +88,20 @@ DictReader(StringIO(csv_content), delimiter='\t', quoting=csv.QUOTE_NONE)
 
 ```
 
-## JSON
+## JSON / YAML
   
-Python JSON [https://realpython.com/python-json/](https://realpython.com/python-json/)  
-JSON array [https://stackoverflow.com/questions/26766840/comma-separator-between-json-objects-with-json-dump](https://stackoverflow.com/questions/26766840/comma-separator-between-json-objects-with-json-dump)  
-Peter Bengtsson: How to JSON schema validate 10x (or 100x) faster in Python [https://www.peterbe.com/plog/jsonschema-validate-10x-faster-in-python](https://www.peterbe.com/plog/jsonschema-validate-10x-faster-in-python)  
-Programiz: Python JSON [https://www.programiz.com/python-programming/json](https://www.programiz.com/python-programming/json)  
+[json — JSON encoder and decoder — Python 3.11.2 documentation](https://docs.python.org/3/library/json.html)
+[Working With JSON Data in Python – Real Python](https://realpython.com/python-json/)
+[Python JSON: Read, Write, Parse JSON (With Examples)](https://www.programiz.com/python-programming/json)
+[Comma separator between JSON objects with json.dump - Stack Overflow](https://stackoverflow.com/questions/26766840/comma-separator-between-json-objects-with-json-dump)
+[How to JSON schema validate 10x (or 100x) faster in Python - Peterbe.com](https://www.peterbe.com/plog/jsonschema-validate-10x-faster-in-python)
 Moshe Zadka: Checking in JSON [https://orbifold.xyz/check-in-json.html](https://orbifold.xyz/check-in-json.html)  
-[json — JSON encoder and decoder — Python 3.10.2 documentation](https://docs.python.org/3/library/json.html)
 
+Converting:
+[Load JSON into a Python Dictionary - PythonForBeginners.com](https://www.pythonforbeginners.com/basics/load-json-into-a-python-dictionary)
+[Convert YAML to JSON in Python - PythonForBeginners.com](https://www.pythonforbeginners.com/basics/convert-yaml-to-json-in-python)
+[Convert JSON to YAML in Python - PythonForBeginners.com](https://www.pythonforbeginners.com/basics/convert-json-to-yaml-in-python)
+[Convert Python Dictionary to YAML - PythonForBeginners.com](https://www.pythonforbeginners.com/basics/convert-python-dictionary-to-yaml)
 
 ## pandas.read_csv
 

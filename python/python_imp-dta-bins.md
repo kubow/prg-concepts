@@ -2,6 +2,8 @@
 - [[#SQLite]]
 - [[#XLSX]]
 
+[Operace s daty uloženými v binárních souborech v knihovnách NumPy a Pandas - Root.cz](https://www.root.cz/clanky/operace-s-daty-ulozenymi-v-binarnich-souborech-v-knihovnach-numpy-a-pandas/)
+
 
 ##  PDF
 
