@@ -7,6 +7,7 @@
 - Windows based
 	- [[batch]]
 	- [[powershell]]
+	- [[vb]]
 
 
 ## Line endings problem

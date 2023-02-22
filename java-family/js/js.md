@@ -17,13 +17,13 @@ https://en.wikipedia.org/wiki/JavaScript
 	- [[js-svelte|Svelte.js]]
 	- [[js-vue|Vue.js]]
 - JS Frontend Tooling
-	- [[js-tool-rollup]]
-	- [[js-tool-vite]]
-	- [[js-tool-webpack]]
+	- [[js_edt-rollup]]
+	- [[js_edt-vite]]
+	- [[js_edt-webpack]]
 - JS Libraries for specific tasks
-	- [[js-lib-chart|Charting libraries]]
-	- [[js-lib-game]]
-	- [[js-lib-present|Presentation libraries]]
+	- [[js_imp-chart|Charting libraries]]
+	- [[js_imp-game]]
+	- [[js_imp-present|Presentation libraries]]
 
 
 [New User Tutorial](http://www.w3schools.com/js/default.asp) - W3Schools' guide for new Javascript users.  
