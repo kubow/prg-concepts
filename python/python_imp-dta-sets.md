@@ -21,6 +21,8 @@ Matlab replacement [https://vnoel.wordpress.com/2008/05/03/bye-matlab-hello-pyth
 
 Bill Ward / AdminTome: Big Data Python: 3 Big Data Analytics Tools [http://www.admintome.com/blog/big-data-python-3-big-data-analytics-tools/](http://www.admintome.com/blog/big-data-python-3-big-data-analytics-tools/)
 
+[Using PyCharm to Read Data From a MySQL DataBase Into pandas | The PyCharm Blog](https://blog.jetbrains.com/pycharm/2023/02/using-pycharm-to-read-data-from-a-mysql-database-into-pandas/)
+[Building a medallion style delta lake with Databricks by Glenn Franxman at HackerMojo.com](http://hackermojo.com/mt-static/archives/2023/02/databricks-medallion-deltalake.html)
 
 
 ## numpy

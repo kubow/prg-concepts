@@ -4,19 +4,23 @@
 - Data formats
 	- [[python_imp-dta-bins]]
 	- [[python_imp-dta-flats]]
+	- [[python_imp-dta-geo]]
 	- [[python_imp-dta-imgs]]
 	- [[python_imp-dta-sets]]
-- Data libraries
+- Data managing libraries
 	- [[python-numpy]]
 	- [[python-pandas]]
+	- [[python-polars]]
 	- [[python-scipy]]
 - Data visualization libraries
 	- [[python-matplotlib]]
 	- [[python-plotly]]
-	- 
+	- [The Dygraphs Blog: PyDyGraphs, a dygraphs plotting module for IPython Notebooks](http://blog.dygraphs.com/2014/09/pydygraphs-dygraphs-plotting-module-for.html)
 
-How to write less terrible code with Jupyter Notebook [https://godatadriven.com/blog/write-less-terrible-code-with-jupyter-notebook/](https://godatadriven.com/blog/write-less-terrible-code-with-jupyter-notebook/)  
-  
+[Cruising through complex data — Sedimental](https://sedimental.org/cruising_through_data.html)
+
+[Multi-Region Python Applications | TestDriven.io](https://testdriven.io/blog/python-multi-region/)
+
 50 Most Popular Python Projects in 2018 [https://boostlog.io/@bily809/50-most-popular-python-projects-in-2018-5aea8e1c47018500491f4361](https://boostlog.io/@bily809/50-most-popular-python-projects-in-2018-5aea8e1c47018500491f4361)  
   
 Yasoob Khalid: Top 14 MOST famous Python libraries & frameworks [https://pythontips.com/2018/06/03/top-14-most-famous-python-libraries-frameworks/](https://pythontips.com/2018/06/03/top-14-most-famous-python-libraries-frameworks/)  

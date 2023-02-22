@@ -15,7 +15,7 @@ List of GUI libraries:
 - PyGTK
 - PyjamasDesktop
 - [[#PyQT]]
-- PySide
+- [[#PySide]]
 - [[python-tk|TkInter]]
 - [[#wXPython]]
 - Wax
@@ -69,6 +69,8 @@ Kivy not detecting KV file in directory problem [https://stackoverflow.com/quest
 
 # PyQT
 
+[Create Python GUIs with PyQt5 — Simple GUIs to full apps](https://www.pythonguis.com/pyqt5/)
+[Create Python GUIs with PyQt6 — Simple GUIs to full apps](https://www.pythonguis.com/pyqt6/)
   
 Martin Fitzpatrick: Raindar — Desktop daily weather, forecast app in PyQt [https://replrebl.com/article/desktop-weather-app-pyqt5-python/](https://replrebl.com/article/desktop-weather-app-pyqt5-python/)  
   
@@ -84,6 +86,12 @@ Catalin George Festila: Python Qt5 - default icons with QStyle. [http://python-c
   
 Catalin George Festila: Python Qt5 - QCalendarWidget example. [http://python-catalin.blogspot.com/2018/11/python-qt5-qcalendarwidget-example.html](http://python-catalin.blogspot.com/2018/11/python-qt5-qcalendarwidget-example.html)
 
+[PyQt QCheckBox Widget — Add toggleable Config & Preferences checkbox options](https://www.pythonguis.com/docs/qcheckbox/)
+
+# PySide
+
+[Create Python GUIs with PySide2 — Simple GUIs to full apps](https://www.pythonguis.com/pyside2/)
+[Create Python GUIs with PySide6 — Simple GUIs to full apps](https://www.pythonguis.com/pyside6/)
 
 
 # wXPython
