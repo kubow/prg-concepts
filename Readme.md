@@ -6,6 +6,7 @@ A curated list of links to programming solutions and languages.
 
 - [[algorithm]]
 - [[control]]
+- [[dev_concepts]]
 - [[serve]]
 - [[virtualization]]
 

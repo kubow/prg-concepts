@@ -1,6 +1,7 @@
 - [[php_cpt|PHP Concepts]]
 - PHP Tools and Frameworks
 	- [[php-laravel]]
+	- [[php-myadmin]] - MySQL connector
 	- [[php-nette]]
 	- [[php-wordpress]]
 

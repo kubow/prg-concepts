@@ -4,69 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "8316f2e39a331d9a",
+        "id": "33aaeb74e34b9a23",
         "type": "tabs",
         "children": [
           {
-            "id": "a40b3dcc127fc1d2",
+            "id": "3c5231822d07aecf",
             "type": "leaf",
             "state": {
-              "type": "outline",
-              "state": {
-                "file": "python/python_imp-astro.md"
-              }
-            }
-          },
-          {
-            "id": "9b5febdf68f2f4d4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "java-family/js/js_imp-present.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6e39ad363a035c4d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "java-family/js/js_imp-astro.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c57028d810c708ea",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "python/python_imp-astro.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "488502abb2f13ed3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "python/python_imp-astro.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -132,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "python/python_imp-astro.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "python/python_imp-astro.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -171,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "python/python_imp-astro.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -194,15 +139,27 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "488502abb2f13ed3",
+  "active": "3c5231822d07aecf",
   "lastOpenFiles": [
+    "concepts/algorithm.md",
+    "python/python_cpt.md",
+    "python/python.md",
+    "python/python_cpt-threads.md",
+    "Readme.md",
+    "concepts/dev_concepts.md",
+    "python/python_imp.md",
+    "java-family/js/js_imp-present.md",
+    "java-family/js/js_imp-astro.md",
+    "python/python_imp-astro.md",
+    "php/php.md",
+    "java-family/js/js.md",
+    "serve/serve.md",
+    "serve/apache.http.md",
+    "php/php-myadmin.md",
     "python/python_cpt-funct.md",
     "python/python_cpt-class.md",
     "python/python_cpt-conds.md",
     "java-family/js/js_imp-animation.md",
-    "python/python_imp-astro.md",
-    "java-family/js/js_imp-astro.md",
-    "java-family/js/js_imp-present.md",
     "java-family/js/js_imp-chart.md",
     "python/python_imp-dta.md",
     "python/python_imp-gui.md"
