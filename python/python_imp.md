@@ -11,6 +11,7 @@
 
 ## Main categories
 
+- [[python_imp-astro]]
 - [[python_imp-dta|Data manipulation techniques and modules]]
 	- binary files (XLSX, PDF, ...)
 	- flat files (TXT, CSV, ...)
