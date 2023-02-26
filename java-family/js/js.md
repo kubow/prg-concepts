@@ -21,6 +21,8 @@ https://en.wikipedia.org/wiki/JavaScript
 	- [[js_edt-vite]]
 	- [[js_edt-webpack]]
 - JS Libraries for specific tasks
+	- [[js_imp-animation]]
+	- [[js_imp-astro]]
 	- [[js_imp-chart|Charting libraries]]
 	- [[js_imp-game]]
 	- [[js_imp-present|Presentation libraries]]
