@@ -26,6 +26,7 @@ A curated list of links to programming solutions and languages.
 - [[perl]]
 - [[php]]
 - [[python]]
+- [[R-project]]
 - [[ruby]]
 - [[shell-family]]
 - transpilers
@@ -36,7 +37,7 @@ A curated list of links to programming solutions and languages.
 # General structure for each language
 
 - *Variants (cooperation interlinked) (higler level concept)*
-- 
+
 - Language concepts (**cpt**)
 - Handling with editors, IDEs (**edt**)
 - Addons and wrappers - products/implementations (**imp**)
