@@ -29,6 +29,8 @@ Data concepts used:
 > Readability counts.
 > Special cases aren't special enough to break the rules.
 
+[styleguide | Style guides for Google-originated open-source projects](https://google.github.io/styleguide/pyguide.html)
+
 
 ## Coding style
 
@@ -43,7 +45,8 @@ Structuring [https://intermediate-and-advanced-software-carpentry.readthedocs.io
 what is a __init__ [https://stackoverflow.com/questions/448271/what-is-init-py-for](https://stackoverflow.com/questions/448271/what-is-init-py-for)  
 what is a __name__ [https://stackoverflow.com/questions/419163/what-does-if-name-main-do#419185](https://stackoverflow.com/questions/419163/what-does-if-name-main-do#419185)  
   
-get filename of __main__module [https://stackoverflow.com/questions/606561/how-to-get-filename-of-the-main-module-in-python](https://stackoverflow.com/questions/606561/how-to-get-filename-of-the-main-module-in-python)
+get filename of **__main__module**
+[https://stackoverflow.com/questions/606561/how-to-get-filename-of-the-main-module-in-python](https://stackoverflow.com/questions/606561/how-to-get-filename-of-the-main-module-in-python)
 
 
 
