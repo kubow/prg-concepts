@@ -25,14 +25,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "python/python_edt.md",
+                "file": "python/python_cpt-abc.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a1fd764c62288114",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "python/python_imp-dta.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5eb35e2a66d95891",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "python/python_imp-gam.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -98,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "python/python_edt.md",
+                "file": "python/python_imp-gam.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "python/python_edt.md",
+                "file": "python/python_imp-gam.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -138,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "python/python_edt.md"
+                "file": "python/python_imp-gam.md"
               }
             }
           }
@@ -160,34 +184,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a012b64bd95760a4",
+  "active": "5eb35e2a66d95891",
   "lastOpenFiles": [
-    "python/python_cpt.md",
-    "python/python.md",
-    "python/python_imp-gui.md",
+    "python/python_imp-dta.md",
+    "python/python_imp-gam.md",
+    "python/python_cpt-tests.md",
     "python/python_imp-ntw.md",
+    "python/python_imp-web-srv.md",
+    "python/python_imp.md",
+    "python/python_imp-astro.md",
+    "java-family/kotlin.md",
+    "python/python-ironpython.md",
+    "python/python_cpt.md",
+    "python/python_cpt-abc.md",
+    "python/python_cpt-abc_opr.md",
+    "python/python_cpt-abc_dic.md",
+    "python/python_cpt-abc_arr.md",
     "python/python_cpt-class.md",
+    "python/python_cpt-conds.md",
+    "python/python_cpt-loops.md",
+    "python/python_cpt-threads.md",
+    "python/python_imp-gui.md",
+    "python/python.md",
+    "python/python_edt.md",
     "r-family/R-project.md",
     "java-family/js/js-react_cpt.md",
     "java-family/js/js-vue-vuex.md",
     "Readme.md",
-    "java-family/kotlin.md",
     "r-family",
-    "java-family/js/js-svelte-kit.md",
-    "java-family/js/js-svelte-transition.md",
-    "java-family/js/js-svelte.md",
-    "concepts/algorithm.md",
-    "python/python_cpt-threads.md",
-    "concepts/dev_concepts.md",
-    "python/python_imp.md",
-    "java-family/js/js_imp-present.md",
-    "java-family/js/js_imp-astro.md",
-    "python/python_imp-astro.md",
-    "php/php.md",
-    "java-family/js/js.md",
-    "serve/serve.md",
-    "serve/apache.http.md",
-    "php/php-myadmin.md",
-    "python/python_cpt-funct.md"
+    "java-family/js/js-svelte-kit.md"
   ]
 }
