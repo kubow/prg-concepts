@@ -18,3 +18,7 @@ Python 3 Object persistence [https://docs.python.org/3/library/shelve.html](http
 Reuven Lerner: Master Python objects (and understand how they work) [https://blog.lerner.co.il/master-python-objects-and-understand-how-they-work/](https://blog.lerner.co.il/master-python-objects-and-understand-how-they-work/)  
   
 Python property getters/setters [https://stackoverflow.com/questions/6618002/python-property-versus-getters-and-setters/6618176#6618176](https://stackoverflow.com/questions/6618002/python-property-versus-getters-and-setters/6618176#6618176)
+
+```python
+
+```

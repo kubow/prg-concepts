@@ -1,8 +1,10 @@
 Data concepts used:  
   
-- [[python_cpt-variables|Variables (data types)]]
-- [[python_cpt-lists_tuples|List & Tuples]]
-- [[python_cpt-dicts_sets|Dictionaries & Sets]]
+- [[python_cpt-abc|Basic variables (and operators)]]
+- Complex variables
+	- [[python_cpt-abc_arr|List & Tuples]]
+	- [[python_cpt-abc_dic|Dictionaries & Sets]]
+	- 
 - [[python_cpt-conds|Conditions]]
 - [[python_cpt-loops|Loops]]
 - [[python_cpt-funct|Functions]]

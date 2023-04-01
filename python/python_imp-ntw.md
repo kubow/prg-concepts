@@ -2,7 +2,10 @@
 
 - [[#API]]
 - [[#BeautifulSoup]]
+- Lxml
 - [[#Requests]]
+- Scrapy
+- Selenium
 - [[#Sockets]]
 - [[#UrlLib]]
 

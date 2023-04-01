@@ -1,7 +1,7 @@
 
 - [[python_cpt|python programming concepts]]
 - [[python_edt|python IDE's]]
-- [[python_imp]]
+- [[python_imp|implementation areas]]
 
 [A Python Orientation - How To Get Started - PyBites](https://pybit.es/articles/guest-python-orientation/)
 [Think Python](http://www.samuelbosch.com/2014/06/think-python.html)

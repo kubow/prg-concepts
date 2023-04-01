@@ -20,7 +20,7 @@
 	- image objects
 - [[python_imp-gui|GUIs]]
 - [[python_imp-ntw|Libraries for retrieving web content]]
-- [[python_imp-web-dev|Web development tools]]
+- [[python_imp-web-srv|Web development tools]]
 
 
 ## Native Language

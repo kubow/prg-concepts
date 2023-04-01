@@ -1,7 +1,10 @@
 
 - [[#built-in python]]
+- Dash
 - [[#Django]]
+- FastAPI
 - [[#Flask]]
+- Pyramid
 
 
 [Web Programming (python.org)](https://wiki.python.org/moin/WebProgramming)

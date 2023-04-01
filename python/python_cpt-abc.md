@@ -1,18 +1,24 @@
+Variables in python are not subject of type restriction.  
+There are some "basic types"
+
 - [[#Strings]]
 - [[#Numbers]]
 - [[#Dates]]
+- [[python_cpt-abc_opr|Operators]]
 - [[#Comments]]
 - [[#User Input]]
 
+[Python Data Types - GeeksforGeeks](https://www.geeksforgeeks.org/python-data-types/)
+
 Real Python: Variables in Python [https://realpython.com/python-variables/](https://realpython.com/python-variables/)  
 Mike Driscoll: Python 3 – Assignment Expressions [http://www.blog.pythonlibrary.org/2018/06/12/python-101-assignment-expressions/](http://www.blog.pythonlibrary.org/2018/06/12/python-101-assignment-expressions/)  
-Real Python: Operators and Expressions in Python [https://realpython.com/python-operators-expressions/](https://realpython.com/python-operators-expressions/)  
-Programiz: Python Operators [https://www.programiz.com/python-programming/operators/1](https://www.programiz.com/python-programming/operators/1) 
-  
-
-## Strings
 
   
+
+## String
+
+https://realpython.com/python-data-types/#strings
+
 Strings General [http://www.diveintopython3.net/strings.html](http://www.diveintopython3.net/strings.html)  
 Revenge of Strings [http://en.wikibooks.org/wiki/Non-Programmer%27s_Tutorial_for_Python_2.6/Revenge_of_the_Strings](http://en.wikibooks.org/wiki/Non-Programmer%27s_Tutorial_for_Python_2.6/Revenge_of_the_Strings)  
 Unicode (must read) [http://joelonsoftware.com/articles/Unicode.html](http://joelonsoftware.com/articles/Unicode.html)  
@@ -45,22 +51,30 @@ sys.stdout.encoding # to print current encoding
 ```
 
 
-## Numbers  
+## Number  
+
+Basic number types:
+- **int** ([integers](https://realpython.com/python-data-types/#integers)) 
+- **float** ([floating point numbers](https://realpython.com/python-data-types/#floating-point-numbers))
+- **complex** ([compex numbers](https://realpython.com/python-complex-numbers/))
 
 [The problem with float32: you only get 16 million values](https://pythonspeed.com/articles/float64-float32-precision/)
 [Linear Algebra in Python: Matrix Inverses and Least Squares – Real Python](https://realpython.com/python-linear-algebra/)
   
-## Comments  
+## Boolean
+
 
 ## Dates
 
 [Convert Epoch to Datetime in Python - PythonForBeginners.com](https://www.pythonforbeginners.com/basics/convert-epoch-to-datetime-in-python)
+Stack Abuse: How to Format Dates in Python [https://stackabuse.com/how-to-format-dates-in-python/](https://stackabuse.com/how-to-format-dates-in-python/)  
+Stack Abuse: Converting Strings to datetime in Python [http://stackabuse.com/converting-strings-to-datetime-in-python/](http://stackabuse.com/converting-strings-to-datetime-in-python/)  
 
+## Comments  
 
 ## User Input  
   
-Stack Abuse: How to Format Dates in Python [https://stackabuse.com/how-to-format-dates-in-python/](https://stackabuse.com/how-to-format-dates-in-python/)  
-Stack Abuse: Converting Strings to datetime in Python [http://stackabuse.com/converting-strings-to-datetime-in-python/](http://stackabuse.com/converting-strings-to-datetime-in-python/)  
+
   
 Asterisk in python [https://treyhunner.com/2018/10/asterisks-in-python-what-they-are-and-how-to-use-them/](https://treyhunner.com/2018/10/asterisks-in-python-what-they-are-and-how-to-use-them/)  
   
@@ -68,9 +82,5 @@ Programiz: Python timestamp to datetime and vice-versa [https://www.programiz.co
 Programiz: Python time Module [https://www.programiz.com/python-programming/time](https://www.programiz.com/python-programming/time)  
   
 [python - How can i check if there is a global or local variable - Stack Overflow](https://stackoverflow.com/questions/37512712/how-can-i-check-if-there-is-a-global-or-local-variable#37512745)
-
-
-
-### Arrays
 
 
