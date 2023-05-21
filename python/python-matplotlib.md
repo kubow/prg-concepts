@@ -1,7 +1,6 @@
 
 ## matplotlib
 
-  
 [http://matplotlib.org/](http://matplotlib.org/)
 
 [A Brief Introduction to matplotlib for Data Visualization (stackabuse.com)](https://stackabuse.com/a-brief-introduction-to-matplotlib-for-data-visualization/)
@@ -12,5 +11,5 @@
 
 [PacktPublishing/Matplotlib-3.0-Cookbook: Matplotlib 3.0 Cookbook, published by Packt (github.com)](https://github.com/PacktPublishing/Matplotlib-3.0-Cookbook)
 
+[matplotlib.pyplot AP](https://matplotlib.org/api/pyplot_api.html)
 
-matplotlib.pyplot API [https://matplotlib.org/api/pyplot_api.html](https://matplotlib.org/api/pyplot_api.html)

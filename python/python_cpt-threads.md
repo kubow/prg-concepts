@@ -16,3 +16,10 @@
   
 [Quick dog-piling (aka stampeding herd) URL stresstest - Peterbe.com](https://www.peterbe.com/plog/quick-dog-piling-url-stresstest)
 [Writing a custom Datadog reporter using the Python API - Peterbe.com](https://www.peterbe.com/plog/writing-a-custom-datadog-reporter-using-the-python-api)
+
+
+## Special frameworks to deal with parallel processing
+
+- [Dask | Scale the Python tools you love](https://www.dask.org/)
+- [RAPIDS | GPU Accelerated Data Science](https://rapids.ai/)
+- [XGBoost Python Package — xgboost 1.7.5 documentation](https://xgboost.readthedocs.io/en/stable/python/index.html)
