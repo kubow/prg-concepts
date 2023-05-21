@@ -65,8 +65,7 @@ Ukládání hesel
 PHP code checker [https://phpcodechecker.com/](https://phpcodechecker.com/)  
   
 [http://www.enterprisedb.com/docs/en/4.0/peminstguide/PEM_Installation_Guide-25.htm](http://www.enterprisedb.com/docs/en/4.0/peminstguide/PEM_Installation_Guide-25.htm)  
-  
-RaspberryPI install guide for PHP mysql [http://www.php5dp.com/easy-writer-setup-for-raspberry-pi-php/](http://www.php5dp.com/easy-writer-setup-for-raspberry-pi-php/)  
+
   
 Change localhost location  
 [http://stackoverflow.com/questions/28165027/change-default-localhost-location-var-www-to-new-location](http://stackoverflow.com/questions/28165027/change-default-localhost-location-var-www-to-new-location)  
@@ -104,11 +103,4 @@ get coordinates for an address [http://www.havlena.net/en/programming/php-google
   
 Sanitize user input [https://stackoverflow.com/a/48970761/6905166](https://stackoverflow.com/a/48970761/6905166)
 
-
-## PDO Wrapper
-
-Introduction to PHP PDO [http://www.phpro.org/tutorials/Introduction-to-PHP-PDO.html](http://www.phpro.org/tutorials/Introduction-to-PHP-PDO.html)  
-PHP PDO Wrapper Class [http://www.imavex.com/php-pdo-wrapper-class/](http://www.imavex.com/php-pdo-wrapper-class/)  
-  
-connect to access database [http://www.sitepoint.com/using-an-access-database-with-php/](http://www.sitepoint.com/using-an-access-database-with-php/)
 
