@@ -23,9 +23,10 @@
 
 - [Actions / Adding parameters • Svelte Tutorial](https://svelte.dev/tutorial/adding-parameters-to-actions)  
 - [Bindings / Group inputs • Svelte Tutorial](https://svelte.dev/tutorial/group-inputs)
-- 
+- [How to use Svelte's style directive - Geoff Rich](https://geoffrich.net/posts/style-directives/)
 
-
+### CSS Tricks in Svelte
+[Passing values from JS to CSS - Svelte Society](https://sveltesociety.dev/recipes/svelte-language-fundamentals/passing-values-from-js-to-css)
 [javascript - How to debounce / throttle with Svelte? - Stack Overflow](https://stackoverflow.com/questions/46104897/how-to-debounce-throttle-with-svelte)
 
 [Svelte component async loading in version 3 - Stack Overflow](https://stackoverflow.com/questions/56010077/svelte-component-async-loading-in-version-3)
@@ -35,6 +36,8 @@ Pipeable counter [https://svelte.dev/repl/df4cbb0aaac44b769a3cbeed0cb0af59?versi
 
 
 ## Practical
+
+[Compile Svelte in your head (Part 1) | Tan Li Hau](https://lihautan.com/compile-svelte-in-your-head-part-1/)
 
 [Svelte simple note app](https://medium.com/the-web-tub/making-a-simple-note-app-using-svelte-and-vite-27edfa91a591)
 

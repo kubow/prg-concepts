@@ -6,6 +6,7 @@
       {
         "id": "33aaeb74e34b9a23",
         "type": "tabs",
+        "dimension": 80.96774193548387,
         "children": [
           {
             "id": "3c5231822d07aecf",
@@ -13,50 +14,57 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "java-family/kotlin.md",
+                "file": "php/php.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "a012b64bd95760a4",
+            "id": "b0fa822c7fb16779",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "python/python_cpt-abc.md",
+                "file": "php/php.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "a1fd764c62288114",
+            "id": "4672d06c9b9c17c3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "python/python_imp-dta.md",
+                "file": "java-family/kotlin_cpt.md",
                 "mode": "source",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "5eb35e2a66d95891",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "python/python_cpt-except.md",
-                "mode": "source",
-                "source": false
-              }
-            }
+            },
+            "group": "69b5f3e0548cf92b"
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
+      },
+      {
+        "id": "0c344fb1612c2568",
+        "type": "tabs",
+        "dimension": 19.032258064516128,
+        "children": [
+          {
+            "id": "0666c05827f1fc7f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "java-family/kotlin_cpt.md"
+              }
+            },
+            "group": "69b5f3e0548cf92b"
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -85,7 +93,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "svel",
+                "query": "kotlin",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -99,6 +107,14 @@
             "type": "leaf",
             "state": {
               "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "521a95031789ecb7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
               "state": {}
             }
           }
@@ -122,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "python/python_cpt-except.md",
+                "file": "java-family/kotlin_cpt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "python/python_cpt-except.md",
+                "file": "java-family/kotlin_cpt.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -162,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "python/python_cpt-except.md"
+                "file": "java-family/kotlin_cpt.md"
               }
             }
           }
@@ -184,34 +200,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5eb35e2a66d95891",
+  "active": "4672d06c9b9c17c3",
   "lastOpenFiles": [
+    "java-family/kotlin.md",
+    "java-family/kotlin_cpt.md",
+    "java-family/js/js-svelte.md",
+    "php/php_imp-db.md",
+    "php/php.md",
+    "python/python_cpt-threads.md",
+    "python/python_imp-web-srv.md",
+    "php/php-codeigniter.md",
+    "python/python_cpt-abc.md",
+    "python/python_imp-dta.md",
+    "virtualization/docker.md",
+    "python/python_cpt-except.md",
     "python/python_cpt-tests.md",
     "python/python_imp-gam.md",
-    "python/python_imp-dta.md",
     "python/python_imp-ntw.md",
-    "python/python_imp-web-srv.md",
     "python/python_imp.md",
     "python/python_imp-astro.md",
-    "java-family/kotlin.md",
     "python/python-ironpython.md",
     "python/python_cpt.md",
-    "python/python_cpt-abc.md",
     "python/python_cpt-abc_opr.md",
     "python/python_cpt-abc_dic.md",
     "python/python_cpt-abc_arr.md",
     "python/python_cpt-class.md",
     "python/python_cpt-conds.md",
     "python/python_cpt-loops.md",
-    "python/python_cpt-threads.md",
     "python/python_imp-gui.md",
-    "python/python.md",
-    "python/python_edt.md",
-    "r-family/R-project.md",
-    "java-family/js/js-react_cpt.md",
-    "java-family/js/js-vue-vuex.md",
-    "Readme.md",
-    "r-family",
-    "java-family/js/js-svelte-kit.md"
+    "r-family"
   ]
 }
