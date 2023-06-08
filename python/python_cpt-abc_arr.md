@@ -1,3 +1,7 @@
+
+- Tuples
+- Lists
+
 [Lesson 6 - Tuples, Lists, and Dictionaries](http://sthurlow.com/python/lesson06/)
 [scaling each element in a tuple in python - Stack Overflow](https://stackoverflow.com/questions/25281564/scaling-each-element-in-a-tuple-in-python)
 [Lists and Tuples in Python – Real Python](https://realpython.com/python-lists-tuples/)
@@ -20,3 +24,5 @@ comprihension with list
 [http://www.pythonforbeginners.com/basics/list-comprehensions-in-python](http://www.pythonforbeginners.com/basics/list-comprehensions-in-python)  
 
 [Python Does What?!?: So a list and a tuple walk into a sum()](https://www.pythondoeswhat.com/2019/01/so-list-and-tuple-walk-into-sum.html)  
+
+

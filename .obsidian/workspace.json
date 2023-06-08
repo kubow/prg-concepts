@@ -1,68 +1,23 @@
 {
   "main": {
-    "id": "fd678b32f3d81896",
+    "id": "82951bb9213da227",
     "type": "split",
     "children": [
       {
-        "id": "33aaeb74e34b9a23",
+        "id": "199c1853bff070b2",
         "type": "tabs",
-        "dimension": 80.96774193548387,
         "children": [
           {
-            "id": "3c5231822d07aecf",
+            "id": "43b8245fcd9d87a8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "php/php.md",
+                "file": "python/python_cpt-abc.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "b0fa822c7fb16779",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "php/php.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4672d06c9b9c17c3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "java-family/kotlin_cpt.md",
-                "mode": "source",
-                "source": false
-              }
-            },
-            "group": "69b5f3e0548cf92b"
-          }
-        ],
-        "currentTab": 2
-      },
-      {
-        "id": "0c344fb1612c2568",
-        "type": "tabs",
-        "dimension": 19.032258064516128,
-        "children": [
-          {
-            "id": "0666c05827f1fc7f",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "java-family/kotlin_cpt.md"
-              }
-            },
-            "group": "69b5f3e0548cf92b"
           }
         ]
       }
@@ -70,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "99cc385a17073a59",
+    "id": "d8476f7646f5748b",
     "type": "split",
     "children": [
       {
-        "id": "30daba6f83c4bb5f",
+        "id": "707bd3988f716ded",
         "type": "tabs",
         "children": [
           {
-            "id": "ef6bb926f49c18e0",
+            "id": "3bd3b4f9b43a500f",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -88,30 +43,22 @@
             }
           },
           {
-            "id": "a5eb55b6acf873a0",
+            "id": "d944fc7db023b93d",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "kotlin",
-                "matchingCase": true,
+                "query": "",
+                "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": true,
+                "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
             }
           },
           {
-            "id": "02a66a31256e4c4c",
-            "type": "leaf",
-            "state": {
-              "type": "starred",
-              "state": {}
-            }
-          },
-          {
-            "id": "521a95031789ecb7",
+            "id": "343b3d63b5cc3b46",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -122,23 +69,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 326.5
+    "width": 300
   },
   "right": {
-    "id": "95d478ca9ce99c14",
+    "id": "ac11fc4bd45c156c",
     "type": "split",
     "children": [
       {
-        "id": "0128b1638c694fb6",
+        "id": "6a85f25a556a4dc7",
         "type": "tabs",
         "children": [
           {
-            "id": "d39d5e9ff33a3b79",
+            "id": "b8ab55ac0c652100",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "java-family/kotlin_cpt.md",
+                "file": "python/python_cpt-abc.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,44 +97,43 @@
             }
           },
           {
-            "id": "f69f63c9757f700a",
+            "id": "c19a6014ae81c05e",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "java-family/kotlin_cpt.md",
+                "file": "python/python_cpt-abc.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "e2e6bd36507318f4",
+            "id": "19a31695ea92b097",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": false
+                "useHierarchy": true
               }
             }
           },
           {
-            "id": "33ca2dfb19593610",
+            "id": "55f347c27f728ba8",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "java-family/kotlin_cpt.md"
+                "file": "python/python_cpt-abc.md"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
@@ -200,34 +146,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4672d06c9b9c17c3",
+  "active": "43b8245fcd9d87a8",
   "lastOpenFiles": [
-    "java-family/kotlin.md",
-    "java-family/kotlin_cpt.md",
-    "java-family/js/js-svelte.md",
-    "php/php_imp-db.md",
-    "php/php.md",
-    "python/python_cpt-threads.md",
-    "python/python_imp-web-srv.md",
-    "php/php-codeigniter.md",
-    "python/python_cpt-abc.md",
-    "python/python_imp-dta.md",
-    "virtualization/docker.md",
-    "python/python_cpt-except.md",
-    "python/python_cpt-tests.md",
-    "python/python_imp-gam.md",
-    "python/python_imp-ntw.md",
-    "python/python_imp.md",
-    "python/python_imp-astro.md",
-    "python/python-ironpython.md",
     "python/python_cpt.md",
-    "python/python_cpt-abc_opr.md",
+    "python/python_cpt-abc.md",
     "python/python_cpt-abc_dic.md",
+    "python/python_cpt-abc_opr.md",
     "python/python_cpt-abc_arr.md",
-    "python/python_cpt-class.md",
-    "python/python_cpt-conds.md",
-    "python/python_cpt-loops.md",
-    "python/python_imp-gui.md",
-    "r-family"
+    "python/python_cpt-lists_tuples.md",
+    "python/python_imp.md",
+    "python/python_imp-dta-bins.md",
+    "python/python_imp-dta.md",
+    "python/python_imp-dta-disp.md",
+    "python/python_imp-dta-sets.md"
   ]
 }

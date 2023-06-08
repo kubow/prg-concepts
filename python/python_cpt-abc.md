@@ -51,12 +51,15 @@ sys.stdout.encoding # to print current encoding
 ```
 
 
+<<<<<<< HEAD:python/python_cpt-abc.md
 ## Number  
 
 Basic number types:
 - **int** ([integers](https://realpython.com/python-data-types/#integers)) 
 - **float** ([floating point numbers](https://realpython.com/python-data-types/#floating-point-numbers))
 - **complex** ([compex numbers](https://realpython.com/python-complex-numbers/))
+
+## Numbers  
 
 [The problem with float32: you only get 16 million values](https://pythonspeed.com/articles/float64-float32-precision/)
 [Linear Algebra in Python: Matrix Inverses and Least Squares – Real Python](https://realpython.com/python-linear-algebra/)
@@ -72,6 +75,12 @@ Stack Abuse: Converting Strings to datetime in Python [http://stackabuse.com/con
 
 ## Comments  
 
+
+## Dates
+
+[Convert Epoch to Datetime in Python - PythonForBeginners.com](https://www.pythonforbeginners.com/basics/convert-epoch-to-datetime-in-python)
+
+
 ## User Input  
   
 
@@ -84,3 +93,7 @@ Programiz: Python time Module [https://www.programiz.com/python-programming/time
 [python - How can i check if there is a global or local variable - Stack Overflow](https://stackoverflow.com/questions/37512712/how-can-i-check-if-there-is-a-global-or-local-variable#37512745)
 
 
+### Arrays
+
+
+main:python/python_cpt-variables.md

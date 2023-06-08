@@ -16,6 +16,7 @@
 	- [[python-matplotlib]]
 	- [[python-plotly]]
 	- [The Dygraphs Blog: PyDyGraphs, a dygraphs plotting module for IPython Notebooks](http://blog.dygraphs.com/2014/09/pydygraphs-dygraphs-plotting-module-for.html)
+- [[python_imp-dta-disp|Dashboarding with python]]
 
 [Cruising through complex data — Sedimental](https://sedimental.org/cruising_through_data.html)
 
