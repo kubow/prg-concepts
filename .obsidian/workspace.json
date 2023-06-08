@@ -20,6 +20,9 @@
             }
           }
         ]
+=======
+        "currentTab": 1
+>>>>>>> main
       }
     ],
     "direction": "vertical"

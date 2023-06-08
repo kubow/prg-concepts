@@ -4,7 +4,10 @@ There are some "basic types"
 - [[#Strings]]
 - [[#Numbers]]
 - [[#Dates]]
+<<<<<<< HEAD:python/python_cpt-abc.md
 - [[python_cpt-abc_opr|Operators]]
+=======
+>>>>>>> main:python/python_cpt-variables.md
 - [[#Comments]]
 - [[#User Input]]
 
@@ -58,6 +61,9 @@ Basic number types:
 - **int** ([integers](https://realpython.com/python-data-types/#integers)) 
 - **float** ([floating point numbers](https://realpython.com/python-data-types/#floating-point-numbers))
 - **complex** ([compex numbers](https://realpython.com/python-complex-numbers/))
+=======
+## Numbers  
+>>>>>>> main:python/python_cpt-variables.md
 
 ## Numbers  
 
