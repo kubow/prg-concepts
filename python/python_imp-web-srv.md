@@ -34,11 +34,16 @@ Python based CMS [http://www.dreamcss.com/2015/11/python-based-cms.html](http://
 
   
 [https://docs.djangoproject.com/en/1.10/](https://docs.djangoproject.com/en/1.10/)  
-[https://tutorial.djangogirls.org/cs/](https://tutorial.djangogirls.org/cs/)  
-Djangostars: Top Seven Apps Built With Python [https://djangostars.com/blog/top-seven-apps-built-python/](https://djangostars.com/blog/top-seven-apps-built-python/)  
-Simple is Better Than Complex: How to Integrate Highcharts.js with Django [https://simpleisbetterthancomplex.com/tutorial/2018/04/03/how-to-integrate-highcharts-js-with-django.html](https://simpleisbetterthancomplex.com/tutorial/2018/04/03/how-to-integrate-highcharts-js-with-django.html)  
+[https://tutorial.djangogirls.org/cs/](https://tutorial.djangogirls.org/cs/)
+[Get Started With Django: Build a Portfolio App – Real Python](https://realpython.com/get-started-with-django-1/)
+[7 Top Apps Made With Python | Django Stars](https://djangostars.com/blog/top-seven-apps-built-python/)
+[How to Integrate Highcharts.js with Django](https://simpleisbetterthancomplex.com/tutorial/2018/04/03/how-to-integrate-highcharts-js-with-django.html)
 [How to create sitemap of Django website - https://pythoncircle.com](https://pythoncircle.com/post/686/how-to-create-sitemap-of-django-website/)
 [Django Examples: Top 18 Django Websites](https://www.stxnext.com/blog/django-websites-examples/)
+SendGrid
+- [SendGrid Outbound - Building SaaS with Python and Django #169 · Matt Layman](https://www.mattlayman.com/blog/2023/sendgrid-outbound-building-saas-with-python-and-django-169/)
+- [SendGrid Inbound - Building SaaS with Python and Django #170 · Matt Layman](https://www.mattlayman.com/blog/2023/sendgrid-inbound-building-saas-with-python-and-django-170/)
+- 
 
 [How to host Django application on DigitalOcean server using Gunicorn, Supervisor, and NGINX - https://pythoncircle.com](https://pythoncircle.com/post/781/how-to-host-django-application-on-digitalocean-server-using-gunicorn-supervisor-and-nginx/)
 [Creating a bar chart in Django Application - https://pythoncircle.com](https://pythoncircle.com/post/779/creating-a-bar-chart-in-django-application/)

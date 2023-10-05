@@ -85,11 +85,12 @@ Automate python vs bash [https://www.reddit.com/r/learnpython/comments/825qyr/au
 
 ```bash
 pip install --upgrade pip  
-pip install <packagename>  
+pip install <packagename>
+pip install <packagename> --upgrade
 pip uninstall <packagename>  
-  
-easy_install  
-  
+
+easy_install 
+
 #write others here!!!
 ```
 
