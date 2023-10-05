@@ -1,6 +1,7 @@
 # Kotlin
 https://en.wikipedia.org/wiki/Kotlin_(programming_language)
 
+- [[kotlin_cpt]]
 
 [Kotlin cheatsheet](https://devhints.io/kotlin)
 [Learn Kotlin: Introduction to Kotlin Cheatsheet | Codecademy](https://www.codecademy.com/learn/learn-kotlin/modules/learn-kotlin-introduction-to-kotlin/cheatsheet)

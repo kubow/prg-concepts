@@ -28,9 +28,9 @@ https://en.wikipedia.org/wiki/JavaScript
 	- [[js_imp-present|Presentation libraries]]
 
 
-[New User Tutorial](http://www.w3schools.com/js/default.asp) - W3Schools' guide for new Javascript users.  
-[Beginning Javascript](http://www.tizag.com/javascriptT/javascriptsyntax.php) - Tigzag's Javascript introduction.  
-[Javascript Tutorials](http://forum.codecall.net/forum/157-jvscript-tutorials/page__sort_key__views__sort_by__Z-A) - CodeCall's Javascript tutorials
+[New User Tutorial](http://www.w3schools.com/js/default.asp) - W3Schools' guide for new js users.  
+[Beginning Javascript](http://www.tizag.com/javascriptT/javascriptsyntax.php) - Tigzag's js introduction.  
+[Javascript Tutorials](http://forum.codecall.net/forum/157-jvscript-tutorials/page__sort_key__views__sort_by__Z-A) - CodeCall's js tutorials
 [Javascript Snow Tutorial](http://forum.codecall.net/topic/36144-javascriptcode-snow/) - Create a snow effect on your webpage  
   
 Javascript code quality Tool [http://www.jslint.com/](http://www.jslint.com/)  
@@ -65,7 +65,7 @@ Write html content [https://stackoverflow.com/questions/3009978/write-html-conte
 Call function every 5 seconds [https://stackoverflow.com/questions/2170923/whats-the-easiest-way-to-call-a-function-every-5-seconds-in-jquery?noredirect=1&lq=1](https://stackoverflow.com/questions/2170923/whats-the-easiest-way-to-call-a-function-every-5-seconds-in-jquery?noredirect=1&lq=1)  
 Javascript scoping & hoisting [http://www.adequatelygood.com/JavaScript-Scoping-and-Hoisting.html](http://www.adequatelygood.com/JavaScript-Scoping-and-Hoisting.html)
 
-
+[Yasmin ZY](https://yasminzy.com/)
 
 
 ## Time based
