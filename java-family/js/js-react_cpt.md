@@ -2,7 +2,7 @@
 
 - [[js-react_cpt-component|Components]]
 - [[js-react_cpt-evthand|Event handling]]
-
+- [[js-react_cpt-test]]
 ## Features
 
 -   Virtual DOM
