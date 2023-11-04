@@ -4,25 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "199c1853bff070b2",
+        "id": "a86b4fc548f6ebff",
         "type": "tabs",
         "children": [
           {
-            "id": "43b8245fcd9d87a8",
+            "id": "c2bd36a875d77a28",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "python/python_cpt-abc.md",
+                "file": "Readme.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ]
-=======
-        "currentTab": 1
->>>>>>> main
       }
     ],
     "direction": "vertical"
@@ -88,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "python/python_cpt-abc.md",
+                "file": "Readme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "python/python_cpt-abc.md",
+                "file": "Readme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "python/python_cpt-abc.md"
+                "file": "Readme.md"
               }
             }
           }
@@ -149,18 +146,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "43b8245fcd9d87a8",
+  "active": "c2bd36a875d77a28",
   "lastOpenFiles": [
-    "python/python_cpt.md",
-    "python/python_cpt-abc.md",
-    "python/python_cpt-abc_dic.md",
-    "python/python_cpt-abc_opr.md",
-    "python/python_cpt-abc_arr.md",
-    "python/python_cpt-lists_tuples.md",
-    "python/python_imp.md",
-    "python/python_imp-dta-bins.md",
-    "python/python_imp-dta.md",
-    "python/python_imp-dta-disp.md",
-    "python/python_imp-dta-sets.md"
+    "Readme.md",
+    "concepts/design.md",
+    "shell-family/zsh.md",
+    "design",
+    "shell-family/vb.md",
+    "shell-family/sh.md",
+    "shell-family/shell-family.md",
+    "shell-family/powershell.md",
+    "shell-family/csh.md",
+    "shell-family/batch.md",
+    "shell-family/bash.md",
+    "rust/rust.md",
+    "java-family/js/js-react_cpt.md",
+    "python/python_imp-web-srv.md",
+    "rust/rust_cpt.md",
+    "rust",
+    "java-family/js/js-react_cpt-ecosystem.md",
+    "java-family/js/js-react_cpt-evthand.md",
+    "java-family/js/js-react_cpt-test.md",
+    "python/python_imp-ntw.md",
+    "python/python.md",
+    "java-family/js/js-react.md",
+    "concepts/waterfall.md",
+    "concepts/algorithm.md",
+    "java-family/js/js_imp-chart.md",
+    "java-family/js/js_imp-animation.md",
+    "java-family/js/js.md",
+    "java-family/java.md"
   ]
 }

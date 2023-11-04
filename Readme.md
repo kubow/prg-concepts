@@ -6,6 +6,7 @@ A curated list of links to programming solutions and languages.
 
 - [[algorithm]]
 - [[control]]
+- [[design]]
 - [[dev_concepts]]
 - [[serve]]
 - [[virtualization]]
@@ -28,6 +29,7 @@ A curated list of links to programming solutions and languages.
 - [[python]]
 - [[R-project]]
 - [[ruby]]
+- [[rust]]
 - [[shell-family]]
 - transpilers
 	- [[babel]]
