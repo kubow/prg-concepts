@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Readme.md",
+                "file": "shell-family/powershell.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Readme.md",
+                "file": "shell-family/powershell.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Readme.md",
+                "file": "shell-family/powershell.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Readme.md"
+                "file": "shell-family/powershell.md"
               }
             }
           }
@@ -148,10 +148,20 @@
   },
   "active": "c2bd36a875d77a28",
   "lastOpenFiles": [
+    "shell-family/ps/GetSoftWareList.bat",
+    "shell-family/ps/GetSoftwareList.ps1",
+    "shell-family/ps/GetRegistry.ps1",
+    "shell-family/ps/OS_control.ps1",
+    "shell-family/ps/Monitor_top5.ps1",
+    "shell-family/ps/Monitor-Variables.ps1",
+    "shell-family/ps/Monitor-Functions.ps1",
+    "shell-family/ps/Monitor-File-Server-Activity.ps1",
+    "shell-family/ps/CPU_values_logger.xml",
+    "shell-family/ps",
+    "shell-family/PS/OS_control.ps1",
     "Readme.md",
     "concepts/design.md",
     "shell-family/zsh.md",
-    "design",
     "shell-family/vb.md",
     "shell-family/sh.md",
     "shell-family/shell-family.md",
@@ -163,7 +173,6 @@
     "java-family/js/js-react_cpt.md",
     "python/python_imp-web-srv.md",
     "rust/rust_cpt.md",
-    "rust",
     "java-family/js/js-react_cpt-ecosystem.md",
     "java-family/js/js-react_cpt-evthand.md",
     "java-family/js/js-react_cpt-test.md",
@@ -174,7 +183,6 @@
     "concepts/algorithm.md",
     "java-family/js/js_imp-chart.md",
     "java-family/js/js_imp-animation.md",
-    "java-family/js/js.md",
-    "java-family/java.md"
+    "java-family/js/js.md"
   ]
 }
