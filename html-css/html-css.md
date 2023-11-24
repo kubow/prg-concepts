@@ -1,12 +1,12 @@
-- [[html-5|HTML 5]]
-	- [[html-5-canvas]]
-	- [[html-5-iframe]]
-	- [[html-5-tables]]
-	- 
-- [[css]]
-	- [[css-bem]] - naming convention
-	- [[css-flexbox]]
-	- [[css-pad-marg]]
-	- [[css-sprites]]
-- [[svg]]
-- 
+- [html-5](html-5.md)
+  - [html-5-canvas](html-5-canvas.md)
+  - [html-5-iframe](html-5-iframe.md)
+  - [html-5-tables](html-5-tables.md)
+  -
+- [css](css.md)
+  - [css-bem](css-bem.md) - naming convention
+  - [css-flexbox](css-flexbox.md)
+  - [css-pad-marg](css-pad-marg.md)
+  - [css-sprites](css-sprites.md)
+- [svg](svg.md)
+-

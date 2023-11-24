@@ -1,13 +1,10 @@
-
-- [[docker]] (container system)
-- [[hyperv]]
-- [[kubernetes]] (container orchestrator)
-- [[virtualbox]]
-- [[vmware]]
-
+- [docker](docker.md) (container system)
+- [hyperv](hyperv.md)
+- [kubernetes](kubernetes.md) (container orchestrator)
+- [virtualbox](virtualbox.md)
+- [vmware](vmware.md)
 
 [How to Set Up a Virtual Machine for Free](https://lifehacker.com/how-to-set-up-a-virtual-machine-for-free-1828969527)
-
 
 # Kernel Virtual Machine
 
@@ -16,7 +13,6 @@
 # QEMU
 
 [QEMU](https://www.qemu.org/)
-
 
 # oVirt / RHEV
 

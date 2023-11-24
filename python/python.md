@@ -1,7 +1,6 @@
-
-- [[python_cpt|python programming concepts]]
-- [[python_edt|python IDE's]]
-- [[python_imp|implementation areas]]
+- [python programming concepts](python_cpt.md)
+- [python IDE's](python_edt.md)
+- [implementation areas](python_imp.md)
 
 [A Python Orientation - How To Get Started - PyBites](https://pybit.es/articles/guest-python-orientation/)
 [Think Python](http://www.samuelbosch.com/2014/06/think-python.html)
@@ -11,8 +10,7 @@
 
 [Bashing the Bash — Replacing Shell Scripts with Python | by Steven F. Lott | Capital One Tech | Medium](https://medium.com/capital-one-tech/bashing-the-bash-replacing-shell-scripts-with-python-d8d201bc0989)
 [Can You Charge for Open-Source Software? Making Money from Open-Source Projects](https://www.pythonguis.com/faq/charge-for-open-source-software/)
-[Python Developers Survey 2018 Results (jetbrains.com)](https://www.jetbrains.com/research/python-developers-survey-2018/#technologies)  
-
+[Python Developers Survey 2018 Results (jetbrains.com)](https://www.jetbrains.com/research/python-developers-survey-2018/#technologies)
 
 ### Books- guides:
 
@@ -21,8 +19,7 @@
 - [Dive Into Python](http://diveintopython.org/), by Mark Pilgrim
 - [Learn Python the Hard Way](https://learnpythonthehardway.org/book/)
 - [The Best Python Books – Real Python](https://realpython.com/best-python-books/)
-- Cookbook [http://code.activestate.com/recipes/langs/python/](http://code.activestate.com/recipes/langs/python/)  
-
+- Cookbook [http://code.activestate.com/recipes/langs/python/](http://code.activestate.com/recipes/langs/python/)
 
 ## python online
 
@@ -30,4 +27,3 @@
 [Python Anywhere project](https://www.pythonanywhere.com/)  
 [Online Python compiler and debugger - Python Tutor - Learn Python by visualizing code](https://pythontutor.com/python-debugger.html#mode=edit)
 [CS playground/](http://cs-playground-react.surge.sh/)
-

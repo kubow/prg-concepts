@@ -1,13 +1,13 @@
 serving an access to computer's content.
 
 Ready solutions
-- [[apache.http]]
-- [[apache.tomcat]]
-- [[iis]]
-- [[ispconfig]]
-- [[lighttpd]]
-- [[nginx]]
 
+- [apache.http](apache.http.md)
+- [apache.tomcat](apache.tomcat.md)
+- [iis](iis.md)
+- [ispconfig](ispconfig.md)
+- [lighttpd](lighttpd.md)
+- [nginx](nginx.md)
 
 [How do I connect to this localhost from another computer on the same network? - Stack Overflow](https://stackoverflow.com/questions/9682262/how-do-i-connect-to-this-localhost-from-another-computer-on-the-same-network)
 
@@ -21,12 +21,11 @@ Ready solutions
 
 - [LAMP Stack | TurnKey GNU/Linux](https://www.turnkeylinux.org/lamp)
 - [LAPP | TurnKey GNU/Linux](https://www.turnkeylinux.org/lapp)
-- 
+-
 
 [python - MySQL Connect, XAMPP and ODBC - Stack Overflow](https://stackoverflow.com/questions/13905338/mysql-connect-xampp-and-odbc)
 [How to use Manjaro as a Web Server with Apache, MySQL and PHP (LAMP) - Manjaro Tutorial](https://manjaro-tutorial.blogspot.com/2016/11/how-to-use-manjaro-as-web-server-with.html)
 [How To Install Linux, Nginx, MySQL, PHP (LEMP) Stack on Debian 7 | DigitalOcean](https://www.digitalocean.com/community/tutorials/how-to-install-linux-nginx-mysql-php-lemp-stack-on-debian-7)
-
 
 ## Serverless
 

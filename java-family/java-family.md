@@ -1,8 +1,8 @@
-- [[java|JAVA Programming Language]]
-- [[js|JavaScript]]
-- [[actionscript]]
-- [[ajax|AJAX]]
-- [[flutter]]
-- [[kotlin|Kotlin]]
-- [[ts|TypeScript]]
-- 
+- [JAVA Programming Language](java.md)
+- [JavaScript](js.md)
+- [actionscript](actionscript.md)
+- [AJAX](ajax.md)
+- [flutter](flutter.md)
+- [Kotlin](kotlin.md)
+- [TypeScript](ts.md)
+-

@@ -1,14 +1,12 @@
-
 - \*-NIX like Systems
-	- [[bash]] (Bourne Against SHell)
-	- [[csh]] (Corn SHell)
-	- [[sh]] (SHell)
-	- [[zsh]]
+  - [bash](bash.md) (Bourne Against SHell)
+  - [csh](csh.md) (Corn SHell)
+  - [sh](sh.md) (SHell)
+  - [zsh](zsh.md)
 - Windows based
-	- [[batch]]
-	- [[powershell]]
-	- [[vb]]
-
+  - [batch](batch.md)
+  - [powershell](powershell.md)
+  - [vb](vb.md)
 
 ## Line endings problem
 
@@ -19,5 +17,3 @@ https://www.cyberciti.biz/faq/howto-unix-linux-convert-dos-newlines-cr-lf-unix-t
 https://stackoverflow.com/questions/19912941/convert-all-cr-to-crlf-in-text-file-using-cmd#19914380
 
 https://hackaday.com/2018/05/08/windows-notepad-now-supports-unix-line-endings/
-
-

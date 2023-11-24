@@ -11,12 +11,8 @@
             "id": "c2bd36a875d77a28",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "shell-family/powershell.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "shell-family/powershell.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "shell-family/powershell.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "shell-family/powershell.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -148,6 +140,11 @@
   },
   "active": "c2bd36a875d77a28",
   "lastOpenFiles": [
+    "html-css/html-css.md",
+    "Readme.md",
+    "control/control.md",
+    "control/git.md",
+    "shell-family/powershell.md",
     "shell-family/ps/GetSoftWareList.bat",
     "shell-family/ps/GetSoftwareList.ps1",
     "shell-family/ps/GetRegistry.ps1",
@@ -158,14 +155,11 @@
     "shell-family/ps/Monitor-File-Server-Activity.ps1",
     "shell-family/ps/CPU_values_logger.xml",
     "shell-family/ps",
-    "shell-family/PS/OS_control.ps1",
-    "Readme.md",
     "concepts/design.md",
     "shell-family/zsh.md",
     "shell-family/vb.md",
     "shell-family/sh.md",
     "shell-family/shell-family.md",
-    "shell-family/powershell.md",
     "shell-family/csh.md",
     "shell-family/batch.md",
     "shell-family/bash.md",
@@ -181,8 +175,6 @@
     "java-family/js/js-react.md",
     "concepts/waterfall.md",
     "concepts/algorithm.md",
-    "java-family/js/js_imp-chart.md",
-    "java-family/js/js_imp-animation.md",
-    "java-family/js/js.md"
+    "java-family/js/js_imp-chart.md"
   ]
 }
