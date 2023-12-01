@@ -1,31 +1,31 @@
 js-node# JavaScript
 https://en.wikipedia.org/wiki/JavaScript
 
-- [[js_cpt|Programming concepts]]
+- [Programming concepts](js_cpt.md)
 - Engines / runtime environments
 	- Deno ([wiki](https://en.wikipedia.org/wiki/Deno_(software)))
-	- [[js-node|Node.js]]
+	- [Node.js](js-node)
 - Web frameworks ([comparison](https://en.wikipedia.org/wiki/Comparison_of_JavaScript-based_web_frameworks))
-	- Angular.js (discotinued, [wiki](https://en.wikipedia.org/wiki/AngularJS))
+	- [Angular](js-angular.md)
 	- Apache Wicket ([wiki](https://en.wikipedia.org/wiki/Apache_Wicket))
 	- Backbone.js ([wiki](https://en.wikipedia.org/wiki/Backbone.js))
 	- Ember.js ([wiki](https://en.wikipedia.org/wiki/Ember.js))
-	- [[js-jquery|jQuery]]
-	- [[js-react|React.js]]
-	- [[js-openui5|SAP OpenUI5]] 
+	- [jQuery](js-jquery)
+	- [React.js](js-react.md)
+	- [SAP OpenUI5](js-openui5.md)
 	- Sencha ([wiki](https://en.wikipedia.org/wiki/Ext_JS))
-	- [[js-svelte|Svelte.js]]
-	- [[js-vue|Vue.js]]
+	- [Svelte.js](js-svelte.md)
+	- [Vue.js](js-vue.md)
 - JS Frontend Tooling
-	- [[js_edt-rollup]]
-	- [[js_edt-vite]]
-	- [[js_edt-webpack]]
+	- [Rollup](js_edt-rollup.md)
+	- [Vite](js_edt-vite.md)
+	- [Webpack](js_edt-webpack.md)
 - JS Libraries for specific tasks
-	- [[js_imp-animation]]
-	- [[js_imp-astro]]
-	- [[js_imp-chart|Charting libraries]]
-	- [[js_imp-game]]
-	- [[js_imp-present|Presentation libraries]]
+	- [Animation](js_imp-animation.md)
+	- [Astro](js_imp-astro.md)
+	- [Charting libraries](js_imp-chart.md)
+	- [Gaming](js_imp-game.md)
+	- [Presentation libraries](js_imp-present.md)
 
 
 [New User Tutorial](http://www.w3schools.com/js/default.asp) - W3Schools' guide for new js users.  

@@ -1,8 +1,8 @@
 # Redux
 State container (Node.js application) for JavaScript applications.
 
-- [[#Redux Toolkit]]
-- [[#Redux Core]]
+- [Redux Toolkit](#redux-toolkit)
+- [Redux Core](#redux-core)
 - [Redux-Saga](https://redux-saga.js.org/index.html) - Redux side effect manager
 
 ```shell

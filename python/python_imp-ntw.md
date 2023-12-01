@@ -1,13 +1,13 @@
 # Python network requesting
 
-- [[#API]]
-- [[#BeautifulSoup]]
+- [API](#api)
+- [BeautifulSoup](#beautifulsoup)
 - Lxml
-- [[#Requests]]
+- [Requests](#requests)
 - Scrapy
 - Selenium
-- [[#Sockets]]
-- [[#UrlLib]]
+- [Sockets](#sockets)
+- [UrlLib](#urllib)
 
 feedparser overview [https://www.slideshare.net/LindseySmith1/feedparser](https://www.slideshare.net/LindseySmith1/feedparser)  
 python HTML parser [https://www.pythoncentral.io/html-parser/](https://www.pythoncentral.io/html-parser/)  

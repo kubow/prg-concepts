@@ -6,9 +6,9 @@
 
 ## Main sections
 
-- [[js-react_cpt|React.js programming concepts]]
-- [[js-react_cpt-ecosystem|React.js development ecosystem]]
-- [[js-redux]] for state maintenance
+- [React.js programming concepts](js-react_cpt.md)
+- [React.js development ecosystem](js-react_cpt-ecosystem.md)
+- [Redux](js-redux.md) for state maintenance
 
 [All fundamental React.js concepts](https://www.freecodecamp.org/news/all-the-fundamental-react-js-concepts-jammed-into-this-single-medium-article-c83f9b53eac2/):
 

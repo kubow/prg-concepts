@@ -1,4 +1,4 @@
-- [[bash_cpt]]
+- [Basic concepts](bash_cpt.md)
 
 ## Aliases
 

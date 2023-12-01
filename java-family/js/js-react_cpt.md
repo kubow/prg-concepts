@@ -1,8 +1,9 @@
 # React.js programming concepts
 
-- [[js-react_cpt-component|Components]]
-- [[js-react_cpt-evthand|Event handling]]
-- [[js-react_cpt-test]]
+- [Components](js-react_cpt-component.md)
+- [Event handling](js-react_cpt-evthand.md)
+- [Testing](js-react_cpt-test.md)
+
 ## Features
 
 -   Virtual DOM

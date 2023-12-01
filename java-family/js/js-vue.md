@@ -1,8 +1,8 @@
 # Vue.js
 
-- [[js-vue-nuxt]]
-- [[js-vue-vuetify]]
-- [[js-vue-vuex]]
+- [Nuxt](js-vue-nuxt.md)
+- [Vuetify](js-vue-vuetify.md)
+- [Vuex](js-vue-vuex.md)
 - 
 
 

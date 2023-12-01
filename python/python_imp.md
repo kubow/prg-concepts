@@ -3,7 +3,7 @@
 - [CPython](http://python.org/) (Cross-platform; Free; Open-source) (Official)
 - [Jython](http://www.jython.org/) (Cross-platform; Free; Open-source)  
 - [IPython](http://ipython.org/) (Cross-platform; Free; Open-source) - command shell for interactive computing
-- [[python-ironpython|IronPython]] (Windows; Free; Open-source) - python/.NET
+- [IronPython](python-ironpython.md) (Windows; Free; Open-source) - python/.NET
 - [PyPy](http://pypy.org/) (Cross-platform; Free; Open-source) [Documentation](http://codespeak.net/pypy/dist/pypy/doc/home.html)
 - 
 
@@ -11,17 +11,17 @@
 
 ## Main categories
 
-- [[python_imp-astro]]
-- [[python_imp-dta|Data manipulation techniques and modules]]
+- [Astro* libraries](python_imp-astro.md)
+- [Data manipulation techniques and modules](python_imp-dta.md)
 	- binary files (XLSX, PDF, ...)
 	- flat files (TXT, CSV, ...)
 	- goespatial data
 	- data sets
 	- image objects
-- [[python_imp-gam|Libraries for Gaming]]
-- [[python_imp-gui|GUIs]]
-- [[python_imp-ntw|Libraries for retrieving web content]]
-- [[python_imp-web-srv|Web development tools]]
+- [Libraries for Gaming](python_imp-gam.md)
+- [GUIs](python_imp-gui.md)
+- [Libraries for retrieving web content](python_imp-ntw.md)
+- [Web development tools](python_imp-web-srv.md)
 
 
 ## Native Language

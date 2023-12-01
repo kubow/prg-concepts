@@ -3,8 +3,8 @@
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators
 
 
-- [[js_cpt-class]]
-- [[js_cpt-funct]]
+- [Classes](js_cpt-class.md)
+- [Functions](js_cpt-funct.md)
 - Operators
 
 # Operators

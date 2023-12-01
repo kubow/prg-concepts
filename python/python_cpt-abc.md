@@ -1,15 +1,12 @@
 Variables in python are not subject of type restriction.  
 There are some "basic types"
 
-- [[#Strings]]
-- [[#Numbers]]
-- [[#Dates]]
-<<<<<<< HEAD:python/python_cpt-abc.md
-- [[python_cpt-abc_opr|Operators]]
-=======
->>>>>>> main:python/python_cpt-variables.md
-- [[#Comments]]
-- [[#User Input]]
+- [Strings](#strings)
+- [Numbers](#numbers)
+- [Dates](#dates)
+- [Operators](python_cpt-abc_opr.md)
+- [Comments](#comments)
+- [User Input](#user-input)
 
 [Python Data Types - GeeksforGeeks](https://www.geeksforgeeks.org/python-data-types/)
 
@@ -53,19 +50,12 @@ import sys
 sys.stdout.encoding # to print current encoding
 ```
 
-
-<<<<<<< HEAD:python/python_cpt-abc.md
-## Number  
+## Numbers  
 
 Basic number types:
 - **int** ([integers](https://realpython.com/python-data-types/#integers)) 
 - **float** ([floating point numbers](https://realpython.com/python-data-types/#floating-point-numbers))
 - **complex** ([compex numbers](https://realpython.com/python-complex-numbers/))
-=======
-## Numbers  
->>>>>>> main:python/python_cpt-variables.md
-
-## Numbers  
 
 [The problem with float32: you only get 16 million values](https://pythonspeed.com/articles/float64-float32-precision/)
 [Linear Algebra in Python: Matrix Inverses and Least Squares – Real Python](https://realpython.com/python-linear-algebra/)

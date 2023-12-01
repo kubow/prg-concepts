@@ -1,9 +1,9 @@
 
-- [[#built-in python]]
+- [built-in python](#build-in-python)
 - Dash
-- [[#Django]]
+- [Django](#django)
 - FastAPI
-- [[#Flask]]
+- [Flask](#flask)
 - Pyramid
 
 
@@ -50,7 +50,6 @@ SendGrid
 
 ## Flask
 
-  
 [Flask Tutorial (tutorialspoint.com)](https://www.tutorialspoint.com/flask/index.htm)  
 [Flask Presentation (pycoder.net)](http://pycoder.net/bospy/presentation.html#)  
 [Flask restful](http://flask-restful-cn.readthedocs.io/en/0.3.5/)  

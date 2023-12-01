@@ -1,6 +1,6 @@
 # TkInter
 
-- [[python-tk-modules]]
+- [TkInter modules](python-tk-modules.md)
 
 [tkinter — Python interface to Tcl/Tk — Python 3.9.2 documentation](https://docs.python.org/3/library/tkinter.html)  
 [Introduction to Tkinter - first steps with Tkinter library (zetcode.com)](https://zetcode.com/tkinter/introduction/)  

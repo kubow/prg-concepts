@@ -1,20 +1,20 @@
 Data concepts used:  
   
-- [[python_cpt-abc|Basic variables (and operators)]]
+- [Basic variables (and operators)](python_cpt-abc.md)
 - Complex variables
-	- [[python_cpt-abc_arr|List & Tuples]]
-	- [[python_cpt-abc_dic|Dictionaries & Sets]]
+	- [List & Tuples](python_cpt-abc_arr.md)
+	- [Dictionaries & Sets](python_cpt-abc_dic.md)
 	- 
-- [[python_cpt-conds|Conditions]]
-- [[python_cpt-loops|Loops]]
-- [[python_cpt-funct|Functions]]
-- [[python_cpt-class|Classes]]
-- [[python_cpt-except|Exceptions]]
-- [[python_cpt-tests|Testing]]
-- [[#Debug]]
-- [[#Logging]]
-- [[python_cpt-threads|Threading]]
-- [[#Compiling]]
+- [Conditions](python_cpt-conds.md)
+- [Loops](python_cpt-loops.md)
+- [Functions](python_cpt-funct.md)
+- [Classes](python_cpt-class.md)
+- [Exceptions](python_cpt-except.md)
+- [Testing](python_cpt-tests.md)
+- [Debug](#debug)
+- [Logging](#logging)
+- [Threading](python_cpt-threads.md)
+- [Compiling](#compiling)
   
 [Assemblers, Compilers and Interpreters](https://pybit.es/python-interpreters.html)  
 [Python switch case](https://bytebaker.com/2008/11/03/switch-case-statement-in-python/)  

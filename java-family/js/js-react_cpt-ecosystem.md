@@ -1,13 +1,13 @@
 
 # React Ecosystem
 
-- [[js_cpt-es|ES6]], next is ES7
-- [[js_cpt-jsx|JSX]]
+- [ES6](js_cpt-es.md), next is ES7
+- [JSX](js_cpt-jsx.md)
 - **Webpack** - bundling tool
-- **[[babel|Babel]]** - transpiling tool, translates JSX and ES6 to normal JS
+- **[Babel](babel.md)** - transpiling tool, translates JSX and ES6 to normal JS
 - **ESLint** - code convention checking tool
 - React Router v4
-- **[[js-redux|Redux]]** - state management
+- **[Redux](js-redux.md)** - state management
 - **Redux Saga** - redux middleware handles asynchronous actions
 
 # Rendering elements

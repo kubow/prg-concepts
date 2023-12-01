@@ -9,15 +9,15 @@ Python GUI programming [http://www.tutorialspoint.com/python/python_gui_programm
 
 List of GUI libraries:
 
-- [[#appJar]]
-- [[#Kivy]]
+- [appJar](#appJar.md)
+- [Kivy](#Kivy.md)
 - Pyforms
 - PyGTK
 - PyjamasDesktop
-- [[#PyQT]]
-- [[#PySide]]
-- [[python-tk|TkInter]]
-- [[#wXPython]]
+- [PyQT](#pyqt)
+- [PySide](#pyside)
+- [TkInter](python-tk.md)
+- [wxPython](#wxpython)
 - Wax
   
 Python GUI for database [http://www.python-camelot.com/](http://www.python-camelot.com/)  

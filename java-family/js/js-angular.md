@@ -1,0 +1,1 @@
+discotinued, [wiki](https://en.wikipedia.org/wiki/AngularJS)

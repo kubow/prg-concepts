@@ -1,12 +1,12 @@
 # JavaScript charting 
 
 - [JavaScript Charts & Maps - amCharts](https://www.amcharts.com/)
-- [[#Canvas]]
-- [[#DOJO]]
-- [[#Dygraph]]
-- [[#Highcharts]]
+- [Canvas](#canvas)
+- [DOJO](#dojo)
+- [Dygraph](#dygraph)
+- [Highcharts](#highcharts)
 - [Charting](http://mannaio.altervista.org/design/interactive-javascript-charts/)
-- [[#Chart.js]]
+- [Chart.js](#chart.js)
 - [Flotr](https://www.script-tutorials.com/html5-charts-and-graphs/) 
 - [JavaScript Charts in one powerful declarative library | ZingChart](https://www.zingchart.com/)
 

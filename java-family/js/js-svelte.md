@@ -2,11 +2,11 @@
 
 
 - Genral concepts
-	- [[js-svelte-store]]
-	- [[js-svelte-transition]]
+	- [Store](js-svelte-store.md)
+	- [Transition](js-svelte-transition.md)
 - Using svelte with native compilers
-	- [[js-svelte-kit]]
-	- [[js-svelte-sapper]]
+	- [SvelteKit](js-svelte-kit.md)
+	- [Sapper](js-svelte-sapper.md)
 
 ### Introduction 
 

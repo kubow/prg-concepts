@@ -20,7 +20,7 @@ https://www.cse.psu.edu/~pdm12/cmpsc311-f14/slides/32-version-control-part-1.pdf
 
 
 - [Apache Subversion](https://subversion.apache.org/)
-- [[git]]
+- [GIT](git.md)
 - [Surround SCM Software for Helix ALM | Perforce](https://www.perforce.com/products/surround-scm)
 
 

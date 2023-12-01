@@ -1,0 +1,7 @@
+{
+	"nodes":[
+		{"id":"d34bae8ac48adc17","x":-780,"y":-610,"width":840,"height":580,"type":"file","file":"Readme.md"},
+		{"id":"3bf5b59b0da20936","x":80,"y":-780,"width":640,"height":240,"type":"file","file":"concepts/algorithm.md"}
+	],
+	"edges":[]
+}

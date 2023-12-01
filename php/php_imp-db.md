@@ -4,8 +4,8 @@ Obsolete:
 [PHP: Choosing an API - Manual](https://www.php.net/manual/en/mysqlinfo.api.choosing.php)
 [PDO vs. MySQLi: Which Should You Use?](https://code.tutsplus.com/tutorials/pdo-vs-mysqli-which-should-you-use--net-24059)
 Replacement:
-- [[#MySQLi Drivers]]
-- [[#PDO Drivers]]
+- [MySQLi Drivers](#mysqli-drivers)
+- [PDO Drivers](#pdo-drivers)
 
 
 ## PDO Drivers

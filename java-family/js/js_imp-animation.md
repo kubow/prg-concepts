@@ -16,7 +16,7 @@
 - [ScrollMagic ♥ Demo](https://scrollmagic.io/)
 	- [Parallax Sections - Examples - ScrollMagic](https://scrollmagic.io/examples/advanced/parallax_sections.html)
 
-## [[js-vue|Vue]] specific 
+## [Vue](js-vue.md) specific 
 
 - [Building a Parallax Scrolling Effect Component with Vue.js - Markus Oberlehner](https://markus.oberlehner.net/blog/building-a-parallax-scrolling-effect-component-with-vue/) [(source)](https://github.com/maoberlehner/building-a-parallax-scrolling-effect-component-with-vue/tree/master)
 - [Eagle.js](https://zulko.github.io/eaglejs-demo/#/)

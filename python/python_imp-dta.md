@@ -1,22 +1,22 @@
 # Work with data 
 
-- [[#Operating System|Orchestrate Operating System]]
+- [Orchestrate Operating System](#Operating System.md)
 - Data formats
-	- [[python_imp-dta-bins]]
-	- [[python_imp-dta-flats]]
-	- [[python_imp-dta-geo]]
-	- [[python_imp-dta-imgs]]
-	- [[python_imp-dta-sets]]
+	- [Binary](python_imp-dta-bins.md)
+	- [Flat files](python_imp-dta-flats.md)
+	- [Geographic](python_imp-dta-geo.md)
+	- [Images](python_imp-dta-imgs.md)
+	- [Data sets](python_imp-dta-sets.md)
 - Data managing libraries
-	- [[python-numpy]]
-	- [[python-pandas]]
-	- [[python-polars]]
-	- [[python-scipy]]
+	- [NumPy](python-numpy.md)
+	- [Pandas](python-pandas.md)
+	- [Polars](python-polars.md)
+	- [SciPy](python-scipy.md)
 - Data visualization libraries
-	- [[python-matplotlib]]
-	- [[python-plotly]]
+	- [MatPlotLib](python-matplotlib.md)
+	- [Plotly](python-plotly.md)
 	- [The Dygraphs Blog: PyDyGraphs, a dygraphs plotting module for IPython Notebooks](http://blog.dygraphs.com/2014/09/pydygraphs-dygraphs-plotting-module-for.html)
-- [[python_imp-dta-disp|Dashboarding with python]]
+- [Dashboarding with python](python_imp-dta-disp.md)
 
 [Cruising through complex data — Sedimental](https://sedimental.org/cruising_through_data.html)
 

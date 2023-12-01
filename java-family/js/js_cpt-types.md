@@ -1,9 +1,9 @@
 # JavaScript object types
 
 - Object
-	- [[#Arrays]]
-	- [[#Dates]]
-	- [[#Strings]]
+	- [Arrays](#arrays)
+	- [Dates](#dates)
+	- [Strings](#strings)
 - Function
 - Boolean
 - Symbol

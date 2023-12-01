@@ -1,11 +1,11 @@
 # JavaScript programming concepts
 
-- [[js_cpt-types|Object types]]
-- [[js_cpt-states|Statements and declarations]]
-- [[js_cpt-exp|Expressions and statements]]
-- [[#Fetching content]]
-- [[js_cpt-es|ES6]]
-- [[js_cpt-jsx|JSX]]
+- [Object types](js_cpt-types.md)
+- [Statements and declarations](js_cpt-states.md)
+- [Expressions and statements](js_cpt-exp.md)
+- [Fetching content](#fetching-content)
+- [ES6](js_cpt-es.md)
+- [JSX](js_cpt-jsx.md)
 
 
 

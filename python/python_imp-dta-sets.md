@@ -1,16 +1,16 @@
 
 # Data set manipulation and view in python
 
-- [[#matplotlib]] - data visualization
-- [[#numpy]] - fundamental for scientific computing
-- [[#pandas]] - data analysis and manipulation
-- [[#plotly]] - data visualization
-- [[#PYODBC]]
-- [[#pyplot]] - data visualization
-- [[#scikit-learn]] - comprehensive package
-- [[#seaborn]] - statistical data visualization
-- [[#scipy]] - algorithms for scientific computing
-- [[#SQLAlchemy]]
+- [MatPlotLib](#matplotlib.md) - data visualization
+- [NumPy](#numpy.md) - fundamental for scientific computing
+- [Pandas](#pandas.md) - data analysis and manipulation
+- [Plotly](#plotly.md) - data visualization
+- [PyODBC](#PYODBC.md)
+- [PyPlot](#pyplot.md) - data visualization
+- [SciKit learn](#scikit-learn.md) - comprehensive package
+- [SeaBorn](#seaborn.md) - statistical data visualization
+- [SciPy](#scipy.md) - algorithms for scientific computing
+- [SQL Alchemy](#SQLAlchemy.md)
 
 
 Matlab replacement [https://vnoel.wordpress.com/2008/05/03/bye-matlab-hello-python-thanks-sage/](https://vnoel.wordpress.com/2008/05/03/bye-matlab-hello-python-thanks-sage/)
@@ -63,7 +63,7 @@ pd.DataFrame([id, x])
 [pandas.read_fwf — pandas 1.4.0 documentation (pydata.org)](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.read_fwf.html)
 [pandas.DataFrame.from_dict — pandas 1.4.0 documentation (pydata.org)](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.from_dict.html)
 
-[[python_imp-dta-flats#pandas.read_csv|pands.read_csv examples]]
+[pands.read_csv examples](python_imp-dta-flats#pandas.read_csv.md)
 [pandas read_json: "If using all scalar values, you must pass an index"](https://stackoverflow.com/questions/38380795/pandas-read-json-if-using-all-scalar-values-you-must-pass-an-index#38381219)
 
 [python - Idiomatic way to parse POSIX timestamps in pandas? - Stack Overflow](https://stackoverflow.com/questions/12251483/idiomatic-way-to-parse-posix-timestamps-in-pandas)  

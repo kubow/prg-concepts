@@ -11,8 +11,15 @@
             "id": "c2bd36a875d77a28",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "canvas",
+              "state": {
+                "file": "Untitled.canvas",
+                "viewState": {
+                  "x": 3.2686966609956585,
+                  "y": -322.30062612533567,
+                  "zoom": 0
+                }
+              }
             }
           }
         ]
@@ -81,6 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Untitled.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Untitled.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +127,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Untitled.canvas"
+              }
             }
           }
         ]
@@ -140,8 +151,14 @@
   },
   "active": "c2bd36a875d77a28",
   "lastOpenFiles": [
-    "html-css/html-css.md",
     "Readme.md",
+    "Untitled.canvas",
+    "python/python.md",
+    "java-family/js/js.md",
+    "java-family/js/js_cpt.md",
+    "java-family/js/js-angular.md",
+    "java-family/js/js-node.md",
+    "html-css/html-css.md",
     "control/control.md",
     "control/git.md",
     "shell-family/powershell.md",
@@ -169,12 +186,6 @@
     "rust/rust_cpt.md",
     "java-family/js/js-react_cpt-ecosystem.md",
     "java-family/js/js-react_cpt-evthand.md",
-    "java-family/js/js-react_cpt-test.md",
-    "python/python_imp-ntw.md",
-    "python/python.md",
-    "java-family/js/js-react.md",
-    "concepts/waterfall.md",
-    "concepts/algorithm.md",
-    "java-family/js/js_imp-chart.md"
+    "java-family/js/js-react_cpt-test.md"
   ]
 }

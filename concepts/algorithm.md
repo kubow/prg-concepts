@@ -11,5 +11,5 @@
 
 ## Methods
 
-- [[SCRUM]]
-- [[waterfall]]
+- [SCRUM](SCRUM.md)
+- [Waterfall](waterfall.md)

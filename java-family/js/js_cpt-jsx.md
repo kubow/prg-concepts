@@ -26,7 +26,7 @@ const element = (
 );
 ```
 
-[[babel]] compiles JSX down to React.createElement() calls:
+[Babel](babel.md) compiles JSX down to React.createElement() calls:
 
 ```javascript
 const element = React.createElement(

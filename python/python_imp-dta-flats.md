@@ -1,9 +1,9 @@
 
-- [[#files & dirs]]
-- [[#csv.DictReader]]
-- [[#JSON]]
-- [[#pandas.read_csv]]
-- [[#XML]]
+- [Files & Directories](#files-&-dirs)
+- [csv DictReader](#csv.dictreader)
+- [JSON](#json)
+- [Pandas read_csv](#pandas.read_csv)
+- [XML](#xml)
 
 ## files & dirs
 
