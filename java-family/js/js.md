@@ -7,11 +7,15 @@ https://en.wikipedia.org/wiki/JavaScript
 	- [Node.js](js-node)
 - Web frameworks ([comparison](https://en.wikipedia.org/wiki/Comparison_of_JavaScript-based_web_frameworks))
 	- [Angular](js-angular.md)
+	- Appcelerator
 	- Apache Wicket ([wiki](https://en.wikipedia.org/wiki/Apache_Wicket))
 	- Backbone.js ([wiki](https://en.wikipedia.org/wiki/Backbone.js))
+	- Cordova
 	- Ember.js ([wiki](https://en.wikipedia.org/wiki/Ember.js))
 	- [jQuery](js-jquery)
+	- NativeScript
 	- [React.js](js-react.md)
+	- React Native
 	- [SAP OpenUI5](js-openui5.md)
 	- Sencha ([wiki](https://en.wikipedia.org/wiki/Ext_JS))
 	- [Svelte.js](js-svelte.md)
