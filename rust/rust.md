@@ -12,3 +12,7 @@ Available packages:
   - [Tauri Apps (desktop applications with a web frontend)](https://tauri.app/)
   - [Leptos (Modern Web Frameword)](https://leptos.dev/)
   -
+
+
+[wiseaidev/rust-data-analysis: Rust for data analysis encyclopedia (WIP).](https://github.com/wiseaidev/rust-data-analysis)
+
