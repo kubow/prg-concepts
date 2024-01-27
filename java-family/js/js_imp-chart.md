@@ -1,6 +1,6 @@
 # JavaScript charting 
 
-- [JavaScript Charts & Maps - amCharts](https://www.amcharts.com/)
+- [amCharts](#amcharts)
 - [Canvas](#canvas)
 - [DOJO](#dojo)
 - [Dygraph](#dygraph)
@@ -15,6 +15,10 @@
 [Javascript charts comparison](https://socialcompare.com/en/comparison/javascript-graphs-and-charts-libraries) 
 [Alternative to Google Visualization's Annotated Timeline? - Stack Overflow](https://stackoverflow.com/questions/6783655/alternative-to-google-visualizations-annotated-timeline-graphing-library)
 
+## amCharts
+
+[JavaScript Charts & Maps - amCharts](https://www.amcharts.com/)
+[Chart Demos - amCharts](https://www.amcharts.com/demos/)
 
 ## Canvas
 
@@ -72,5 +76,6 @@ Fiddles
 
 [Highcharts | Highcharts.com](https://www.highcharts.com/demo)
 [Master-detail chart | Highcharts.com](https://www.highcharts.com/demo/dynamic-master-detail)
+[Highcharts Demos and Examples | Highcharts](https://www.highcharts.com/demo)
 
 Highcharts labeling value [http://jsfiddle.net/jlbriggs/zXLZA/](http://jsfiddle.net/jlbriggs/zXLZA/)
