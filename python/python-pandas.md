@@ -9,6 +9,7 @@ pandas [http://pandas.pydata.org/](http://pandas.pydata.org/)
 
 [Plot With Pandas: Python Data Visualization for Beginners – Real Python](https://realpython.com/pandas-plot-python/)
 
+[The Magic of Pandas Profiling. Imagine having a tool that can unravel… | by Shlok Nangia | Medium](https://medium.com/@shloknangia/the-magic-of-pandas-profiling-ce18ac3379fd)
 
 ## Loading data
 

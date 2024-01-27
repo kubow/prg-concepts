@@ -11,6 +11,7 @@
 - [SeaBorn](#seaborn.md) - statistical data visualization
 - [SciPy](#scipy.md) - algorithms for scientific computing
 - [SQL Alchemy](#SQLAlchemy.md)
+- [Vega](#vega)
 
 
 Matlab replacement [https://vnoel.wordpress.com/2008/05/03/bye-matlab-hello-python-thanks-sage/](https://vnoel.wordpress.com/2008/05/03/bye-matlab-hello-python-thanks-sage/)
@@ -147,3 +148,9 @@ https://seaborn.pydata.org/
 
 Python Data: Quick Tip: SQLAlchemy for MySQL and Pandas [https://pythondata.com/quick-tip-sqlalchemy-for-mysql-and-pandas/](https://pythondata.com/quick-tip-sqlalchemy-for-mysql-and-pandas/)
 
+
+
+## Vega
+
+[A Visualization Grammar | Vega](https://vega.github.io/vega/)
+[Overview — Vega-Altair 5.2.0 documentation](https://altair-viz.github.io/getting_started/overview.html)
