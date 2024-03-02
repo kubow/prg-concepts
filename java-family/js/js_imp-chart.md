@@ -2,6 +2,7 @@
 
 - [amCharts](#amcharts)
 - [Canvas](#canvas)
+- [D3](#d3)
 - [DOJO](#dojo)
 - [Dygraph](#dygraph)
 - [Highcharts](#highcharts)
@@ -34,6 +35,16 @@
 Fiddles
 [Chart js line example - JSFiddle - Code Playground](https://jsfiddle.net/leighking2/vcpLzvzh/)
 [chartjs zoom and pan](https://codepen.io/thinkerBell/pen/ZNNwWV)
+
+
+## D3
+
+[Using React with D3.js](https://2019.wattenberger.com/blog/react-and-d3)
+
+[D3 Circular Bar Chart Tutorial](https://yangdanny97.github.io/blog/2023/08/06/circular-bar-chart)
+[How to build a Radial Bar Chart with D3 JS and React JS - DEV Community](https://dev.to/simbamkenya/how-to-build-a-radial-bar-chart-with-d3-js-and-react-js-3cil)
+[Getting Started with Svelte and d3.js | by Dominik Jäckle | CodeX | Medium](https://medium.com/codex/getting-started-with-svelte-and-d3-js-ea915d2c2c2c)
+[Scatterplot • Svelte Examples](https://svelte.dev/examples/scatterplot)
 
 
 ## DOJO
