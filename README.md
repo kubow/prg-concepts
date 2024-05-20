@@ -2,6 +2,9 @@
 
 A curated list of links to programming solutions and languages.
 
+[breck7/pldb: PLDB: a Programming Language Database. A computable encyclopedia about programming languages.](https://github.com/breck7/pldb)
+
+
 ## General concepts
 
 - [algorithm](concepts/algorithm.md)
@@ -14,6 +17,8 @@ A curated list of links to programming solutions and languages.
 [Obsidian supported languages](https://prismjs.com/#supported-languages)
 
 [Silly Mistakes to Avoid while Coding | Codementor](https://www.codementor.io/@nimeshneema/silly-mistakes-to-avoid-while-coding-21skyd4obx)
+[A Guide to Cross Platform App Development Frameworks in 2024](https://www.netsolutions.com/insights/cross-platform-app-frameworks-in-2019/)
+[paradite/frontend-encyclopedia: Frontend Encyclopedia](https://github.com/paradite/frontend-encyclopedia)
 
 # Programming languages
 
