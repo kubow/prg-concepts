@@ -11,7 +11,7 @@ List of GUI libraries:
 
 - [appJar](#appjar)
 - [BeeWare](https://beeware.org/)
-- [Kivy](pyton-kivy.md)
+- [Kivy](./python-kivy.md)
 - Pyforms
 - PyGTK
 - PyjamasDesktop

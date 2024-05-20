@@ -22,11 +22,11 @@
 
 [Multi-Region Python Applications | TestDriven.io](https://testdriven.io/blog/python-multi-region/)
 
-50 Most Popular Python Projects in 2018 [https://boostlog.io/@bily809/50-most-popular-python-projects-in-2018-5aea8e1c47018500491f4361](https://boostlog.io/@bily809/50-most-popular-python-projects-in-2018-5aea8e1c47018500491f4361)  
+[42 Exciting Python Project Ideas & Topics for Beginners in 2024 With Source Code \[Latest\] | upGrad blog](https://www.upgrad.com/blog/python-projects-ideas-topics-beginners/)
   
-Yasoob Khalid: Top 14 MOST famous Python libraries & frameworks [https://pythontips.com/2018/06/03/top-14-most-famous-python-libraries-frameworks/](https://pythontips.com/2018/06/03/top-14-most-famous-python-libraries-frameworks/)  
+[Top 14 MOST famous Python libraries & frameworks - Yasoob Khalid](https://yasoob.me/2018/06/03/top-14-most-famous-python-libraries-frameworks/)
   
-[Itertools in Python 3, By Example – Real Python](https://realpython.com/python-itertools/)  
+[Itertools in Python 3, By Example – Real Python](https://realpython.com/python-itertools/) 
   
 [Intro to the Python Random Module (stackabuse.com)](https://stackabuse.com/intro-to-the-python-random-module/)  
 
