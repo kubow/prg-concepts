@@ -5,6 +5,7 @@
 [A Python Orientation - How To Get Started - PyBites](https://pybit.es/articles/guest-python-orientation/)
 [Think Python](http://www.samuelbosch.com/2014/06/think-python.html)
 [rasbt/python_reference: Useful functions, tutorials, and other Python-related things](https://github.com/rasbt/python_reference)
+[vinta/awesome-python: An opinionated list of awesome Python frameworks, libraries, software and resources.](https://github.com/pawelborkar/awesome-repos?tab=readme-ov-file#programming-languages)
 [What Can I Do With Python? – Real Python](https://realpython.com/what-can-i-do-with-python/)
 [Python 3 Tutorial - Learn Python in 30 Minutes.](https://www.programiz.com/python-programming/tutorial)
 

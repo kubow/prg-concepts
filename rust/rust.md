@@ -3,6 +3,8 @@
 - [**Tour of Rust**](https://tourofrust.com/TOC_en.html) - Live code and explanations, side by side.
 - [**Rust in Easy English**](https://dhghomon.github.io/easy_rust/Chapter_3.html) - 60+ concepts, simple English, example-driven.
 - [Rust concepts](rust_cpt.md)
+- [rust-unofficial/awesome-rust: A curated list of Rust code and resources.](https://github.com/rust-unofficial/awesome-rust/search?l=rust)
+- 
 
 ## Install
 
