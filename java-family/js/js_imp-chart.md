@@ -8,7 +8,8 @@
 - [Highcharts](#highcharts)
 - [Charting](http://mannaio.altervista.org/design/interactive-javascript-charts/)
 - [Chart.js](#chart.js)
-- [Flotr](https://www.script-tutorials.com/html5-charts-and-graphs/) 
+- [Flotr](https://www.script-tutorials.com/html5-charts-and-graphs/)
+- [Perspective | Perspective](https://perspective.finos.org/)
 - [JavaScript Charts in one powerful declarative library | ZingChart](https://www.zingchart.com/)
 
 [The Many Ways of Getting Data Into Charts | CSS-Tricks - CSS-Tricks](https://css-tricks.com/the-many-ways-of-getting-data-into-charts/)
