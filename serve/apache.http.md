@@ -15,3 +15,8 @@ cd /var/www/html #path to webserver
 
 
 [Configuring the Apache Web Server to Run Python on Windows](https://editrocket.com/articles/python_apache_windows.html)
+
+
+# .htaccess
+
+[htaccess File Type – Basic and Simple Guide for Beginners](https://www.filecloud.com/blog/htaccess-for-beginners/)
