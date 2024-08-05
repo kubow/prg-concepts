@@ -12,6 +12,7 @@
 	- [Webinar Recording: “10 Tools and Techniques Python Web Developers Should Explore”](http://feedproxy.google.com/~r/Pycharm/~3/fStfTyD0ylE/) 
 	- [configure issues](https://www.jetbrains.com/help/pycharm/2016.1/configuring-python-interpreter-for-a-project.html?origin=old_help)
 - [PyDev](http://pydev.sourceforge.net/) (Cross-platform; Free; Open-source)
+- [PyPE](https://pype.sourceforge.net/index.shtml) (Cross-platform; Free; Open-source)
 - [PythonCard](http://pythoncard.sourceforge.net/) (Cross-platform; Free; Open-source)
 - **Thonny** (Cross-platform; Free; Open-source)
 	- [Thonny: The Beginner-Friendly Python Editor](https://realpython.com/python-thonny/)
