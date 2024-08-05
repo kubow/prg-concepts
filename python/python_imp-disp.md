@@ -5,35 +5,57 @@ GUI v Pythonu [http://stackoverflow.com/questions/9319317/quick-and-easy-file-di
 Python GUI programming [http://www.tutorialspoint.com/python/python_gui_programming.htm](http://www.tutorialspoint.com/python/python_gui_programming.htm)  
 
 [Tvorba textového rozhraní s knihovnou prompt_toolkit: základní prvky TUI](https://www.root.cz/clanky/tvorba-textoveho-rozhrani-s-knihovnou-prompt-toolkit-zakladni-prvky-tui/?utm_source=rss&utm_medium=text&utm_campaign=rss)  
-13 Python GUI Libraries [https://medium.com/issuehunt/13-python-gui-libraries-a6196dfb694](https://medium.com/issuehunt/13-python-gui-libraries-a6196dfb694)  
 
-List of GUI libraries:
+
+List of GUI libraries ([overview](https://medium.com/issuehunt/13-python-gui-libraries-a6196dfb694)  ):
 
 - [appJar](#appjar)
 - [BeeWare](https://beeware.org/)
+- Dash from [Plotly](python-plotly.md) (Dashboarding)
+- [Gradio](#gradio) (Web)
 - [Kivy](./python-kivy.md)
+- [Panel](https://panel.holoviz.org/) from Anaconda (Dashboarding)
 - Pyforms
 - PyGTK
 - PyjamasDesktop
 - [PyQT](#pyqt)
 - [PySide](#pyside)
+- [Streamlit](python-streamlit.md) (Web)
 - [TkInter](python-tk.md)
+- [Voilà](https://github.com/voila-dashboards/voila) (Jupyter Dashboarding)
 - [wxPython](#wxpython)
 - Wax
-  
+ 
+Games:
+
+- Panda3d
+- PyGame ([Zero](https://pygame-zero.readthedocs.io/en/latest/)  )
+- PyOpenGL
+- 
+- Pygame 
+
 Python GUI for database [http://www.python-camelot.com/](http://www.python-camelot.com/)  
 Dabo, python database [https://dabodev.com/](https://dabodev.com/)  
-  
-  
 
-PyPe [http://sourceforge.net/projects/pype/](http://sourceforge.net/projects/pype/)  
-  
-Pygame Zero [https://pygame-zero.readthedocs.io/en/latest/](https://pygame-zero.readthedocs.io/en/latest/)  
-  
+Dashboarding ([overview in PyViz](https://pyviz.org/dashboarding/)):
+
+- 
+- 
+- 
+- 
+- [How I Create Dazzling Dashboards Purely in Python.](https://www.the-analytics.club/plotly-dashboards-in-python)
+- [Streamlit vs Dash vs Voilà vs Panel — Battle of The Python Dashboarding Giants | by Stephen Kilcommins | DataDrivenInvestor](https://medium.datadriveninvestor.com/streamlit-vs-dash-vs-voil%C3%A0-vs-panel-battle-of-the-python-dashboarding-giants-177c40b9ea57)
+
 # appJar
 
 [Tvorba GUI pomocí appJar (root.cz)](https://www.root.cz/clanky/tvorba-grafickeho-uzivatelskeho-rozhrani-v-pythonu-s-vyuzitim-knihovny-appjar/)
 
+
+## Gradio
+
+demo machine learning model
+
+[Gradio](https://www.gradio.app/)
 
 # PyQT
 

@@ -1,6 +1,6 @@
-- [python programming concepts](python_cpt.md)
-- [python IDE's](python_edt.md)
-- [implementation areas](python_imp.md)
+- (cpt) [python programming concepts](python_cpt.md)
+- (edt) [python editors and IDE's](python_edt.md)
+- (imp) [implementation areas](python_imp.md)
 
 [A Python Orientation - How To Get Started - PyBites](https://pybit.es/articles/guest-python-orientation/)
 [Think Python](http://www.samuelbosch.com/2014/06/think-python.html)

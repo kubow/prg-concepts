@@ -1,4 +1,4 @@
-# Python network requesting
+# network requesting
 
 - [API](#api)
 - [BeautifulSoup](#beautifulsoup)
