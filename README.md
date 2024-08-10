@@ -4,7 +4,6 @@ A curated list of links to programming solutions and languages.
 
 [breck7/pldb: PLDB: a Programming Language Database. A computable encyclopedia about programming languages.](https://github.com/breck7/pldb)
 
-
 ## General concepts
 
 - [algorithm](concepts/algorithm.md)
@@ -22,19 +21,19 @@ A curated list of links to programming solutions and languages.
 
 # Programming languages
 
-- [c-family](c-family/c-family.md)
-- [cobol](cobol.md)
-- [go](go/go.md)
-- [elixir](elixir.md)
-- [html-css](html-css/html-css.md)
-- [java-family](java-family/java-family.md)
-- [perl](perl/perl.md)
-- [php](php/php.md)
-- [python](python/python.md)
+- [C-family](c-family/c-family.md)
+- [Cobol](cobol.md)
+- [Go](go/go.md)
+- [Elixir](elixir.md)
+- [HTML-CSS](html-css/html-css.md)
+- [Java-family](java-family/java-family.md)
+- [Perl](perl/perl.md)
+- [PHP](php/php.md)
+- [Python](python/python.md)
 - [R-project](r-family/R-project.md)
-- [ruby](ruby/ruby.md)
-- [rust](rust/rust.md)
-- [shell-family](shell-family/shell-family.md)
+- [Ruby](ruby/ruby.md)
+- [Rust](rust/rust.md)
+- [Shell-family](shell-family/shell-family.md)
 - transpilers
   - [babel](transpilers/babel.md)
   - [dart](transpilers/dart.md)
