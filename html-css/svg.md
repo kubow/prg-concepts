@@ -11,3 +11,4 @@ SVG scale with parent container [https://stackoverflow.com/questions/19484707/ho
   
 Dynamic SVG documents [https://mastery.games/post/dynamic-svg-components/](https://mastery.games/post/dynamic-svg-components/)
 
+[Making SVGs Responsive with CSS | Codrops](https://tympanus.net/codrops/2014/08/19/making-svgs-responsive-with-css/)
