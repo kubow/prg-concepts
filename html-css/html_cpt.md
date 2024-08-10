@@ -1,6 +1,33 @@
-[http://diveintohtml5.info/](http://diveintohtml5.info/)
-[https://www.html5rocks.com/en/](https://www.html5rocks.com/en/)
-  
+
+[HTML CODES CHEAT SHEET](https://www.killersites.com/HTML_CODES/)
+[HTML Tags](https://html-tags.info/)
+[Index DOT Html: THE Advanced HTML Reference](http://www.blooberry.com/indexdot/html/index.html)
+
+```html
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Page title</title>
+		<style type="text/css"></style>
+	</head>
+	<body>
+		<h1>Headers from H1 to H6</h1>
+		<p>Paragraph can be <b>bold</b>, <u>underlined</u> or <i>italics</i> type</p>
+		<br/><span /><!-- forced newline character-->
+		<div id="" class="">for new object</div>
+		<sub>subscripted</sub><sup>superscripted</sup>
+		<img src="image.png" />
+		<a href="file_or_address">hyperlink</a>
+		<ul type = "disc"><!-- unordered - <ol typpe="1"> for ordered etc-->
+			<li>list_item</li>
+			<li>list_item</li>
+		</ul>
+	</body>
+</html>
+```
+
+
+### HTML 5  
 [Ponořme se do HTML5 (nic.cz)](https://knihy.nic.cz/#HTML5)
   
 HTML5 demos & examples [https://html5demos.com/](https://html5demos.com/)  
@@ -12,33 +39,33 @@ HTML5 demos & examples [https://html5demos.com/](https://html5demos.com/)
 [The New Standard for HTML](http://www.w3schools.com/html/) - The W3Schools introduction to HTML5.  
 [WTF is HTML5](http://www.comparebusinessproducts.com/content/assets/40/fyi/HTML5.png) - An infographic about HTML5.  
 [Backwards Compatibility with Unsupported Browsers](http://html5doctor.com/how-to-get-html5-working-in-ie-and-firefox-2/) - A way to make outdated browsers (IE8 and below) run HTML5 code.  
+[Back to basics: how to code an HTML5 template | WDD](https://www.webdesignerdepot.com/2012/03/back-to-basics-how-to-code-an-html5-template/)
   
-[https://www.webdesignerdepot.com/2012/03/back-to-basics-how-to-code-an-html5-template/](https://www.webdesignerdepot.com/2012/03/back-to-basics-how-to-code-an-html5-template/)  
-
-w3c Web Standards [https://www.w3.org/](https://www.w3.org/)  
-w3c Schools Tutorials [https://www.w3schools.com/](https://www.w3schools.com/)  
   
 Dynamic HTML [http://www.dynamicdrive.com/](http://www.dynamicdrive.com/)  
-Start Learning HTML and CSS With This Ultimate Guide [https://lifehacker.com/start-learning-html-and-css-with-this-ultimate-guide-1832590949](https://lifehacker.com/start-learning-html-and-css-with-this-ultimate-guide-1832590949)  
-  
+
 [http://www.smashingmagazine.com/2013/03/goodbye-zen-coding-hello-emmet/](http://www.smashingmagazine.com/2013/03/goodbye-zen-coding-hello-emmet/)  
-[http://www.theoreticallycorrect.com/cssZenGarden/](http://www.theoreticallycorrect.com/cssZenGarden/)  
+
   
+### Text writing 
+- [HTML entity codes of Special Text characters](https://text-symbols.com/html/)
+
+
+### Color Coding
+- [HTML Color Codes](https://html-color-codes.info/)
+- [Paletton - The Color Scheme Designer](https://paletton.com/)
+
+
+### Size Design
+
+- [Viewport Sized Typography | CSS-Tricks](https://css-tricks.com/viewport-sized-typography/)
   
-HTML Symbols [https://text-symbols.com/html/](https://text-symbols.com/html/)  
-HTML codes cheat sheet [https://www.killersites.com/HTML_CODES/](https://www.killersites.com/HTML_CODES/)  
-HTML tags [http://html-tags.info/](http://html-tags.info/)  
-HTML Color Codes [https://html-color-codes.info/](https://html-color-codes.info/)  
-Color Scheme designer [http://paletton.com/#uid=1000u0kllllaFw0g0qFqFg0w0aF](http://paletton.com/#uid=1000u0kllllaFw0g0qFqFg0w0aF)  
-px 2 em [http://pxtoem.com/](http://pxtoem.com/)  
-  
-YAML Builder [http://builder.yaml.de/](http://builder.yaml.de/)  
 Creating a sitemap [https://www.slideshare.net/JeannieMelinz1/creating-a-website-sitemap](https://www.slideshare.net/JeannieMelinz1/creating-a-website-sitemap)  
 Web Designer Forum [https://www.webdesignerforum.co.uk/](https://www.webdesignerforum.co.uk/)  
   
 Ultimate HTML/CSS Resource [http://www.blooberry.com/](http://www.blooberry.com/)
 
-Tizag tutorials [http://www.tizag.com/](http://www.tizag.com/)  
+
 Learn Web Developement skills [http://www.onlywebpro.com/](http://www.onlywebpro.com/)  
 
 
