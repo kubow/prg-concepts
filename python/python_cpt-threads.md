@@ -17,6 +17,7 @@
 [Quick dog-piling (aka stampeding herd) URL stresstest - Peterbe.com](https://www.peterbe.com/plog/quick-dog-piling-url-stresstest)
 [Writing a custom Datadog reporter using the Python API - Peterbe.com](https://www.peterbe.com/plog/writing-a-custom-datadog-reporter-using-the-python-api)
 
+[Python Multiprocessing Pool: The Complete Guide - Super Fast Python](https://superfastpython.com/multiprocessing-pool-python/)
 
 ## Special frameworks to deal with parallel processing
 
