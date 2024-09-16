@@ -6,4 +6,6 @@
 [Canvas Demos](http://corehtml5canvas.com/code-live/) - Canvas tutorials and demos in HTML5  
 Canvas Charts [http://www.tutorialspark.com/html5/HTML5_Canvas_Graphs_Charts.php](http://www.tutorialspark.com/html5/HTML5_Canvas_Graphs_Charts.php)  
 HTML5 Canvas Chart [https://allofjava.wordpress.com/2014/05/20/html5-canvas-graph/](https://allofjava.wordpress.com/2014/05/20/html5-canvas-graph/)  
-  
+
+
+[html - html5 - canvas element - Multiple layers - Stack Overflow](https://stackoverflow.com/questions/3008635/html5-canvas-element-multiple-layers)
