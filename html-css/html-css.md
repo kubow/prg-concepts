@@ -29,3 +29,7 @@
 
 ### JSON/YAML
 [YAML Builder | A tool for visual development of YAML based CSS layouts](http://builder.yaml.de/)
+
+
+### Locales
+- [multilingual.html](https://gist.github.com/prof3ssorSt3v3/16cf1277e5ecdcc9f424283f0080f52b)
