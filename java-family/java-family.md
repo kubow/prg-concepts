@@ -1,5 +1,5 @@
 - [JAVA Programming Language](java.md)
-- [JavaScript](js.md)
+- [JavaScript](js/js.md)
 - [actionscript](actionscript.md)
 - [AJAX](ajax.md)
 - [flutter](flutter.md)
