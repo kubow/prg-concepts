@@ -11,9 +11,13 @@
 - Get installer from [**rustup.rs**](https://rustup.rs/)
 - add to $PATH variable
 - `rustc` binary
-- `cargo` binary: Package manager: [Introduction - The Cargo Book](https://doc.rust-lang.org/cargo/index.html)
+- `cargo` binary
+	- Create new project `cargo new foo`
+	- Add new package `cargo add package_name`
+	- Compiling `cargo test` and `cargo build`
+	- Package manager: [Introduction - The Cargo Book](https://doc.rust-lang.org/cargo/index.html)
 
-- [Implementation libraries](./rust_imp.md)
+- [Implementation libraries](./rust_imp.md) (aka cargo crates)
 
 ## Editors
 
