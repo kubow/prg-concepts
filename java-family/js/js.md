@@ -11,7 +11,7 @@ https://en.wikipedia.org/wiki/JavaScript
 	- Apache Wicket ([wiki](https://en.wikipedia.org/wiki/Apache_Wicket))
 	- Backbone.js ([wiki](https://en.wikipedia.org/wiki/Backbone.js))
 	- Cordova
-	- Ember.js ([wiki](https://en.wikipedia.org/wiki/Ember.js))
+	- [Ember.js](./js-ember.md)
 	- [jQuery](js-jquery)
 	- NativeScript
 	- [React.js](js-react.md)

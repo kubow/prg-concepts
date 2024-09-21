@@ -30,9 +30,9 @@ Complexity explained with Big O Notation:
 
 ## Algorithm types
 
-- [Searching Algorithms](./algorithm_search.md) (Binary Search)
-- [Sorting Algorithms](./algorithm_sort.md) (Quick Sort, merge Sort, ...)
-- [Graph Algorithms](./algorithm_graph.md)
+- [Searching Algorithms](./algorithm/search.md) (Binary Search)
+- [Sorting Algorithms](./algorithm/sort.md) (Quick Sort, merge Sort, ...)
+- [Graph Algorithms](./algorithm/graph.md)
 
 
 

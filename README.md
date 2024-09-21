@@ -7,6 +7,7 @@ A curated list of links to programming solutions and languages.
 ## General concepts
 
 - [algorithm](concepts/algorithm.md)
+- [architecture](concepts/architecture.md)
 - [control](control/control.md)
 - [design](concepts/design.md)
 - [dev_concepts](concepts/dev_concepts.md)

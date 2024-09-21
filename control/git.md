@@ -9,6 +9,8 @@
 [aashimaahuja/git-advanced](https://github.com/aashimaahuja/git-advanced)
 
 
+- [GIT COMMIT](./git.commit.md)
+
 GIT GUIs
 [Getting started with git gui on Windows — pydagogue 0.2 documentation](https://matthew-brett.github.io/pydagogue/git_gui_windows.html)
 [Interfaces, frontends, and tools - Git SCM Wiki](https://archive.kernel.org/oldwiki/git.wiki.kernel.org/index.php/InterfacesFrontendsAndTools.html#Graphical_Interfaces)
