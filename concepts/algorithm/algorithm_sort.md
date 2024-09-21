@@ -1,0 +1,5 @@
+- Bubble sort
+- Merge sort
+- Quick sort
+- Heap sort
+- Selection sort (select minimum element, swaps into position)
