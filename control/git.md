@@ -5,6 +5,10 @@
 [git - the simple guide - no deep shit!](http://rogerdudler.github.io/git-guide/)
 [Git Hosting · Boxes: Your Second Python Book](https://ralsina.gitlab.io/boxes-book/part3/git_hosting.run.html)
 
+[Git - Book](https://git-scm.com/book/en/v2)
+[aashimaahuja/git-advanced](https://github.com/aashimaahuja/git-advanced)
+
+
 GIT GUIs
 [Getting started with git gui on Windows — pydagogue 0.2 documentation](https://matthew-brett.github.io/pydagogue/git_gui_windows.html)
 [Interfaces, frontends, and tools - Git SCM Wiki](https://archive.kernel.org/oldwiki/git.wiki.kernel.org/index.php/InterfacesFrontendsAndTools.html#Graphical_Interfaces)
@@ -14,11 +18,13 @@ GIT GUIs
 ```shell
 # cross platform syntax (linux, win, mac)  
 git init  # create new local dir repository
+git status # get list of changes in project
 git clone git://github.com/user/name.git <folder>  # remote repository > local repository
 git pull # changes made in remote repository > local repository
 
 git status  # show changes in local dir
 git add <file>  # local dir > staging area
+git reset <file>  # staging area > local dir
 git commit -m “comment”  # staging area > local repository
 git push # local repository > remote repository
   
