@@ -1,3 +1,23 @@
+Docker is a tool designed to make it easier to create, deploy, and run applications by using containers. Containers allow a developer to package up an application with all of the parts it needs, such as libraries and other dependencies, and ship it all out as one package.
+- Provides a uniformed wrapper around a software package: (Build, Ship and Run Any App, Anywhere)
+https://opensource.com/resources/what-docker
+
+docker basic commands
+```shell
+docker info
+docker images
+docker ps  # alternative docker container ls
+docker run image_name
+docker compose up -d --build
+docker history image_name
+```
+
+enable user to run docker without sudo
+```shell
+groups #check if user in docker group, if not:
+sudo usermod -aG docker $USER  # log out/log in + verify again
+```
+
 
 [10 things to avoid in docker containers | Red Hat Developer](https://developers.redhat.com/blog/2016/02/24/10-things-to-avoid-in-docker-containers)
 
@@ -18,20 +38,4 @@
 [Docker now helps you manage containers across clouds | ZDNET](https://www.zdnet.com/article/docker-now-helps-you-manage-containers-across-clouds/#ftag=RSSbaffb68)
 
 https://docs.docker.com/get-started/docker_cheatsheet.pdf
-
-docker basic commands
-```shell
-docker info
-docker images
-docker ps  # alternative docker container ls
-docker run image_name
-docker compose up -d --build
-docker history image_name
-```
-
-enable user to run docker without sudo
-```shell
-groups #check if user in docker group, if not:
-sudo usermod -aG docker $USER  # log out/log in + verify again
-```
 
