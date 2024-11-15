@@ -2,6 +2,7 @@
 ### Concepts
 
  -  [css-bem](css-bem.md) - naming convention
+ - [css-grid](css-grid.md)
   - [css-flexbox](css-flexbox.md)
   - [css-pad-marg](css-pad-marg.md)
   - [css-sprites](css-sprites.md)
@@ -9,6 +10,7 @@
 [Is there an alternative to CSS? - Stack Overflow](https://stackoverflow.com/questions/925653/is-there-an-alternative-to-css/8345976#8345976)
 [CSS3 . Info - All you ever needed to know about CSS3](https://www.css3.info/)
 [CSS Almanac | CSS-Tricks](https://css-tricks.com/almanac/)
+[The Book of CSS3: A Developer's Guide to the Future of Web Design » FoxGreat](https://foxgreat.com/the-book-of-css3-a-developers-guide-to-the-future-of-web-design/)
 
 [CSS Zen Garden: The Beauty of CSS Design](https://www.csszengarden.com/)
 [Understanding CSS Zen Garden and the power of CSS](http://www.theoreticallycorrect.com/cssZenGarden/)
