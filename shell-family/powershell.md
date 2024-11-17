@@ -13,7 +13,10 @@ powershell.exe -Get-Module –ListAvailable
 
 
 ```powershell
-powershell -Get-Module –ListAvailable
+dir env:  # list all env variables
+Get-ChildItem env:  # alternative
+$env:ENV_VAR=""
+
 ```
 
 
@@ -48,4 +51,7 @@ multi-line command [https://stackoverflow.com/questions/3235850/how-to-enter-a-m
 
 [MS Access](https://technet.microsoft.com/en-us/magazine/2009.05.scriptingguys.aspx)
 [SQL, CSV or Excel](http://windowsitpro.com/powershell/csv-excel-or-sql-it-doesnt-matter-powershell)  
-  
+
+## Security
+
+[How to enable execution of PowerShell scripts? - Super User](https://superuser.com/questions/106360/how-to-enable-execution-of-powershell-scripts)
