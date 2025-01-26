@@ -13,6 +13,9 @@
 [Can You Charge for Open-Source Software? Making Money from Open-Source Projects](https://www.pythonguis.com/faq/charge-for-open-source-software/)
 [Python Developers Survey 2018 Results (jetbrains.com)](https://www.jetbrains.com/research/python-developers-survey-2018/#technologies)
 
+[What is the best project structure for a Python application? - Stack Overflow](https://stackoverflow.com/questions/193161/what-is-the-best-project-structure-for-a-python-application)
+
+
 ### Books- guides:
 
 - [The official beginners' guide](http://wiki.python.org/moin/BeginnersGuide), from Python.org

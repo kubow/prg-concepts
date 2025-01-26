@@ -4,4 +4,3 @@ The fundamental package for scientific computing with Python.
 
 [NumPy Tutorial: A Simple Example-Based Guide (stackabuse.com)](https://stackabuse.com/numpy-tutorial-a-simple-example-based-guide/)
 
-

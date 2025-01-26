@@ -1,6 +1,6 @@
 
-GUI [https://wiki.python.org/moin/GuiProgramming](https://wiki.python.org/moin/GuiProgramming)  
-GUI v Pythonu [http://stackoverflow.com/questions/9319317/quick-and-easy-file-dialog-in-python](http://stackoverflow.com/questions/9319317/quick-and-easy-file-dialog-in-python)  
+[GuiProgramming - Python Wiki](https://wiki.python.org/moin/GuiProgramming)
+[openfiledialog - Quick and easy file dialog in Python? - Stack Overflow](https://stackoverflow.com/questions/9319317/quick-and-easy-file-dialog-in-python)
 4 OpenSource GUI frameworks [https://opensource.com/life/16/5/open-source-python-gui-frameworks](https://opensource.com/life/16/5/open-source-python-gui-frameworks)  
 Python GUI programming [http://www.tutorialspoint.com/python/python_gui_programming.htm](http://www.tutorialspoint.com/python/python_gui_programming.htm)  
 
@@ -11,15 +11,19 @@ List of GUI libraries ([overview](https://medium.com/issuehunt/13-python-gui-lib
 
 - [appJar](#appjar)
 - [BeeWare](https://beeware.org/)
+- [Bottle: Python Web Framework](https://bottlepy.org/docs/dev/)
 - Dash from [Plotly](python-plotly.md) (Dashboarding)
+- [EasyGUI — easygui 0.97 (2014-12-20) documentation](https://easygui.sourceforge.net/)
 - [Gradio](#gradio) (Web)
 - [Kivy](./python-kivy.md)
+- [NiceGUI](https://nicegui.io/)
 - [Panel](https://panel.holoviz.org/) from Anaconda (Dashboarding)
 - Pyforms
 - PyGTK
 - PyjamasDesktop
 - [PyQT](#pyqt)
 - [PySide](#pyside)
+- [pywebview](https://pywebview.flowrl.com/)
 - [Streamlit](python-streamlit.md) (Web)
 - [TkInter](python-tk.md)
 - [Voilà](https://github.com/voila-dashboards/voila) (Jupyter Dashboarding)
@@ -51,7 +55,7 @@ Dashboarding ([overview in PyViz](https://pyviz.org/dashboarding/)):
 [Tvorba GUI pomocí appJar (root.cz)](https://www.root.cz/clanky/tvorba-grafickeho-uzivatelskeho-rozhrani-v-pythonu-s-vyuzitim-knihovny-appjar/)
 
 
-## Gradio
+# Gradio
 
 demo machine learning model
 

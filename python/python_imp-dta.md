@@ -1,4 +1,4 @@
-# Work with data 
+# Data set manipulation and view in python
 
 - [Orchestrate Operating System](#Operating System.md)
 - Data formats
@@ -6,16 +6,75 @@
 	- [Flat files](python_imp-dta-flats.md)
 	- [Geographic](python_imp-dta-geo.md)
 	- [Images](python_imp-dta-imgs.md)
-	- [Data sets](python_imp-dta-sets.md)
-- Data managing libraries
-	- [NumPy](python-numpy.md)
-	- [Pandas](python-pandas.md)
-	- [Polars](python-polars.md)
-	- [SciPy](python-scipy.md)
+- Data computation libraries
+	- [NumPy](./python-numpy.md)
+	- [Pandas](./python-pandas.md)
+	- [Polars](./python-polars.md)
+	- [SciKit learn](#scikit-learn.md) - comprehensive package
+	- [SciPy](./python-scipy.md) - algorithms for scientific computing
+	- [PyODBC](#PYODBC.md) - reusing windows native ODBC interface
+	- [SQL Alchemy](#SQLAlchemy.md)
 - Data visualization libraries
-	- [MatPlotLib](python-matplotlib.md)
+	- [MatPlotLib](./python-matplotlib.md)
 	- [Plotly](python-plotly.md)
-	- [The Dygraphs Blog: PyDyGraphs, a dygraphs plotting module for IPython Notebooks](http://blog.dygraphs.com/2014/09/pydygraphs-dygraphs-plotting-module-for.html)
+	- [PyDyGraphs: a dygraphs plotting module for IPython Notebooks](http://blog.dygraphs.com/2014/09/pydygraphs-dygraphs-plotting-module-for.html)
+	- [PyPlot](#pyplot.md)
+	- [SeaBorn](./python-seaborn.md) - statistical data visualization
+	- [Vega](#vega)
+
+
+
+[Pandas vs. FireDucks Performance Comparison](https://www.dailydoseofds.com/p/pandas-vs-fireducks-performance-comparison/)
+
+[Bye Matlab, hello Python, thanks Sage | Bloody Fingers](https://vnoel.wordpress.com/2008/05/03/bye-matlab-hello-python-thanks-sage/)
+
+[Time Series Analysis with LSTM using Python's Keras Library (stackabuse.com)](https://stackabuse.com/time-series-analysis-with-lstm-using-pythons-keras-library/)  
+
+[python - Efficient way to store and retrieve timestamped data from multiple sensors - Stack Overflow](https://stackoverflow.com/questions/57602831/efficient-way-to-store-and-retrieve-timestamped-data-from-multiple-sensors)  
+
+[Building a medallion style delta lake with Databricks by Glenn Franxman at HackerMojo.com](http://hackermojo.com/mt-static/archives/2023/02/databricks-medallion-deltalake.html)
+[Visualizing Formula 1 Qualifying Battles Using Python, Seaborn and Pandas | by Jasper | in Towards Formula 1 Analysis - Freedium](https://freedium.cfd/https://medium.com/towards-formula-1-analysis/visualizing-formula-1-qualifying-battles-using-python-seaborn-and-pandas-7e5fa5cc3db4)
+
+## PYODBC 
+
+[http://jayteknews.blogspot.cz/2011/09/command-line-query-mdb-python.html](http://jayteknews.blogspot.cz/2011/09/command-line-query-mdb-python.html)  
+[http://mkleehammer.github.io/pyodbc/](http://mkleehammer.github.io/pyodbc/)  
+[http://stackoverflow.com/questions/13994584/reading-dbf-files-with-pyodbc](http://stackoverflow.com/questions/13994584/reading-dbf-files-with-pyodbc)  
+[http://stackoverflow.com/questions/9518148/pyodbc-how-to-perform-a-select-statement-using-a-variable-for-a-parameter](http://stackoverflow.com/questions/9518148/pyodbc-how-to-perform-a-select-statement-using-a-variable-for-a-parameter)
+
+[randyzwitch.com | Creating an OmniSci ODBC Connection in RStudio Server](https://randyzwitch.com/mapd-odbc-rstudio-server/)
+## pyplot
+
+pyplot API [https://matplotlib.org/api/pyplot_api.html](https://matplotlib.org/api/pyplot_api.html)
+
+
+## Rio
+
+easy framework for creating websites (no HTML, CSS and JS needed)
+[Rio - Home](https://rio.dev/)
+
+
+## scikit-learn
+
+https://scikit-learn.org/stable/
+  
+[Text Classification with Python and Scikit-Learn (stackabuse.com)](https://stackabuse.com/text-classification-with-python-and-scikit-learn/)  
+
+[Stack Abuse: Random Forest Algorithm with Python and Scikit-Learn](http://stackabuse.com/random-forest-algorithm-with-python-and-scikit-learn/)
+
+
+
+## SQLAlchemy
+
+Python Data: Quick Tip: SQLAlchemy for MySQL and Pandas [https://pythondata.com/quick-tip-sqlalchemy-for-mysql-and-pandas/](https://pythondata.com/quick-tip-sqlalchemy-for-mysql-and-pandas/)
+
+
+
+## Vega
+
+[A Visualization Grammar | Vega](https://vega.github.io/vega/)
+[Overview — Vega-Altair 5.2.0 documentation](https://altair-viz.github.io/getting_started/overview.html)
+
 
 [Cruising through complex data — Sedimental](https://sedimental.org/cruising_through_data.html)
 
@@ -59,8 +118,6 @@ Read Gmail with python [https://codehandbook.org/how-to-read-email-from-gmail-us
 MySQLdb - python and databases [http://www.tutorialspoint.com/python/python_database_access.htm](http://www.tutorialspoint.com/python/python_database_access.htm)  
   
 Module web database [http://pythonweb.org/projects/webmodules/doc/0.5.3/html_multipage/lib/module-web.database.html](http://pythonweb.org/projects/webmodules/doc/0.5.3/html_multipage/lib/module-web.database.html)  
-  
-Randy Zwitch: Creating a MapD ODBC Connection in RStudio Server [http://randyzwitch.com/mapd-odbc-rstudio-server/](http://randyzwitch.com/mapd-odbc-rstudio-server/)  
   
   
   
