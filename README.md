@@ -11,6 +11,7 @@ A curated list of links to programming solutions and languages.
 - [control](control/control.md)
 - [design](concepts/design.md)
 - [dev_concepts](concepts/dev_concepts.md)
+- [pattern types](./patterns.md)
 - [serve](serve/serve.md)
 - [virtualization](virtualization/virtualization.md)
 
