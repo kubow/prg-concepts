@@ -40,6 +40,8 @@ Fiddles
 
 ## D3
 
+[D3 is not a Data Visualization Library | by Elijah Meeks | Medium](https://medium.com/@Elijah_Meeks/d3-is-not-a-data-visualization-library-67ba549e8520)
+
 [Using React with D3.js](https://2019.wattenberger.com/blog/react-and-d3)
 
 [D3 Circular Bar Chart Tutorial](https://yangdanny97.github.io/blog/2023/08/06/circular-bar-chart)

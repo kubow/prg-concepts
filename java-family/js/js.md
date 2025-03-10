@@ -12,6 +12,7 @@ https://en.wikipedia.org/wiki/JavaScript
 	- Backbone.js ([wiki](https://en.wikipedia.org/wiki/Backbone.js))
 	- Cordova
 	- [Ember.js](./js-ember.md)
+	- [Hono - Web framework built on Web Standards](https://hono.dev/)
 	- [jQuery](js-jquery)
 	- NativeScript
 	- [React.js](js-react.md)
@@ -30,12 +31,14 @@ https://en.wikipedia.org/wiki/JavaScript
 	- [Charting libraries](js_imp-chart.md)
 	- [Gaming](js_imp-game.md)
 	- [Presentation libraries](js_imp-present.md)
+	- [sciter – Multiplatform HTML/CSS/JavaScript UI Engine for Desktop and Mobile Application](https://sciter.com/)
 
 
 [New User Tutorial](http://www.w3schools.com/js/default.asp) - W3Schools' guide for new js users.  
 [Beginning Javascript](http://www.tizag.com/javascriptT/javascriptsyntax.php) - Tigzag's js introduction.  
 [Javascript Tutorials](http://forum.codecall.net/forum/157-jvscript-tutorials/page__sort_key__views__sort_by__Z-A) - CodeCall's js tutorials
 [Javascript Snow Tutorial](http://forum.codecall.net/topic/36144-javascriptcode-snow/) - Create a snow effect on your webpage  
+[Eloquent JavaScript](https://eloquentjavascript.net/)
   
 Javascript code quality Tool [http://www.jslint.com/](http://www.jslint.com/)  
 Javascript frontends [https://frontendmasters.com/](https://frontendmasters.com/)  
