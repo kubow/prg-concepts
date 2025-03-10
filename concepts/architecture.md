@@ -34,13 +34,18 @@ Effective Diagram checklist
 - Includes key
 
 
-
 [Architecture Decision Record (ADR) | Communication Patterns](https://learning.oreilly.com/library/view/communication-patterns/9781098140533/ch12.html#do-adrs)
 [Architecture Characteristics | Communication Patterns](https://learning.oreilly.com/library/view/communication-patterns/9781098140533/ch12.html#do-archchar)
 
 [Resources | Developer to Architect | Mark Richards](https://developertoarchitect.com/resources.html)
 
 [Siliconned - Emmanuel Maggiori](https://emaggiori.com/siliconned/)
+[Learn System Design concepts and prepare for interviews using free resources.](https://blog.algomaster.io/p/top-5-caching-strategies-explained)
+
+## Awesome architecture overview
+
+[Awesome Software Architecture](https://awesome-architecture.com/)
+[mehdihadeli/awesome-software-architecture: 📚 A curated list of awesome articles, videos, and other resources to learn and practice software architecture, patterns, and principles.](https://github.com/mehdihadeli/awesome-software-architecture/tree/main)
 
 ## Architectural Katas
 
