@@ -2,7 +2,10 @@
 - [built-in python](#build-in-python)
 - Dash
 - [Django](#django)
+- [Eel: A little Python library for making simple Electron-like HTML/JS GUI apps](https://github.com/python-eel/Eel/tree/main)
+- [Flet: Build multi-platform apps in Python powered by Flutter](https://flet.dev/)
 - [Jupyter](python-jupyter.md)
+- [Neutron web: Create cross-platform apps in Python using HTML and CSS](https://github.com/IanTerzo/Neutron?utm_source=chatgpt.com)
 - FastAPI
 - [Flask](python-flask.md)
 - Pyramid
