@@ -7,6 +7,18 @@ Donald Knuth says… An algorithm:
 - Has output 
 - Must be effective
 
+[Algorithms and Data Structures Interview - Deckly](https://deckly.dev/)
+[Overview | HackerEarth](https://www.hackerearth.com/practice/algorithms/)
+
+[Practice](https://neetcode.io/practice)
+[Big-O complexities of common algorithms used in .NET and Computer Science.](https://github.com/RehanSaeed/.NET-Big-O-Algorithm-Complexity-Cheat-Sheet)
+
+## Algorithm types
+
+- [Searching Algorithms](./algorithm/search.md) (Binary Search)
+- [Sorting Algorithms](./algorithm/sort.md) (Quick Sort, merge Sort, ...)
+- [Graph Algorithms](./algorithm/graph.md)
+
 Complexity explained with Big O Notation:
 - O(1) - constant time  (access an array element by index)
 - O(*n*) - proportional time to input (linear search, simple loop)
@@ -16,9 +28,6 @@ Complexity explained with Big O Notation:
 - O(2^*n*) - exponential time (naive Knapsack, some recursive algorithms)
 - O(n!) - grows extremely fast (brute force combinatoric problems)
 
-
-[Overview | HackerEarth](https://www.hackerearth.com/practice/algorithms/)
-
 ## Algorithm concepts
 
 - Divide and Conquer (principle of problem decomposition and recursive problem solving)
@@ -27,16 +36,6 @@ Complexity explained with Big O Notation:
 	- Depth-First Search (DFS)
 	- Breadth-First Search (BFS)
 	- Dijkstra's Algorithm (optimal path finding)
-
-## Algorithm types
-
-- [Searching Algorithms](./algorithm/search.md) (Binary Search)
-- [Sorting Algorithms](./algorithm/sort.md) (Quick Sort, merge Sort, ...)
-- [Graph Algorithms](./algorithm/graph.md)
-
-
-
-
 
 ## Recursion
 
