@@ -19,6 +19,7 @@
 - **[VScode](https://code.visualstudio.com/docs/languages/python)** (Cross-platform; Free; Open-Source)
 	- [python in vscode](https://blogs.msdn.microsoft.com/pythonengineering/2018/10/09/python-in-visual-studio-code-september-2018-release/)
 - [Wing IDE](http://www.wingware.com/) (Cross-platform; Non-free; Closed-source)
+- [Zed](https://zed.dev/docs/languages/python) (Cross-platform; Free; Open-source)
 
 # Debuggers
 

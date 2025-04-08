@@ -15,7 +15,6 @@
 
 [What is the best project structure for a Python application? - Stack Overflow](https://stackoverflow.com/questions/193161/what-is-the-best-project-structure-for-a-python-application)
 
-
 ### Books- guides:
 
 - [The official beginners' guide](http://wiki.python.org/moin/BeginnersGuide), from Python.org
@@ -25,7 +24,7 @@
 - [The Best Python Books – Real Python](https://realpython.com/best-python-books/)
 - Cookbook [http://code.activestate.com/recipes/langs/python/](http://code.activestate.com/recipes/langs/python/)
 
-## python online
+## Python online
 
 [Online python debugger](https://www.onlinegdb.com/online_python_debugger)  
 [Python Anywhere project](https://www.pythonanywhere.com/)  
