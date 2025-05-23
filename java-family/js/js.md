@@ -15,6 +15,7 @@ https://en.wikipedia.org/wiki/JavaScript
 	- [Hono - Web framework built on Web Standards](https://hono.dev/)
 	- [jQuery](js-jquery)
 	- NativeScript
+	- [Neutralino](./js-neutralino.md)
 	- [React.js](js-react.md)
 	- React Native
 	- [SAP OpenUI5](js-openui5.md)
