@@ -2,7 +2,7 @@
   - [bash](bash.md) (Bourne Against SHell)
   - [csh](csh.md) (Corn SHell)
   - [sh](sh.md) (SHell)
-  - [zsh](zsh.md)
+  - [zsh](zsh.md) (ZSHell)
 - Windows based
   - [batch](batch.md)
   - [powershell](powershell.md)
