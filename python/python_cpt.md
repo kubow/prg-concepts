@@ -1,13 +1,13 @@
 Data concepts used:  
   
-- [Basic variables (and operators)](python_cpt-abc.md)
+- [Basic variables (objects and operators)](python_cpt-abc.md)
+	- [Variables and objects in Python - Python Morsels](https://www.pythonmorsels.com/pointers/#assignments-point-variables-to-objects)
 - Complex variables
 	- [List & Tuples](python_cpt-abc_arr.md)
 	- [Dictionaries & Sets](python_cpt-abc_dic.md)
-	- 
 - [Conditions](python_cpt-conds.md)
 - [Loops](python_cpt-loops.md)
-- [Functions](python_cpt-funct.md)
+- [Functions/Methods](python_cpt-methods.md)
 - [Classes](python_cpt-class.md)
 - [Exceptions](python_cpt-except.md)
 - [Testing](python_cpt-tests.md)
