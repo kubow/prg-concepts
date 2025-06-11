@@ -4,6 +4,7 @@
 - [GitHub Actions](https://github.com/actions)
 - [Events that trigger workflows - GitHub Docs](https://docs.github.com/en/actions/writing-workflows/choosing-when-your-workflow-runs/events-that-trigger-workflows)
 - [Metadata syntax for GitHub Actions - GitHub Docs](https://docs.github.com/en/actions/sharing-automations/creating-actions/metadata-syntax-for-github-actions#main-content)
+- [Using secrets in GitHub Actions - GitHub Docs](https://docs.github.com/en/actions/security-for-github-actions/security-guides/using-secrets-in-github-actions)
 
 [How to web scrape on Schedule using Github Actions? - Yasoob Khalid](https://yasoob.me/posts/github-actions-web-scraper-schedule-tutorial/)
 
