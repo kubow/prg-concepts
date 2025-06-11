@@ -2,6 +2,7 @@ Data concepts used:
   
 - [Basic variables (objects and operators)](python_cpt-abc.md)
 	- [Variables and objects in Python - Python Morsels](https://www.pythonmorsels.com/pointers/#assignments-point-variables-to-objects)
+	- [ariannedee/python-data-structures](https://github.com/ariannedee/python-data-structures)
 - Complex variables
 	- [List & Tuples](python_cpt-abc_arr.md)
 	- [Dictionaries & Sets](python_cpt-abc_dic.md)

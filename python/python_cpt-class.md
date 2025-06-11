@@ -22,6 +22,7 @@ Python OOP (Object Oriented Programming) uses `class` as a blueprint for the obj
 [Python Basics: Building Systems With Classes – Real Python](https://realpython.com/courses/python-basics-class/)
 [Object-Oriented Programming (OOP) in Python 3 – Real Python](https://realpython.com/python3-object-oriented-programming/)
 [Object Oriented Programming in Python](https://stackabuse.com/object-oriented-programming-in-python/)
+[ariannedee/oop-python: Object-Oriented Programming in Python](https://github.com/ariannedee/oop-python)
 
 [Improve Your Python: Python Classes and Object Oriented Programming](https://jeffknupp.com/blog/2014/06/18/improve-your-python-python-classes-and-object-oriented-programming/)
 
