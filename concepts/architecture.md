@@ -47,6 +47,13 @@ Effective Diagram checklist
 [Awesome Software Architecture](https://awesome-architecture.com/)
 [mehdihadeli/awesome-software-architecture: 📚 A curated list of awesome articles, videos, and other resources to learn and practice software architecture, patterns, and principles.](https://github.com/mehdihadeli/awesome-software-architecture/tree/main)
 
+## Domain Driven Design (for Data Architecture)
+
+- Domain Modelling
+- Strategic Town-plan Architecture
+- Evolving Domain Models
+- Evolving Data Mest
+
 ## Architectural Katas
 
 [Architectural Katas | fundamentalsofsoftwarearchitecture.com](http://fundamentalsofsoftwarearchitecture.com/katas/)
