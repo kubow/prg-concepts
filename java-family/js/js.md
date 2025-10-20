@@ -1,13 +1,33 @@
 js-node# JavaScript
 https://en.wikipedia.org/wiki/JavaScript
 
+┌────────────────────────────┐
+│  Design System / UI Kit                                   │  ← styling, theme, base components
+├────────────────────────────┤
+│  UI Framework                                                 │  ← reactivity, rendering model
+├────────────────────────────┤
+│  Meta Framework                                            │  ← routing, SSR/SSG, API endpoints
+├────────────────────────────┤
+│  Runtime Environment                                   │  ← Node, Deno, Browser, Edge
+├────────────────────────────┤
+│  Build Toolchain                                               │  ← Vite, Webpack, esbuild
+├────────────────────────────┤
+│  Deployment Platform                                    │  ← Vercel, Cloudflare, AWS
+├────────────────────────────┤
+│  Data & API Layer                                            │  ← REST, GraphQL, databases
+└────────────────────────────┘
+           ↓
+    CI/CD, Monitoring, Analytics, Auth
+
+
 - [Programming concepts](js_cpt.md)
 - Engines / runtime environments
+	- [Bun](https://bun.com/) (A fast all-in-one JavaScript runtime)
 	- Deno ([wiki](https://en.wikipedia.org/wiki/Deno_(software)))
 	- [Node.js](js-node)
 - Web frameworks ([comparison](https://en.wikipedia.org/wiki/Comparison_of_JavaScript-based_web_frameworks))
-	- [Angular](js-angular.md)
-	- Appcelerator
+	- Alpine.js
+	- [Angular.js](js-angular.md)
 	- Apache Wicket ([wiki](https://en.wikipedia.org/wiki/Apache_Wicket))
 	- Backbone.js ([wiki](https://en.wikipedia.org/wiki/Backbone.js))
 	- Cordova
@@ -16,14 +36,20 @@ https://en.wikipedia.org/wiki/JavaScript
 	- [jQuery](js-jquery)
 	- NativeScript
 	- [Neutralino](./js-neutralino.md)
+	- [Next.js](./js-next.md)
 	- [React.js](js-react.md)
 	- React Native
 	- [SAP OpenUI5](js-openui5.md)
 	- Sencha ([wiki](https://en.wikipedia.org/wiki/Ext_JS))
+	- Solid.js
 	- [Svelte.js](js-svelte.md)
 	- [Vue.js](js-vue.md)
+- [Component Systems](./js-component-systems.md) (for general usage across frameworks)
 - JS Frontend Tooling
+	- esbuild
 	- [Rollup](js_edt-rollup.md)
+	- SWC
+	- Turbopack
 	- [Vite](js_edt-vite.md)
 	- [Webpack](js_edt-webpack.md)
 - JS Libraries for specific tasks
