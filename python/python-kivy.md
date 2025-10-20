@@ -16,7 +16,7 @@ Project structure:
 - [Variables in Kv language (kivy) - Stack Overflow](https://stackoverflow.com/questions/28255695/variables-in-kv-language-kivy)
 
 [Widgets — Kivy documentation](https://kivy.org/doc/stable/api-kivy.uix.html)
-- 
+- [Garden — Kivy 2.3.1 documentation](https://kivy.org/doc/stable/api-kivy.garden.html)
 
 Specific projects:
 - [python - Kivy: How to identify text lines on RST document - Stack Overflow](https://stackoverflow.com/questions/37606522/kivy-how-to-identify-text-lines-on-rst-document)
