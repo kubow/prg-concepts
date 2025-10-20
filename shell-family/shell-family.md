@@ -8,6 +8,8 @@
   - [powershell](powershell.md)
   - [vb](vb.md)
 
+[Series: Unix as IDE « Arabesque](https://blog.sanctum.geek.nz/series/unix-as-ide/)
+
 ## Line endings problem
 
 [Line endings problem between Windows and Linux](https://superuser.com/questions/1109665/windows-10-ubuntu-bash-aliases-not-working-command-not-found)
