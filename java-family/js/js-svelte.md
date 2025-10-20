@@ -1,12 +1,14 @@
 # Svelte.js
 
-
 - Genral concepts
 	- [Store](js-svelte-store.md)
 	- [Transition](js-svelte-transition.md)
 - Using svelte with native compilers
 	- [SvelteKit](js-svelte-kit.md)
 	- [Sapper](js-svelte-sapper.md)
+- O'Reilly Courses
+	- [Svelte.js - The Complete Guide \[Video\]](https://www.oreilly.com/videos/svelte-js-the/9781838988937/)
+	- [Master Svelte 5 & SvelteKit](https://www.oreilly.com/videos/master-svelte-5/9781837025190/9781837025190-video1_1/)
 
 ### Introduction 
 
@@ -33,8 +35,6 @@
 
 Pipeable counter [https://svelte.dev/repl/df4cbb0aaac44b769a3cbeed0cb0af59?version=3.9.1](https://svelte.dev/repl/df4cbb0aaac44b769a3cbeed0cb0af59?version=3.9.1)
 
-
-
 ## Practical
 
 [Compile Svelte in your head (Part 1) | Tan Li Hau](https://lihautan.com/compile-svelte-in-your-head-part-1/)
@@ -53,9 +53,6 @@ React and Svelte differences [https://medium.com/javascript-in-plain-english/i-c
   
 Svelte vstudio addon [https://marketplace.visualstudio.com/items?itemName=JamesBirtles.svelte-vscode](https://marketplace.visualstudio.com/items?itemName=JamesBirtles.svelte-vscode)  
   
-### Special effects
-
-[javascript - How to debounce / throttle with Svelte? - Stack Overflow](https://stackoverflow.com/questions/46104897/how-to-debounce-throttle-with-svelte)
 
 
 
