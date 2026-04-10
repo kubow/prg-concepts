@@ -18,9 +18,9 @@ Data concepts used:
 - [Compiling](#compiling)
   
 [Assemblers, Compilers and Interpreters](https://pybit.es/python-interpreters.html)  
-[Python switch case](https://bytebaker.com/2008/11/03/switch-case-statement-in-python/)  
+
 [S.Lott-Software Architect: A Python Roadmap (slott-softwarearchitect.blogspot.com)](https://slott-softwarearchitect.blogspot.com/2021/07/a-python-roadmap.html)  
-  
+[Python Tutor - Python Online Compiler with Visual AI Help](https://pythontutor.com/)
 
 ## Pythonic rules
 
@@ -51,6 +51,23 @@ what is a __name__ [https://stackoverflow.com/questions/419163/what-does-if-name
 get filename of **__main__module**
 [https://stackoverflow.com/questions/606561/how-to-get-filename-of-the-main-module-in-python](https://stackoverflow.com/questions/606561/how-to-get-filename-of-the-main-module-in-python)
 
+```python
+# 1. Swap two numbers
+a, b = b, a
+
+# 2. Evaluate a single expression (square of a number)
+sqx = lambda x: x * x
+
+# 3. Input space-separated integers into a list
+lis = list(map(int, input().split()))
+
+# 4. List comprehension to get even numbers
+evenNumbers = [x for x in range(11) if x % 2 == 0]
+
+# 5. Read a file and store each line in a list
+lis = [line.strip() for line in open('gfg.txt', 'r')]
+```
+
 
 
 CLS in python window [http://stackoverflow.com/questions/517970/how-to-clear-python-interpreter-console](http://stackoverflow.com/questions/517970/how-to-clear-python-interpreter-console)
@@ -72,7 +89,7 @@ Caktus Consulting Group: My New Year’s Resolution: Work Less to Code Better [h
 Bhishan Bhandari: Idiomatic Python – Writing better Python [http://feedproxy.google.com/~r/TheTaraNights/~3/-esgEcMAD4M/](http://feedproxy.google.com/~r/TheTaraNights/~3/-esgEcMAD4M/)  
   
 ActiveState Python Learn [http://code.activestate.com/](http://code.activestate.com/)  
-Python Ebooks Collection [https://olimex.wordpress.com/2014/06/12/collection-of-51-free-e-books-for-python-programming/](https://olimex.wordpress.com/2014/06/12/collection-of-51-free-e-books-for-python-programming/)  
+
 Non-programmers tutorial to Python 2.6 [https://en.wikibooks.org/wiki/Non-Programmer%27s_Tutorial_for_Python_2.6/Revenge_of_the_Strings](https://en.wikibooks.org/wiki/Non-Programmer%27s_Tutorial_for_Python_2.6/Revenge_of_the_Strings)  
 Non-programmers tutorial to Python 3 [http://en.wikibooks.org/wiki/Non-Programmer%27s_Tutorial_for_Python_3](http://en.wikibooks.org/wiki/Non-Programmer%27s_Tutorial_for_Python_3)  
 Stop Using Python 2: What You Need to Know About Python 3 [https://hackaday.com/2018/08/15/stop-using-python-2-what-you-need-to-know-about-python-3/](https://hackaday.com/2018/08/15/stop-using-python-2-what-you-need-to-know-about-python-3/)  

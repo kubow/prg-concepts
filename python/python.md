@@ -23,6 +23,7 @@
 - [Learn Python the Hard Way](https://learnpythonthehardway.org/book/)
 - [The Best Python Books – Real Python](https://realpython.com/best-python-books/)
 - Cookbook [http://code.activestate.com/recipes/langs/python/](http://code.activestate.com/recipes/langs/python/)
+- [Collection of 51 free e-books for Python programming | olimex](https://olimex.wordpress.com/2014/06/12/collection-of-51-free-e-books-for-python-programming/)
 
 ## Python online
 

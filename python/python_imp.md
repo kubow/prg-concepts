@@ -18,7 +18,7 @@
 	- goespatial data
 	- data sets
 	- image objects
-- - [Libraries for Displaying content](python_imp-disp.md)
+- [Libraries for Displaying content](python_imp-disp.md)
 - [Libraries for Network communication](python_imp-ntw.md)
 - [Frameworks](python_imp-frw.md)
 

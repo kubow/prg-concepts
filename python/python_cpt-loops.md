@@ -1,5 +1,8 @@
 [Comparing for vs while loop in Python - Python Pool](https://www.pythonpool.com/for-vs-while-loop-python/?utm_source=rss&utm_medium=rss&utm_campaign=for-vs-while-loop-python)
 
+[Python switch case](https://bytebaker.com/2008/11/03/switch-case-statement-in-python/)  
+
+
 Real Python: Python "while" Loops (Indefinite Iteration) [https://realpython.com/python-while-loop/](https://realpython.com/python-while-loop/)
 
   

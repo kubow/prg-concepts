@@ -1,5 +1,4 @@
-Variables in python are not subject of type restriction.  
-There are some "basic types"
+Variables in python are not subject of type restriction. These are "basic types":
 
 - [Strings](#strings)
 - [Numbers](#numbers)
@@ -15,7 +14,7 @@ Mike Driscoll: Python 3 – Assignment Expressions [http://www.blog.pythonlibrar
 
   
 
-## String
+## Strings
 
 https://realpython.com/python-data-types/#strings
 
