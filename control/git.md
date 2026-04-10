@@ -1,6 +1,7 @@
 Git versioning system services
 
 - [Codeberg](./codeberg.md)
+- [Gitea](./gitea.md)
 - [GitHub](./github.md)
 - [BitBucket](./bitbucket.md)
 
