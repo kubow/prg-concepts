@@ -2,7 +2,20 @@
 
 A curated list of links to programming solutions and languages.
 
-[breck7/pldb: PLDB: a Programming Language Database. A computable encyclopedia about programming languages.](https://github.com/breck7/pldb)
+## Canonical references
+
+- [MDN Web Docs](https://developer.mozilla.org/en-US/)
+- [Python documentation](https://docs.python.org/3/)
+- [dev.java](https://dev.java/)
+- [PHP manual](https://www.php.net/manual/en/)
+- [Rust documentation](https://www.rust-lang.org/learn)
+- [Git Book](https://git-scm.com/book/en/v2)
+- [Obsidian supported languages](https://prismjs.com/#supported-languages)
+
+## Curated indexes
+
+- [PLDB: Programming Language Database](https://github.com/breck7/pldb)
+- [Frontend Encyclopedia](https://github.com/paradite/frontend-encyclopedia)
 
 ## General concepts
 
@@ -14,12 +27,6 @@ A curated list of links to programming solutions and languages.
 - [pattern types](concepts/patterns.md)
 - [serve](serve/serve.md)
 - [virtualization](virtualization/virtualization.md)
-
-[Obsidian supported languages](https://prismjs.com/#supported-languages)
-
-[Silly Mistakes to Avoid while Coding | Codementor](https://www.codementor.io/@nimeshneema/silly-mistakes-to-avoid-while-coding-21skyd4obx)
-[A Guide to Cross Platform App Development Frameworks in 2024](https://www.netsolutions.com/insights/cross-platform-app-frameworks-in-2019/)
-[paradite/frontend-encyclopedia: Frontend Encyclopedia](https://github.com/paradite/frontend-encyclopedia)
 
 # Programming languages
 
