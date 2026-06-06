@@ -1,0 +1,28 @@
+java-family/js/js_cpt-jsx.md
+  s_a449467a68eab0::t_82a163f0337625 29
+java-family/js/js-react_cpt-ecosystem.md
+  s_a449467a68eab0::t_82a163f0337625 7
+java-family/js/js.md
+  s_a449467a68eab0::t_82a163f0337625 27,36,116
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.3",
+  "base_commit_sha": "9704cd5b279ed0ef3a0f0502661e4f8bdd877402",
+  "prompts": {},
+  "humans": {
+    "h_0907ec034f4a17": {
+      "author": "kubow <kube.kubow@gmail.com>"
+    }
+  },
+  "sessions": {
+    "s_a449467a68eab0": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019e9e21-8ccc-7a70-8c8c-17f02566ca2b",
+        "model": "gpt-5.5"
+      },
+      "human_author": "kubow <kube.kubow@gmail.com>"
+    }
+  }
+}
