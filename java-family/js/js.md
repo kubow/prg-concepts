@@ -24,7 +24,7 @@ https://en.wikipedia.org/wiki/JavaScript
 - Engines / runtime environments
 	- [Bun](https://bun.com/) (A fast all-in-one JavaScript runtime)
 	- Deno ([wiki](https://en.wikipedia.org/wiki/Deno_(software)))
-	- [Node.js](js-node)
+	- [Node.js](js-node.md)
 - Web frameworks ([comparison](https://en.wikipedia.org/wiki/Comparison_of_JavaScript-based_web_frameworks))
 	- Alpine.js
 	- [Angular.js](js-angular.md)
@@ -33,7 +33,7 @@ https://en.wikipedia.org/wiki/JavaScript
 	- Cordova
 	- [Ember.js](./js-ember.md)
 	- [Hono - Web framework built on Web Standards](https://hono.dev/)
-	- [jQuery](js-jquery)
+	- [jQuery](js-jquery.md)
 	- NativeScript
 	- [Neutralino](./js-neutralino.md)
 	- [Next.js](./js-next.md)

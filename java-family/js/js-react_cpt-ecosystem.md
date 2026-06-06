@@ -4,7 +4,7 @@
 - [ES6](js_cpt-es.md), next is ES7
 - [JSX](js_cpt-jsx.md)
 - **Webpack** - bundling tool
-- **[Babel](babel.md)** - transpiling tool, translates JSX and ES6 to normal JS
+- **[Babel](../../transpilers/babel.md)** - transpiling tool, translates JSX and ES6 to normal JS
 - **ESLint** - code convention checking tool
 - React Router v4
 - **[Redux](js-redux.md)** - state management

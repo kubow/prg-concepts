@@ -26,7 +26,7 @@ const element = (
 );
 ```
 
-[Babel](babel.md) compiles JSX down to React.createElement() calls:
+[Babel](../../transpilers/babel.md) compiles JSX down to React.createElement() calls:
 
 ```javascript
 const element = React.createElement(
@@ -36,4 +36,3 @@ const element = React.createElement(
 );
 ```
   
-
