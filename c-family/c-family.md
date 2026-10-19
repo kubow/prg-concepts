@@ -1,6 +1,6 @@
 
 - [C](#c)
-- [C++](#c++)
+- [C++](#c_1)
 - [Arduino](#arduino)
 - [D](d.md)
 - [iOS](ios.md)

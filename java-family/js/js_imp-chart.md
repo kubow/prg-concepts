@@ -7,7 +7,7 @@
 - [Dygraph](#dygraph)
 - [Highcharts](#highcharts)
 - [Charting](http://mannaio.altervista.org/design/interactive-javascript-charts/)
-- [Chart.js](#chart.js)
+- [Chart.js](#chartjs)
 - [Flotr](https://www.script-tutorials.com/html5-charts-and-graphs/)
 - [Perspective | Perspective](https://perspective.finos.org/)
 - [JavaScript Charts in one powerful declarative library | ZingChart](https://www.zingchart.com/)

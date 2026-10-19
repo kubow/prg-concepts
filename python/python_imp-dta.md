@@ -1,6 +1,6 @@
 # Data set manipulation and view in python
 
-- [Orchestrate Operating System](#Operating System.md)
+- [Orchestrate Operating System](#operating-system)
 - Data formats
 	- [Binary](python_imp-dta-bins.md)
 	- [Flat files](python_imp-dta-flats.md)
@@ -10,15 +10,15 @@
 	- [NumPy](./python-numpy.md)
 	- [Pandas](./python-pandas.md)
 	- [Polars](./python-polars.md)
-	- [SciKit learn](#scikit-learn.md) - comprehensive package
+	- [SciKit learn](#scikit-learn) - comprehensive package
 	- [SciPy](./python-scipy.md) - algorithms for scientific computing
-	- [PyODBC](#PYODBC.md) - reusing windows native ODBC interface
-	- [SQL Alchemy](#SQLAlchemy.md)
+	- [PyODBC](#pyodbc) - reusing windows native ODBC interface
+	- [SQL Alchemy](#sqlalchemy)
 - Data visualization libraries
 	- [MatPlotLib](./python-matplotlib.md)
 	- [Plotly](python-plotly.md)
 	- [PyDyGraphs: a dygraphs plotting module for IPython Notebooks](http://blog.dygraphs.com/2014/09/pydygraphs-dygraphs-plotting-module-for.html)
-	- [PyPlot](#pyplot.md)
+	- [PyPlot](#pyplot)
 	- [SeaBorn](./python-seaborn.md) - statistical data visualization
 	- [Vega](#vega)
 

@@ -2,7 +2,7 @@
 # Virtualization systems
 
 - [hyperv](hyperv.md)
-- [oVirt](#ovirt--rhev)
+- [oVirt](#ovirt-rhev)
 - [Proxmox - Powerful open-source server solutions](https://www.proxmox.com/en/)
 - [virtualbox](virtualbox.md)
 - [vmware](vmware.md)
